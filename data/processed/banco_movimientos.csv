@@ -1,0 +1,31 @@
+fecha,descripcion,tipo,monto
+2025-01-05,Depósito Cliente A,Ingreso,850
+2025-01-08,Pago Internet,Gasto,-65
+2025-01-12,Pago Software,Gasto,-120
+2025-01-20,Depósito Cliente B,Ingreso,1200
+2025-01-25,Pago Alquiler,Gasto,-450
+2025-02-03,Depósito Cliente A,Ingreso,850
+2025-02-10,Pago Internet,Gasto,-65
+2025-02-12,Pago Software,Gasto,-120
+2025-02-18,Depósito Cliente C,Ingreso,650
+2025-02-25,Pago Alquiler,Gasto,-450
+2025-03-02,Depósito Cliente A,Ingreso,850
+2025-03-05,Pago Internet,Gasto,-65
+2025-03-12,Pago Software,Gasto,-120
+2025-03-14,Depósito Cliente B,Ingreso,400
+2025-03-25,Pago Alquiler,Gasto,-450
+2025-04-04,Depósito Cliente D,Ingreso,1800
+2025-04-10,Pago Internet,Gasto,-65
+2025-04-12,Pago Software,Gasto,-120
+2025-04-21,Depósito Cliente A,Ingreso,850
+2025-04-25,Pago Alquiler,Gasto,-450
+2025-05-06,Depósito Cliente C,Ingreso,650
+2025-05-10,Pago Internet,Gasto,-65
+2025-05-12,Pago Software,Gasto,-120
+2025-05-22,Depósito Cliente B,Ingreso,900
+2025-05-25,Pago Alquiler,Gasto,-450
+2025-06-03,Depósito Cliente A,Ingreso,850
+2025-06-10,Pago Internet,Gasto,-65
+2025-06-12,Pago Software,Gasto,-120
+2025-06-19,Depósito Cliente E,Ingreso,700
+2025-06-25,Pago Alquiler,Gasto,-450

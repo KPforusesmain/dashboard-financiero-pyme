@@ -1,0 +1,13 @@
+fecha,cliente,producto,categoria,monto
+2025-01-05,Cliente A,Servicio Mensual,Ingresos,850
+2025-01-20,Cliente B,Proyecto,Ingresos,1200
+2025-02-03,Cliente A,Servicio Mensual,Ingresos,850
+2025-02-18,Cliente C,Servicio Mensual,Ingresos,650
+2025-03-02,Cliente A,Servicio Mensual,Ingresos,850
+2025-03-14,Cliente B,Soporte,Ingresos,400
+2025-04-04,Cliente D,Proyecto,Ingresos,1800
+2025-04-21,Cliente A,Servicio Mensual,Ingresos,850
+2025-05-06,Cliente C,Servicio Mensual,Ingresos,650
+2025-05-22,Cliente B,Proyecto,Ingresos,900
+2025-06-03,Cliente A,Servicio Mensual,Ingresos,850
+2025-06-19,Cliente E,Servicio Mensual,Ingresos,700

@@ -1,0 +1,31 @@
+fecha,tipo,origen,entidad,categoria,detalle,monto,categoria_id,entidad_id
+2025-01-05,Ingreso,Ventas,Cliente A,Ingresos,Servicio Mensual,850,4,1
+2025-01-20,Ingreso,Ventas,Cliente B,Ingresos,Proyecto,1200,4,2
+2025-02-03,Ingreso,Ventas,Cliente A,Ingresos,Servicio Mensual,850,4,1
+2025-02-18,Ingreso,Ventas,Cliente C,Ingresos,Servicio Mensual,650,4,3
+2025-03-02,Ingreso,Ventas,Cliente A,Ingresos,Servicio Mensual,850,4,1
+2025-03-14,Ingreso,Ventas,Cliente B,Ingresos,Soporte,400,4,2
+2025-04-04,Ingreso,Ventas,Cliente D,Ingresos,Proyecto,1800,4,4
+2025-04-21,Ingreso,Ventas,Cliente A,Ingresos,Servicio Mensual,850,4,1
+2025-05-06,Ingreso,Ventas,Cliente C,Ingresos,Servicio Mensual,650,4,3
+2025-05-22,Ingreso,Ventas,Cliente B,Ingresos,Proyecto,900,4,2
+2025-06-03,Ingreso,Ventas,Cliente A,Ingresos,Servicio Mensual,850,4,1
+2025-06-19,Ingreso,Ventas,Cliente E,Ingresos,Servicio Mensual,700,4,5
+2025-01-08,Gasto,Gastos,Proveedor Internet,Servicios,Internet,65,2,6
+2025-01-12,Gasto,Gastos,Proveedor Software,Software,Suscripción SaaS,120,3,8
+2025-01-25,Gasto,Gastos,Proveedor Renta,Alquiler,Alquiler,450,1,7
+2025-02-10,Gasto,Gastos,Proveedor Internet,Servicios,Internet,65,2,6
+2025-02-12,Gasto,Gastos,Proveedor Software,Software,Suscripción SaaS,120,3,8
+2025-02-25,Gasto,Gastos,Proveedor Renta,Alquiler,Alquiler,450,1,7
+2025-03-05,Gasto,Gastos,Proveedor Internet,Servicios,Internet,65,2,6
+2025-03-12,Gasto,Gastos,Proveedor Software,Software,Suscripción SaaS,120,3,8
+2025-03-25,Gasto,Gastos,Proveedor Renta,Alquiler,Alquiler,450,1,7
+2025-04-10,Gasto,Gastos,Proveedor Internet,Servicios,Internet,65,2,6
+2025-04-12,Gasto,Gastos,Proveedor Software,Software,Suscripción SaaS,120,3,8
+2025-04-25,Gasto,Gastos,Proveedor Renta,Alquiler,Alquiler,450,1,7
+2025-05-10,Gasto,Gastos,Proveedor Internet,Servicios,Internet,65,2,6
+2025-05-12,Gasto,Gastos,Proveedor Software,Software,Suscripción SaaS,120,3,8
+2025-05-25,Gasto,Gastos,Proveedor Renta,Alquiler,Alquiler,450,1,7
+2025-06-10,Gasto,Gastos,Proveedor Internet,Servicios,Internet,65,2,6
+2025-06-12,Gasto,Gastos,Proveedor Software,Software,Suscripción SaaS,120,3,8
+2025-06-25,Gasto,Gastos,Proveedor Renta,Alquiler,Alquiler,450,1,7

@@ -1,0 +1,5 @@
+tipo,categoria,categoria_id
+Gasto,Alquiler,1
+Gasto,Servicios,2
+Gasto,Software,3
+Ingreso,Ingresos,4
