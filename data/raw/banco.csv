@@ -1,446 +1,446 @@
 move_id,fecha,descripcion,tipo,moneda,monto
-B-9145,2025-01-04,Pago ICE Telecom (G-5001),Gasto,CRC,-68.31
-B-9002,2025-01-05,Depósito Alfa Comercial (F-1001),Ingreso,CRC,527.69
-B-9000,2025-01-05,Depósito Hotel Brisa (F-1003),Ingreso,CRC,608.29
-B-9001,2025-01-05,Depósito Beta Services (F-1007),Ingreso,CRC,592.88
-B-9003,2025-01-07,Depósito Café Central (F-1005),Ingreso,CRC,409.22
-B-9150,2025-01-08,Pago Microsoft 365 (G-5004),Gasto,CRC,-66.63
-B-9152,2025-01-08,Pago Microsoft 365 (G-5015),Gasto,CRC,-137.18
-B-9146,2025-01-09,Pago Seguros PYME (G-5005),Gasto,CRC,-70.32
-B-9153,2025-01-09,Pago Proveedor Hosting (G-5014),Gasto,CRC,-131.55
-B-9148,2025-01-09,Pago Proveedor Renta (G-5000),Gasto,CRC,-463.71
-B-9147,2025-01-10,Pago Proveedor Electricidad (G-5002),Gasto,CRC,-62.12
-B-9004,2025-01-10,Depósito Luna Boutique (F-1006),Ingreso,CRC,547.21
-B-9005,2025-01-11,Depósito Innova Studio (F-1002),Ingreso,CRC,210.33
-B-9154,2025-01-12,Pago Papelería Centro (G-5020),Gasto,CRC,-189.73
-B-9151,2025-01-12,Pago Contador Externo (G-5006),Gasto,CRC,-183.37
-B-9149,2025-01-12,Pago Google Workspace (G-5003),Gasto,CRC,-57.88
-B-9155,2025-01-13,Pago Google Workspace (G-5017),Gasto,CRC,-92.58
-B-9157,2025-01-16,Pago Ferretería San José (G-5008),Gasto,CRC,-234.35
-B-9158,2025-01-16,Pago Seguros PYME (G-5011),Gasto,CRC,-218.97
-B-9156,2025-01-18,Pago ICE Telecom (G-5022),Gasto,CRC,-201.48
-B-9159,2025-01-18,Pago Seguros PYME (G-5012),Gasto,CRC,-22.39
-B-9160,2025-01-19,Pago ICE Telecom (G-5016),Gasto,CRC,-219.28
-B-9161,2025-01-19,Pago Microsoft 365 (G-5021),Gasto,CRC,-51.59
-B-9006,2025-01-20,Depósito Luna Boutique (F-1009),Ingreso,CRC,1586.76
-B-9007,2025-01-22,Depósito Delta Logistics (F-1008),Ingreso,CRC,495.44
-B-9162,2025-01-22,Pago Proveedor Agua (G-5007),Gasto,CRC,-7.37
-B-9164,2025-01-25,Pago Contador Externo (G-5019),Gasto,CRC,-20.54
-B-9433,2025-01-25,Comisión bancaria mensual,Gasto,CRC,-6.23
-B-9163,2025-01-26,Pago Proveedor Renta (G-5010),Gasto,CRC,-127.27
-B-9166,2025-01-26,Pago Google Workspace (G-5018),Gasto,CRC,-216.52
-B-9165,2025-01-28,Pago Seguros PYME (G-5013),Gasto,CRC,-200.59
-B-9008,2025-01-30,Depósito Innova Studio (F-1011),Ingreso,CRC,1606.34
-B-9167,2025-02-01,Pago ICE Telecom (G-5009),Gasto,CRC,-83.06
-B-9009,2025-02-02,Depósito Café Central (F-1017),Ingreso,CRC,676.43
-B-9171,2025-02-04,Pago Google Workspace (G-5026),Gasto,CRC,-39.91
-B-9172,2025-02-05,Pago Agencia Marketing (G-5033),Gasto,CRC,-244.75
-B-9011,2025-02-07,Depósito Delta Logistics (F-1012),Ingreso,CRC,652.99
-B-9169,2025-02-07,Pago Microsoft 365 (G-5027),Gasto,CRC,-43.06
-B-9170,2025-02-07,Pago ICE Telecom (G-5024),Gasto,CRC,-84.84
-B-9168,2025-02-07,Pago Proveedor Electricidad (G-5025),Gasto,CRC,-72.76
-B-9014,2025-02-07,Depósito Luna Boutique (F-1018),Ingreso,CRC,477.27
-B-9176,2025-02-08,Pago Contador Externo (G-5029),Gasto,CRC,-354.31
-B-9010,2025-02-09,Depósito Alfa Comercial (F-1013),Ingreso,CRC,207.68
-B-9015,2025-02-09,Depósito Innova Studio (F-1014),Ingreso,CRC,427.15
-B-9016,2025-02-09,Depósito Hotel Brisa (F-1015),Ingreso,CRC,388.83
-B-9018,2025-02-09,Depósito Hotel Brisa (F-1024),Ingreso,CRC,1868.58
-B-9173,2025-02-10,Pago Proveedor Renta (G-5023),Gasto,CRC,-554.94
-B-9177,2025-02-11,Pago Proveedor Combustible (G-5039),Gasto,CRC,-43.45
-B-9175,2025-02-11,Pago Seguros PYME (G-5028),Gasto,CRC,-56.7
-B-9174,2025-02-11,Pago Servicios Limpieza (G-5038),Gasto,CRC,-228.49
-B-9012,2025-02-11,Depósito Quantum Repair (F-1016),Ingreso,CRC,209.95
-B-9013,2025-02-11,Comisión tarjeta F-1016,Gasto,CRC,-5.49
-B-9017,2025-02-13,Depósito Beta Services (F-1019),Ingreso,CRC,600.82
-B-9179,2025-02-14,Pago Proveedor Hosting (G-5035),Gasto,CRC,-156.48
-B-9182,2025-02-14,Pago Microsoft 365 (G-5037),Gasto,CRC,-199.69
-B-9019,2025-02-16,Depósito Río Verde (F-1026),Ingreso,CRC,543.27
-B-9020,2025-02-16,Comisión tarjeta F-1026,Gasto,CRC,-12.63
-B-9178,2025-02-16,Pago Proveedor Hosting (G-5032),Gasto,CRC,-102.76
-B-9181,2025-02-16,Pago Ferretería San José (G-5031),Gasto,CRC,-59.41
-B-9180,2025-02-17,Pago Banco Comisiones (G-5040),Gasto,CRC,-209.65
-B-9021,2025-02-18,Depósito TropiFood (F-1023),Ingreso,CRC,215.94
-B-9185,2025-02-25,Pago Papelería Centro (G-5036),Gasto,CRC,-71.65
-B-9184,2025-02-26,Pago Ferretería San José (G-5034),Gasto,CRC,-217.89
-B-9434,2025-02-27,Comisión bancaria mensual,Gasto,CRC,-10.88
-B-9183,2025-02-27,Pago Proveedor Transporte (G-5030),Gasto,CRC,-83.2
-B-9187,2025-03-02,Pago Microsoft 365 (G-5045),Gasto,CRC,-59.53
-B-9186,2025-03-02,Pago Proveedor Electricidad (G-5043),Gasto,CRC,-68.3
-B-9022,2025-03-02,Depósito Hotel Brisa (F-1030),Ingreso,CRC,612.35
-B-9026,2025-03-06,Depósito Beta Services (F-1034),Ingreso,CRC,274.96
-B-9189,2025-03-06,Pago Seguros PYME (G-5046),Gasto,CRC,-80.61
-B-9023,2025-03-06,Depósito Quantum Repair (F-1031),Ingreso,CRC,159.62
-B-9025,2025-03-07,Depósito Alfa Comercial (F-1028),Ingreso,CRC,440.56
-B-9024,2025-03-07,Depósito Innova Studio (F-1029),Ingreso,CRC,457.75
-B-9191,2025-03-07,Pago ICE Telecom (G-5042),Gasto,CRC,-105.32
-B-9190,2025-03-07,Pago Contador Externo (G-5047),Gasto,CRC,-294.94
-B-9027,2025-03-09,Depósito Luna Boutique (F-1033),Ingreso,CRC,200.15
-B-9188,2025-03-09,Pago ICE Telecom (G-5063),Gasto,CRC,-97.26
-B-9195,2025-03-10,Pago Proveedor Combustible (G-5065),Gasto,CRC,-189.47
-B-9194,2025-03-10,Pago Seguros PYME (G-5048),Gasto,CRC,-172.61
-B-9198,2025-03-11,Pago AWS/Cloud (G-5055),Gasto,CRC,-117.53
-B-9192,2025-03-11,Pago Google Workspace (G-5044),Gasto,CRC,-58.69
-B-9029,2025-03-11,Depósito Delta Logistics (F-1027),Ingreso,CRC,614.48
-B-9193,2025-03-12,Pago Proveedor Renta (G-5041),Gasto,CRC,-768.26
-B-9196,2025-03-12,Pago Contador Externo (G-5064),Gasto,CRC,-75.16
-B-9028,2025-03-12,Depósito Café Central (F-1032),Ingreso,CRC,541.86
-B-9199,2025-03-14,Pago AWS/Cloud (G-5059),Gasto,CRC,-247.34
-B-9197,2025-03-14,Pago Google Workspace (G-5060),Gasto,CRC,-151.56
-B-9030,2025-03-15,Depósito Grupo Horizonte (F-1036),Ingreso,CRC,2689.87
-B-9200,2025-03-16,Pago AWS/Cloud (G-5057),Gasto,CRC,-57.17
-B-9201,2025-03-16,Pago Proveedor Renta (G-5062),Gasto,CRC,-202.05
-B-9202,2025-03-18,Pago AWS/Cloud (G-5051),Gasto,CRC,-249.03
-B-9203,2025-03-19,Pago Servicios Limpieza (G-5053),Gasto,CRC,-151.79
-B-9031,2025-03-20,Depósito Órbita Media (F-1037),Ingreso,CRC,1278.89
-B-9204,2025-03-21,Pago Proveedor Combustible (G-5054),Gasto,CRC,-158.53
-B-9206,2025-03-22,Pago Microsoft 365 (G-5052),Gasto,CRC,-44.29
-B-9207,2025-03-22,Pago ICE Telecom (G-5049),Gasto,CRC,-22.52
-B-9205,2025-03-23,Pago Proveedor Transporte (G-5066),Gasto,CRC,-153.29
-B-9208,2025-03-24,Pago Contador Externo (G-5061),Gasto,CRC,-12.67
-B-9032,2025-03-24,Depósito Beta Services (F-1035),Ingreso,CRC,2282.26
-B-9435,2025-03-26,Comisión bancaria mensual,Gasto,CRC,-15.81
-B-9209,2025-03-28,Pago Proveedor Transporte (G-5050),Gasto,CRC,-109.17
-B-9210,2025-03-29,Pago Servicios Limpieza (G-5056),Gasto,CRC,-99.43
-B-9211,2025-03-29,Pago Proveedor Transporte (G-5058),Gasto,CRC,-62.48
-B-9214,2025-04-04,Pago Proveedor Renta (G-5067),Gasto,CRC,-760.35
-B-9035,2025-04-04,Depósito Innova Studio (F-1040),Ingreso,CRC,147.24
-B-9033,2025-04-05,Depósito Delta Logistics (F-1038),Ingreso,CRC,779.26
-B-9034,2025-04-05,Comisión tarjeta F-1038,Gasto,CRC,-19.55
-B-9215,2025-04-05,Pago ICE Telecom (G-5068),Gasto,CRC,-79.35
-B-9212,2025-04-05,Pago Proveedor Electricidad (G-5069),Gasto,CRC,-179.82
-B-9037,2025-04-06,Comisión tarjeta F-1045,Gasto,CRC,-5.29
-B-9217,2025-04-06,Pago Seguros PYME (G-5072),Gasto,CRC,-86.71
-B-9213,2025-04-06,Pago Contador Externo (G-5073),Gasto,CRC,-191.5
-B-9036,2025-04-06,Depósito Beta Services (F-1045),Ingreso,CRC,190.34
-B-9216,2025-04-06,Pago Contador Externo (G-5087),Gasto,CRC,-55.17
-B-9222,2025-04-09,Pago Banco Comisiones (G-5083),Gasto,CRC,-301.52
-B-9038,2025-04-09,Depósito Quantum Repair (F-1042),Ingreso,CRC,779.14
-B-9039,2025-04-09,Depósito Alfa Comercial (F-1039),Ingreso,CRC,224.7
-B-9218,2025-04-10,Pago Google Workspace (G-5070),Gasto,CRC,-47.44
-B-9219,2025-04-10,Pago Google Workspace (G-5079),Gasto,CRC,-34.19
-B-9220,2025-04-10,Pago Microsoft 365 (G-5071),Gasto,CRC,-23.67
-B-9224,2025-04-11,Pago Google Workspace (G-5089),Gasto,CRC,-101.53
-B-9040,2025-04-11,Depósito Hotel Brisa (F-1041),Ingreso,CRC,301.31
-B-9041,2025-04-11,Depósito Luna Boutique (F-1044),Ingreso,CRC,726.14
-B-9042,2025-04-12,Depósito TropiFood (F-1046),Ingreso,CRC,676.96
-B-9221,2025-04-13,Pago Seguros PYME (G-5088),Gasto,CRC,-188.35
-B-9225,2025-04-13,Pago Proveedor Combustible (G-5076),Gasto,CRC,-110.49
-B-9223,2025-04-14,Pago Ferretería San José (G-5086),Gasto,CRC,-77.04
-B-9226,2025-04-17,Pago Servicios Limpieza (G-5084),Gasto,CRC,-39.34
-B-9043,2025-04-17,Depósito Eco Market (F-1048),Ingreso,CRC,439.62
-B-9228,2025-04-19,Pago Microsoft 365 (G-5081),Gasto,CRC,-219.92
-B-9227,2025-04-20,Pago Contador Externo (G-5078),Gasto,CRC,-238.96
-B-9229,2025-04-21,Pago Banco Comisiones (G-5074),Gasto,CRC,-132.32
-B-9230,2025-04-22,Pago Servicios Limpieza (G-5080),Gasto,CRC,-26.28
-B-9231,2025-04-22,Pago Papelería Centro (G-5085),Gasto,CRC,-243.94
-B-9232,2025-04-26,Pago AWS/Cloud (G-5082),Gasto,CRC,-86.36
-B-9436,2025-04-28,Comisión bancaria mensual,Gasto,CRC,-16.19
-B-9233,2025-04-29,Pago Microsoft 365 (G-5075),Gasto,CRC,-166.92
-B-9235,2025-05-01,Pago Proveedor Electricidad (G-5092),Gasto,CRC,-70.23
-B-9234,2025-05-02,Pago Seguros PYME (G-5077),Gasto,CRC,-34.63
-B-9236,2025-05-03,Pago Google Workspace (G-5093),Gasto,CRC,-30.88
-B-9044,2025-05-06,Depósito Quantum Repair (F-1053),Ingreso,CRC,461.13
-B-9238,2025-05-06,Pago Contador Externo (G-5096),Gasto,CRC,-231.78
-B-9045,2025-05-07,Depósito Café Central (F-1054),Ingreso,CRC,249.61
-B-9046,2025-05-07,Comisión tarjeta F-1054,Gasto,CRC,-6.64
-B-9049,2025-05-07,Depósito Luna Boutique (F-1055),Ingreso,CRC,331.49
-B-9237,2025-05-07,Pago Seguros PYME (G-5095),Gasto,CRC,-53.32
-B-9239,2025-05-07,Pago Proveedor Renta (G-5090),Gasto,CRC,-476.67
-B-9241,2025-05-07,Pago Seguros PYME (G-5098),Gasto,CRC,-12.65
-B-9050,2025-05-09,Depósito Hotel Brisa (F-1052),Ingreso,CRC,643.29
-B-9243,2025-05-09,Pago Contador Externo (G-5113),Gasto,CRC,-116.66
-B-9047,2025-05-09,Depósito Alfa Comercial (F-1050),Ingreso,CRC,194.95
-B-9048,2025-05-09,Depósito Innova Studio (F-1051),Ingreso,CRC,250.79
-B-9240,2025-05-10,Pago ICE Telecom (G-5091),Gasto,CRC,-103.26
-B-9242,2025-05-11,Pago Microsoft 365 (G-5094),Gasto,CRC,-50.35
-B-9245,2025-05-11,Pago Papelería Centro (G-5108),Gasto,CRC,-30.18
-B-9051,2025-05-11,Depósito Río Verde (F-1058),Ingreso,CRC,842.44
-B-9244,2025-05-12,Pago Proveedor Hosting (G-5100),Gasto,CRC,-42.75
-B-9247,2025-05-13,Pago Proveedor Combustible (G-5106),Gasto,CRC,-115.69
-B-9246,2025-05-15,Pago Banco Comisiones (G-5109),Gasto,CRC,-227.61
-B-9251,2025-05-16,Pago Proveedor Renta (G-5099),Gasto,CRC,-90.09
-B-9249,2025-05-16,Pago Proveedor Transporte (G-5114),Gasto,CRC,-152.76
-B-9248,2025-05-16,Pago Servicios Limpieza (G-5110),Gasto,CRC,-36.47
-B-9252,2025-05-17,Pago Banco Comisiones (G-5115),Gasto,CRC,-121.89
-B-9254,2025-05-17,Pago Banco Comisiones (G-5107),Gasto,CRC,-219.18
-B-9250,2025-05-18,Pago AWS/Cloud (G-5116),Gasto,CRC,-30.26
-B-9253,2025-05-18,Pago Agencia Marketing (G-5104),Gasto,CRC,-16.96
-B-9052,2025-05-18,Depósito Eco Market (F-1057),Ingreso,CRC,1817.76
-B-9257,2025-05-19,Pago Proveedor Electricidad (G-5105),Gasto,CRC,-32.43
-B-9258,2025-05-19,Pago Proveedor Electricidad (G-5112),Gasto,CRC,-191.56
-B-9256,2025-05-20,Pago Contador Externo (G-5103),Gasto,CRC,-25.7
-B-9255,2025-05-22,Pago Seguros PYME (G-5102),Gasto,CRC,-16.46
-B-9053,2025-05-22,Depósito Beta Services (F-1060),Ingreso,CRC,845.03
-B-9261,2025-05-26,Pago Proveedor Hosting (G-5097),Gasto,CRC,-85.4
-B-9437,2025-05-26,Comisión bancaria mensual,Gasto,CRC,-13.59
-B-9260,2025-05-27,Pago Banco Comisiones (G-5101),Gasto,CRC,-203.88
-B-9259,2025-05-27,Pago Proveedor Agua (G-5111),Gasto,CRC,-48.38
-B-9262,2025-06-03,Pago Google Workspace (G-5120),Gasto,CRC,-38.02
-B-9263,2025-06-05,Pago Seguros PYME (G-5122),Gasto,CRC,-56.06
-B-9054,2025-06-06,Depósito Hotel Brisa (F-1065),Ingreso,CRC,227.89
-B-9055,2025-06-06,Depósito Alfa Comercial (F-1063),Ingreso,CRC,155.52
-B-9264,2025-06-06,Pago Microsoft 365 (G-5121),Gasto,CRC,-45.23
-B-9268,2025-06-07,Pago Proveedor Renta (G-5130),Gasto,CRC,-165.75
-B-9056,2025-06-08,Depósito Quantum Repair (F-1066),Ingreso,CRC,352.4
-B-9057,2025-06-08,Depósito Café Central (F-1067),Ingreso,CRC,778.31
-B-9267,2025-06-08,Pago Proveedor Electricidad (G-5136),Gasto,CRC,-109.78
-B-9272,2025-06-09,Pago Contador Externo (G-5123),Gasto,CRC,-256.26
-B-9266,2025-06-09,Pago Proveedor Electricidad (G-5119),Gasto,CRC,-128.65
-B-9265,2025-06-09,Pago Banco Comisiones (G-5131),Gasto,CRC,-98.3
-B-9269,2025-06-09,Pago Proveedor Renta (G-5117),Gasto,CRC,-586.58
-B-9270,2025-06-10,Pago AWS/Cloud (G-5125),Gasto,CRC,-90.47
-B-9058,2025-06-10,Depósito Innova Studio (F-1064),Ingreso,CRC,462.19
-B-9059,2025-06-10,Depósito Luna Boutique (F-1068),Ingreso,CRC,395.23
-B-9273,2025-06-11,Pago Contador Externo (G-5135),Gasto,CRC,-7.94
-B-9271,2025-06-11,Pago ICE Telecom (G-5118),Gasto,CRC,-113.18
-B-9061,2025-06-12,Comisión tarjeta F-1062,Gasto,CRC,-18.29
-B-9060,2025-06-12,Depósito Delta Logistics (F-1062),Ingreso,CRC,759.74
-B-9274,2025-06-13,Pago Agencia Marketing (G-5128),Gasto,CRC,-153.62
-B-9276,2025-06-17,Pago Proveedor Transporte (G-5137),Gasto,CRC,-28.08
-B-9275,2025-06-17,Pago Proveedor Renta (G-5133),Gasto,CRC,-212.97
-B-9277,2025-06-18,Pago Servicios Limpieza (G-5124),Gasto,CRC,-109.29
-B-9063,2025-06-20,Depósito Norte Constructora (F-1070),Ingreso,CRC,4265.56
-B-9280,2025-06-20,Pago Proveedor Agua (G-5132),Gasto,CRC,-57.7
-B-9062,2025-06-20,Depósito Delta Logistics (F-1074),Ingreso,CRC,2343.95
-B-9278,2025-06-21,Pago Agencia Marketing (G-5129),Gasto,CRC,-165.15
-B-9064,2025-06-22,Depósito Luna Boutique (F-1073),Ingreso,CRC,2121.85
-B-9279,2025-06-23,Pago Papelería Centro (G-5138),Gasto,CRC,-227.15
-B-9438,2025-06-25,Comisión bancaria mensual,Gasto,CRC,-16.62
-B-9068,2025-06-26,Depósito Faro Tech (F-1076),Ingreso,CRC,502.15
-B-9281,2025-06-27,Pago Contador Externo (G-5127),Gasto,CRC,-169.94
-B-9065,2025-06-27,Depósito Jade Imports (F-1075),Ingreso,CRC,1013.18
-B-9067,2025-06-29,Depósito Mar Azul (F-1071),Ingreso,CRC,1105.28
-B-9283,2025-06-29,Pago Agencia Marketing (G-5126),Gasto,CRC,-214.67
-B-9282,2025-06-30,Pago Banco Comisiones (G-5134),Gasto,CRC,-222.32
-B-9066,2025-06-30,Depósito Quantum Repair (F-1072),Ingreso,CRC,3995.74
-B-9284,2025-07-02,Pago Seguros PYME (G-5144),Gasto,CRC,-59.23
-B-9285,2025-07-03,Pago Google Workspace (G-5142),Gasto,CRC,-54.92
-B-9070,2025-07-05,Comisión tarjeta F-1083,Gasto,CRC,-11.98
-B-9069,2025-07-05,Depósito Luna Boutique (F-1083),Ingreso,CRC,641.86
-B-9072,2025-07-06,Depósito Delta Logistics (F-1077),Ingreso,CRC,496.14
-B-9286,2025-07-07,Pago Contador Externo (G-5145),Gasto,CRC,-236.82
-B-9287,2025-07-07,Pago Agencia Marketing (G-5153),Gasto,CRC,-68.75
-B-9289,2025-07-07,Pago Seguros PYME (G-5158),Gasto,CRC,-163.29
-B-9293,2025-07-08,Pago Microsoft 365 (G-5143),Gasto,CRC,-63.71
-B-9294,2025-07-08,Pago ICE Telecom (G-5140),Gasto,CRC,-102.71
-B-9073,2025-07-08,Depósito Innova Studio (F-1079),Ingreso,CRC,167.26
-B-9074,2025-07-08,Depósito Café Central (F-1082),Ingreso,CRC,271.09
-B-9078,2025-07-08,Comisión tarjeta F-1081,Gasto,CRC,-12.81
-B-9077,2025-07-08,Depósito Quantum Repair (F-1081),Ingreso,CRC,506.8
-B-9076,2025-07-08,Comisión tarjeta F-1078,Gasto,CRC,-13.55
-B-9075,2025-07-08,Depósito Alfa Comercial (F-1078),Ingreso,CRC,530.12
-B-9071,2025-07-08,Depósito Hotel Brisa (F-1080),Ingreso,CRC,378.01
-B-9295,2025-07-09,Pago Microsoft 365 (G-5149),Gasto,CRC,-44.75
-B-9079,2025-07-09,Depósito Beta Services (F-1084),Ingreso,CRC,152.63
-B-9291,2025-07-09,Pago Banco Comisiones (G-5157),Gasto,CRC,-238.91
-B-9288,2025-07-09,Pago Proveedor Renta (G-5139),Gasto,CRC,-664.19
-B-9292,2025-07-10,Pago Banco Comisiones (G-5152),Gasto,CRC,-196.73
-B-9290,2025-07-10,Pago Proveedor Electricidad (G-5141),Gasto,CRC,-175.61
-B-9296,2025-07-14,Pago Banco Comisiones (G-5155),Gasto,CRC,-12.32
-B-9297,2025-07-16,Pago Google Workspace (G-5151),Gasto,CRC,-63.33
-B-9300,2025-07-16,Pago Seguros PYME (G-5148),Gasto,CRC,-65.44
-B-9080,2025-07-17,Depósito Órbita Media (F-1085),Ingreso,CRC,633.39
-B-9299,2025-07-18,Pago Ferretería San José (G-5159),Gasto,CRC,-199.67
-B-9298,2025-07-18,Pago Proveedor Renta (G-5161),Gasto,CRC,-141.95
-B-9301,2025-07-18,Pago Proveedor Combustible (G-5147),Gasto,CRC,-131.48
-B-9302,2025-07-19,Pago Google Workspace (G-5146),Gasto,CRC,-222.54
-B-9303,2025-07-21,Pago Google Workspace (G-5154),Gasto,CRC,-154.02
-B-9081,2025-07-26,Depósito Pura Vida Tours (F-1087),Ingreso,CRC,687.62
-B-9305,2025-07-26,Pago Papelería Centro (G-5160),Gasto,CRC,-186.97
-B-9304,2025-07-26,Pago Servicios Limpieza (G-5156),Gasto,CRC,-111.14
-B-9439,2025-07-27,Comisión bancaria mensual,Gasto,CRC,-15.15
-B-9082,2025-07-28,Depósito Órbita Media (F-1086),Ingreso,CRC,738.36
-B-9306,2025-07-31,Pago Proveedor Hosting (G-5150),Gasto,CRC,-123.65
-B-9083,2025-08-02,Depósito Innova Studio (F-1090),Ingreso,CRC,379.47
-B-9084,2025-08-05,Depósito Hotel Brisa (F-1091),Ingreso,CRC,489.86
-B-9307,2025-08-05,Pago Google Workspace (G-5165),Gasto,CRC,-51.64
-B-9310,2025-08-05,Pago Papelería Centro (G-5183),Gasto,CRC,-187.09
-B-9311,2025-08-06,Pago Microsoft 365 (G-5166),Gasto,CRC,-66.67
-B-9308,2025-08-07,Pago ICE Telecom (G-5163),Gasto,CRC,-105.86
-B-9312,2025-08-07,Pago AWS/Cloud (G-5179),Gasto,CRC,-68.17
-B-9315,2025-08-08,Pago Seguros PYME (G-5167),Gasto,CRC,-56.53
-B-9309,2025-08-08,Pago Contador Externo (G-5168),Gasto,CRC,-212.81
-B-9085,2025-08-09,Depósito Alfa Comercial (F-1089),Ingreso,CRC,430.0
-B-9313,2025-08-09,Pago Google Workspace (G-5172),Gasto,CRC,-114.48
-B-9320,2025-08-09,Pago Proveedor Agua (G-5186),Gasto,CRC,-214.97
-B-9089,2025-08-10,Depósito Beta Services (F-1095),Ingreso,CRC,520.52
-B-9318,2025-08-10,Pago Contador Externo (G-5169),Gasto,CRC,-202.24
-B-9314,2025-08-11,Pago Proveedor Electricidad (G-5187),Gasto,CRC,-204.9
-B-9086,2025-08-11,Depósito Luna Boutique (F-1094),Ingreso,CRC,391.03
-B-9319,2025-08-11,Pago Proveedor Electricidad (G-5164),Gasto,CRC,-54.81
-B-9087,2025-08-12,Depósito Quantum Repair (F-1092),Ingreso,CRC,402.88
-B-9316,2025-08-12,Pago Proveedor Renta (G-5162),Gasto,CRC,-773.09
-B-9317,2025-08-12,Pago Agencia Marketing (G-5173),Gasto,CRC,-31.06
-B-9090,2025-08-13,Depósito Café Central (F-1093),Ingreso,CRC,674.6
-B-9088,2025-08-13,Depósito Delta Logistics (F-1088),Ingreso,CRC,348.06
-B-9091,2025-08-13,Depósito Órbita Media (F-1097),Ingreso,CRC,3008.75
-B-9324,2025-08-16,Pago Proveedor Transporte (G-5181),Gasto,CRC,-117.66
-B-9321,2025-08-18,Pago Proveedor Hosting (G-5171),Gasto,CRC,-231.99
-B-9322,2025-08-19,Pago Proveedor Renta (G-5182),Gasto,CRC,-106.73
-B-9323,2025-08-19,Pago Google Workspace (G-5177),Gasto,CRC,-134.11
-B-9326,2025-08-20,Pago Proveedor Transporte (G-5175),Gasto,CRC,-22.08
-B-9092,2025-08-20,Depósito Mar Azul (F-1096),Ingreso,CRC,3549.52
-B-9325,2025-08-21,Pago Seguros PYME (G-5170),Gasto,CRC,-92.69
-B-9329,2025-08-24,Pago Servicios Limpieza (G-5180),Gasto,CRC,-19.71
-B-9331,2025-08-25,Pago Proveedor Transporte (G-5185),Gasto,CRC,-79.97
-B-9440,2025-08-25,Comisión bancaria mensual,Gasto,CRC,-8.55
-B-9332,2025-08-25,Pago Agencia Marketing (G-5174),Gasto,CRC,-182.8
-B-9328,2025-08-26,Pago Servicios Limpieza (G-5188),Gasto,CRC,-141.04
-B-9327,2025-08-26,Pago Banco Comisiones (G-5184),Gasto,CRC,-40.03
-B-9333,2025-08-27,Pago Proveedor Combustible (G-5176),Gasto,CRC,-245.25
-B-9330,2025-08-27,Pago ICE Telecom (G-5178),Gasto,CRC,-173.39
-B-9093,2025-09-02,Depósito Innova Studio (F-1101),Ingreso,CRC,159.23
-B-9334,2025-09-04,Pago Seguros PYME (G-5194),Gasto,CRC,-40.59
-B-9094,2025-09-04,Depósito Beta Services (F-1106),Ingreso,CRC,192.91
-B-9095,2025-09-05,Depósito Quantum Repair (F-1103),Ingreso,CRC,747.36
-B-9096,2025-09-05,Comisión tarjeta F-1103,Gasto,CRC,-10.37
-B-9335,2025-09-05,Pago Proveedor Renta (G-5189),Gasto,CRC,-676.25
-B-9098,2025-09-07,Depósito Hotel Brisa (F-1102),Ingreso,CRC,658.81
-B-9337,2025-09-07,Pago ICE Telecom (G-5190),Gasto,CRC,-83.16
-B-9338,2025-09-07,Pago Agencia Marketing (G-5207),Gasto,CRC,-175.89
-B-9336,2025-09-07,Pago Proveedor Electricidad (G-5191),Gasto,CRC,-152.97
-B-9097,2025-09-08,Depósito Luna Boutique (F-1105),Ingreso,CRC,215.58
-B-9339,2025-09-08,Pago AWS/Cloud (G-5204),Gasto,CRC,-22.82
-B-9341,2025-09-10,Pago Papelería Centro (G-5212),Gasto,CRC,-24.04
-B-9343,2025-09-10,Pago Google Workspace (G-5192),Gasto,CRC,-21.05
-B-9345,2025-09-10,Pago Proveedor Combustible (G-5213),Gasto,CRC,-205.61
-B-9340,2025-09-11,Pago Contador Externo (G-5195),Gasto,CRC,-256.68
-B-9342,2025-09-11,Pago Microsoft 365 (G-5193),Gasto,CRC,-60.18
-B-9100,2025-09-11,Depósito Delta Logistics (F-1099),Ingreso,CRC,232.24
-B-9344,2025-09-12,Pago Microsoft 365 (G-5199),Gasto,CRC,-84.38
-B-9099,2025-09-12,Depósito Alfa Comercial (F-1100),Ingreso,CRC,437.4
-B-9101,2025-09-13,Depósito Café Central (F-1104),Ingreso,CRC,618.46
-B-9346,2025-09-13,Pago Google Workspace (G-5201),Gasto,CRC,-163.14
-B-9347,2025-09-14,Pago Agencia Marketing (G-5206),Gasto,CRC,-203.52
-B-9102,2025-09-16,Depósito Krypton Gym (F-1113),Ingreso,CRC,1182.97
-B-9348,2025-09-16,Pago Google Workspace (G-5196),Gasto,CRC,-164.88
-B-9352,2025-09-19,Pago Proveedor Agua (G-5205),Gasto,CRC,-3.97
-B-9349,2025-09-19,Pago Proveedor Transporte (G-5197),Gasto,CRC,-42.54
-B-9354,2025-09-20,Pago Proveedor Agua (G-5214),Gasto,CRC,-249.04
-B-9351,2025-09-20,Pago Contador Externo (G-5200),Gasto,CRC,-237.5
-B-9350,2025-09-20,Pago Seguros PYME (G-5210),Gasto,CRC,-134.57
-B-9355,2025-09-21,Pago Proveedor Transporte (G-5208),Gasto,CRC,-122.54
-B-9353,2025-09-22,Pago Contador Externo (G-5211),Gasto,CRC,-41.16
-B-9104,2025-09-23,Depósito Alfa Comercial (F-1110),Ingreso,CRC,303.95
-B-9356,2025-09-23,Pago Proveedor Renta (G-5198),Gasto,CRC,-228.75
-B-9357,2025-09-24,Pago Proveedor Renta (G-5202),Gasto,CRC,-138.97
-B-9103,2025-09-24,Depósito Mar Azul (F-1107),Ingreso,CRC,1967.36
-B-9105,2025-09-24,Depósito Eco Market (F-1111),Ingreso,CRC,1873.79
-B-9441,2025-09-26,Comisión bancaria mensual,Gasto,CRC,-13.66
-B-9106,2025-09-28,Depósito TropiFood (F-1112),Ingreso,CRC,563.17
-B-9358,2025-09-29,Pago Proveedor Renta (G-5203),Gasto,CRC,-160.63
-B-9359,2025-09-29,Pago Proveedor Renta (G-5209),Gasto,CRC,-88.0
-B-9360,2025-10-05,Pago ICE Telecom (G-5216),Gasto,CRC,-51.75
-B-9107,2025-10-07,Depósito Alfa Comercial (F-1115),Ingreso,CRC,232.41
-B-9361,2025-10-08,Pago Seguros PYME (G-5220),Gasto,CRC,-80.62
-B-9362,2025-10-08,Pago Proveedor Renta (G-5235),Gasto,CRC,-357.44
-B-9364,2025-10-08,Pago Google Workspace (G-5218),Gasto,CRC,-21.95
-B-9363,2025-10-09,Pago Banco Comisiones (G-5227),Gasto,CRC,-21.26
-B-9367,2025-10-09,Pago Microsoft 365 (G-5219),Gasto,CRC,-49.88
-B-9365,2025-10-10,Pago Contador Externo (G-5221),Gasto,CRC,-154.82
-B-9368,2025-10-10,Pago Proveedor Renta (G-5215),Gasto,CRC,-736.47
-B-9111,2025-10-11,Depósito Beta Services (F-1121),Ingreso,CRC,268.3
-B-9112,2025-10-11,Comisión tarjeta F-1121,Gasto,CRC,-6.67
-B-9110,2025-10-11,Depósito Café Central (F-1119),Ingreso,CRC,497.75
-B-9366,2025-10-12,Pago Proveedor Electricidad (G-5217),Gasto,CRC,-175.67
-B-9115,2025-10-12,Depósito Delta Logistics (F-1114),Ingreso,CRC,279.6
-B-9108,2025-10-12,Depósito Hotel Brisa (F-1117),Ingreso,CRC,362.66
-B-9109,2025-10-12,Comisión tarjeta F-1117,Gasto,CRC,-5.87
-B-9116,2025-10-12,Depósito Krypton Gym (F-1122),Ingreso,CRC,3377.06
-B-9117,2025-10-12,Comisión tarjeta F-1122,Gasto,CRC,-62.89
-B-9114,2025-10-12,Depósito Luna Boutique (F-1120),Ingreso,CRC,313.43
-B-9369,2025-10-13,Pago Servicios Limpieza (G-5226),Gasto,CRC,-155.39
-B-9113,2025-10-13,Depósito Quantum Repair (F-1118),Ingreso,CRC,452.94
-B-9371,2025-10-15,Pago Proveedor Combustible (G-5232),Gasto,CRC,-26.21
-B-9370,2025-10-16,Pago Proveedor Hosting (G-5241),Gasto,CRC,-148.03
-B-9374,2025-10-16,Pago ICE Telecom (G-5236),Gasto,CRC,-111.67
-B-9373,2025-10-17,Pago Proveedor Transporte (G-5240),Gasto,CRC,-142.01
-B-9376,2025-10-18,Pago Servicios Limpieza (G-5222),Gasto,CRC,-22.77
-B-9118,2025-10-18,Depósito Grupo Horizonte (F-1123),Ingreso,CRC,3161.29
-B-9372,2025-10-18,Pago Contador Externo (G-5229),Gasto,CRC,-34.7
-B-9377,2025-10-19,Pago Proveedor Hosting (G-5239),Gasto,CRC,-86.67
-B-9375,2025-10-19,Pago Proveedor Hosting (G-5231),Gasto,CRC,-90.84
-B-9378,2025-10-20,Pago Proveedor Renta (G-5225),Gasto,CRC,-100.82
-B-9380,2025-10-21,Pago AWS/Cloud (G-5234),Gasto,CRC,-23.13
-B-9381,2025-10-23,Pago Proveedor Agua (G-5237),Gasto,CRC,-196.44
-B-9379,2025-10-23,Pago Proveedor Hosting (G-5228),Gasto,CRC,-47.45
-B-9383,2025-10-23,Pago Contador Externo (G-5230),Gasto,CRC,-138.7
-B-9385,2025-10-24,Pago Proveedor Agua (G-5223),Gasto,CRC,-80.69
-B-9382,2025-10-24,Pago AWS/Cloud (G-5238),Gasto,CRC,-61.35
-B-9384,2025-10-25,Pago Banco Comisiones (G-5224),Gasto,CRC,-78.57
-B-9386,2025-10-25,Pago Proveedor Hosting (G-5233),Gasto,CRC,-198.33
-B-9442,2025-10-27,Comisión bancaria mensual,Gasto,CRC,-16.02
-B-9387,2025-10-31,Pago Agencia Marketing (G-5242),Gasto,CRC,-343.78
-B-9119,2025-11-04,Depósito Delta Logistics (F-1126),Ingreso,CRC,190.82
-B-9388,2025-11-05,Pago Contador Externo (G-5249),Gasto,CRC,-133.2
-B-9393,2025-11-06,Pago Google Workspace (G-5246),Gasto,CRC,-56.96
-B-9121,2025-11-06,Depósito Innova Studio (F-1128),Ingreso,CRC,195.18
-B-9391,2025-11-06,Pago Seguros PYME (G-5248),Gasto,CRC,-46.67
-B-9122,2025-11-08,Depósito Faro Tech (F-1135),Ingreso,CRC,552.8
-B-9392,2025-11-09,Pago Microsoft 365 (G-5251),Gasto,CRC,-241.56
-B-9395,2025-11-09,Pago Microsoft 365 (G-5247),Gasto,CRC,-30.7
-B-9120,2025-11-09,Depósito Quantum Repair (F-1130),Ingreso,CRC,615.7
-B-9390,2025-11-09,Pago Proveedor Electricidad (G-5245),Gasto,CRC,-55.47
-B-9389,2025-11-09,Pago Proveedor Renta (G-5243),Gasto,CRC,-523.6
-B-9398,2025-11-10,Pago Proveedor Electricidad (G-5255),Gasto,CRC,-234.27
-B-9394,2025-11-10,Pago ICE Telecom (G-5244),Gasto,CRC,-106.38
-B-9123,2025-11-10,Depósito Luna Boutique (F-1132),Ingreso,CRC,478.46
-B-9396,2025-11-11,Pago Papelería Centro (G-5250),Gasto,CRC,-110.37
-B-9125,2025-11-12,Comisión tarjeta F-1127,Gasto,CRC,-6.79
-B-9127,2025-11-12,Depósito Café Central (F-1131),Ingreso,CRC,717.61
-B-9397,2025-11-12,Pago Proveedor Transporte (G-5268),Gasto,CRC,-108.49
-B-9124,2025-11-12,Depósito Alfa Comercial (F-1127),Ingreso,CRC,319.11
-B-9126,2025-11-13,Depósito Beta Services (F-1133),Ingreso,CRC,639.84
-B-9399,2025-11-13,Pago Seguros PYME (G-5256),Gasto,CRC,-234.91
-B-9128,2025-11-16,Depósito Beta Services (F-1136),Ingreso,CRC,737.8
-B-9129,2025-11-16,Depósito Café Central (F-1137),Ingreso,CRC,796.14
-B-9401,2025-11-16,Pago Proveedor Combustible (G-5263),Gasto,CRC,-32.64
-B-9400,2025-11-17,Pago AWS/Cloud (G-5257),Gasto,CRC,-147.17
-B-9403,2025-11-18,Pago ICE Telecom (G-5265),Gasto,CRC,-68.05
-B-9402,2025-11-18,Pago Microsoft 365 (G-5269),Gasto,CRC,-158.28
-B-9405,2025-11-20,Pago Proveedor Renta (G-5259),Gasto,CRC,-76.94
-B-9404,2025-11-21,Pago Contador Externo (G-5258),Gasto,CRC,-247.41
-B-9407,2025-11-23,Pago Proveedor Electricidad (G-5264),Gasto,CRC,-89.02
-B-9406,2025-11-23,Pago Proveedor Combustible (G-5252),Gasto,CRC,-166.83
-B-9408,2025-11-23,Pago Contador Externo (G-5266),Gasto,CRC,-184.05
-B-9443,2025-11-26,Comisión bancaria mensual,Gasto,CRC,-17.46
-B-9409,2025-11-27,Pago Proveedor Agua (G-5262),Gasto,CRC,-215.76
-B-9410,2025-11-29,Pago Contador Externo (G-5253),Gasto,CRC,-26.08
-B-9411,2025-11-30,Pago Ferretería San José (G-5267),Gasto,CRC,-68.24
-B-9413,2025-12-01,Pago Papelería Centro (G-5254),Gasto,CRC,-184.1
-B-9412,2025-12-02,Pago Contador Externo (G-5260),Gasto,CRC,-121.22
-B-9414,2025-12-02,Pago Proveedor Electricidad (G-5261),Gasto,CRC,-92.23
-B-9418,2025-12-03,Pago Proveedor Renta (G-5270),Gasto,CRC,-592.15
-B-9130,2025-12-04,Depósito Café Central (F-1143),Ingreso,CRC,412.11
-B-9415,2025-12-05,Pago Seguros PYME (G-5275),Gasto,CRC,-105.45
-B-9416,2025-12-05,Pago Microsoft 365 (G-5274),Gasto,CRC,-65.86
-B-9132,2025-12-06,Depósito Luna Boutique (F-1144),Ingreso,CRC,635.46
-B-9133,2025-12-06,Comisión tarjeta F-1144,Gasto,CRC,-14.28
-B-9419,2025-12-06,Pago Proveedor Electricidad (G-5272),Gasto,CRC,-149.04
-B-9131,2025-12-07,Depósito Alfa Comercial (F-1139),Ingreso,CRC,341.34
-B-9417,2025-12-07,Pago Contador Externo (G-5276),Gasto,CRC,-162.78
-B-9420,2025-12-10,Pago ICE Telecom (G-5271),Gasto,CRC,-76.19
-B-9422,2025-12-10,Pago Servicios Limpieza (G-5285),Gasto,CRC,-248.3
-B-9135,2025-12-10,Depósito Hotel Brisa (F-1141),Ingreso,CRC,305.26
-B-9421,2025-12-12,Pago Google Workspace (G-5273),Gasto,CRC,-41.13
-B-9134,2025-12-12,Depósito Delta Logistics (F-1138),Ingreso,CRC,544.08
-B-9139,2025-12-13,Depósito Quantum Repair (F-1142),Ingreso,CRC,688.27
-B-9136,2025-12-13,Depósito Beta Services (F-1145),Ingreso,CRC,197.13
-B-9423,2025-12-14,Pago Proveedor Hosting (G-5282),Gasto,CRC,-109.31
-B-9137,2025-12-14,Depósito Río Verde (F-1148),Ingreso,CRC,260.11
-B-9141,2025-12-15,Depósito Beta Services (F-1151),Ingreso,CRC,557.16
-B-9138,2025-12-15,Depósito Innova Studio (F-1140),Ingreso,CRC,284.48
-B-9140,2025-12-17,Depósito Beta Services (F-1150),Ingreso,CRC,2366.07
-B-9424,2025-12-18,Pago Proveedor Combustible (G-5283),Gasto,CRC,-118.75
-B-9426,2025-12-21,Pago Proveedor Agua (G-5277),Gasto,CRC,-19.33
-B-9425,2025-12-21,Pago ICE Telecom (G-5287),Gasto,CRC,-172.29
-B-9428,2025-12-22,Pago Servicios Limpieza (G-5281),Gasto,CRC,-248.6
-B-9142,2025-12-23,Depósito Faro Tech (F-1147),Ingreso,CRC,650.19
-B-9427,2025-12-25,Pago Proveedor Transporte (G-5278),Gasto,CRC,-110.87
-B-9143,2025-12-25,Depósito Café Central (F-1146),Ingreso,CRC,466.42
-B-9144,2025-12-25,Depósito Mar Azul (F-1149),Ingreso,CRC,1569.78
-B-9429,2025-12-27,Pago ICE Telecom (G-5280),Gasto,CRC,-29.38
-B-9444,2025-12-27,Comisión bancaria mensual,Gasto,CRC,-16.48
-B-9430,2025-12-29,Pago Seguros PYME (G-5284),Gasto,CRC,-241.47
-B-9431,2025-12-30,Pago Banco Comisiones (G-5286),Gasto,CRC,-244.94
-B-9432,2025-12-31,Pago Proveedor Transporte (G-5279),Gasto,CRC,-17.18
+B-9000,2025-01-02,Depósito Quantum Repair (F-1004),Ingreso,USD,422.9
+B-9148,2025-01-03,Pago Google Workspace (G-5003),Gasto,USD,-44.78
+B-9002,2025-01-04,Comisión tarjeta F-1001,Gasto,USD,-9.04
+B-9149,2025-01-04,Pago Proveedor Electricidad (G-5002),Gasto,USD,-137.73
+B-9001,2025-01-04,Depósito Alfa Comercial (F-1001),Ingreso,USD,551.06
+B-9150,2025-01-04,Pago Contador Externo (G-5006),Gasto,USD,-131.79
+B-9004,2025-01-05,Depósito Beta Services (F-1007),Ingreso,USD,674.01
+B-9003,2025-01-07,Depósito Innova Studio (F-1002),Ingreso,USD,633.66
+B-9154,2025-01-07,Pago Proveedor Combustible (G-5010),Gasto,USD,-176.29
+B-9151,2025-01-07,Pago Microsoft 365 (G-5004),Gasto,USD,-52.38
+B-9156,2025-01-08,Pago Proveedor Renta (G-5000),Gasto,USD,-552.69
+B-9152,2025-01-09,Pago Seguros PYME (G-5005),Gasto,USD,-90.19
+B-9153,2025-01-09,Pago ICE Telecom (G-5019),Gasto,USD,-97.26
+B-9157,2025-01-09,Pago Proveedor Hosting (G-5007),Gasto,USD,-67.88
+B-9158,2025-01-10,Pago Ferretería San José (G-5013),Gasto,USD,-237.86
+B-9159,2025-01-10,Pago Contador Externo (G-5020),Gasto,USD,-75.16
+B-9155,2025-01-10,Pago ICE Telecom (G-5001),Gasto,USD,-106.68
+B-9005,2025-01-13,Depósito Café Central (F-1005),Ingreso,USD,723.26
+B-9160,2025-01-14,Pago Google Workspace (G-5016),Gasto,USD,-151.56
+B-9161,2025-01-14,Pago Proveedor Transporte (G-5011),Gasto,USD,-215.6
+B-9006,2025-01-15,Depósito Luna Boutique (F-1006),Ingreso,USD,331.33
+B-9162,2025-01-16,Pago AWS/Cloud (G-5015),Gasto,USD,-247.34
+B-9163,2025-01-16,Pago Proveedor Renta (G-5018),Gasto,USD,-202.05
+B-9164,2025-01-18,Pago Seguros PYME (G-5008),Gasto,USD,-171.58
+B-9007,2025-01-24,Depósito Faro Tech (F-1008),Ingreso,USD,338.34
+B-9010,2025-01-25,Depósito Innova Studio (F-1010),Ingreso,USD,1606.34
+B-9433,2025-01-25,Comisión bancaria mensual,Gasto,USD,-18.54
+B-9008,2025-01-26,Depósito Grupo Horizonte (F-1012),Ingreso,USD,773.23
+B-9009,2025-01-26,Comisión tarjeta F-1012,Gasto,USD,-20.53
+B-9165,2025-01-27,Pago Contador Externo (G-5017),Gasto,USD,-12.67
+B-9166,2025-01-27,Pago Servicios Limpieza (G-5012),Gasto,USD,-97.36
+B-9167,2025-01-28,Pago Google Workspace (G-5014),Gasto,USD,-164.2
+B-9168,2025-01-29,Pago Proveedor Renta (G-5009),Gasto,USD,-35.57
+B-9011,2025-02-01,Depósito Innova Studio (F-1015),Ingreso,USD,380.3
+B-9169,2025-02-02,Pago Google Workspace (G-5024),Gasto,USD,-49.09
+B-9170,2025-02-03,Pago Seguros PYME (G-5026),Gasto,USD,-119.88
+B-9171,2025-02-04,Pago Proveedor Electricidad (G-5023),Gasto,USD,-108.76
+B-9013,2025-02-06,Depósito Delta Logistics (F-1013),Ingreso,USD,419.51
+B-9012,2025-02-06,Depósito Luna Boutique (F-1019),Ingreso,USD,420.93
+B-9173,2025-02-08,Pago Proveedor Renta (G-5021),Gasto,USD,-609.39
+B-9176,2025-02-08,Pago Proveedor Transporte (G-5028),Gasto,USD,-88.66
+B-9172,2025-02-09,Pago Contador Externo (G-5043),Gasto,USD,-55.17
+B-9175,2025-02-09,Pago Contador Externo (G-5027),Gasto,USD,-298.39
+B-9174,2025-02-10,Pago Google Workspace (G-5035),Gasto,USD,-34.19
+B-9178,2025-02-10,Pago ICE Telecom (G-5022),Gasto,USD,-78.62
+B-9014,2025-02-11,Depósito Hotel Brisa (F-1016),Ingreso,USD,337.61
+B-9015,2025-02-11,Depósito Café Central (F-1018),Ingreso,USD,506.1
+B-9179,2025-02-11,Pago Google Workspace (G-5047),Gasto,USD,-49.46
+B-9177,2025-02-11,Pago Microsoft 365 (G-5025),Gasto,USD,-52.17
+B-9182,2025-02-11,Pago Ferretería San José (G-5042),Gasto,USD,-77.04
+B-9180,2025-02-12,Pago Seguros PYME (G-5044),Gasto,USD,-188.35
+B-9181,2025-02-13,Pago Banco Comisiones (G-5039),Gasto,USD,-168.3
+B-9183,2025-02-13,Pago Google Workspace (G-5045),Gasto,USD,-101.53
+B-9184,2025-02-15,Pago Proveedor Combustible (G-5032),Gasto,USD,-110.49
+B-9185,2025-02-15,Pago Google Workspace (G-5029),Gasto,USD,-160.59
+B-9188,2025-02-16,Pago Contador Externo (G-5046),Gasto,USD,-86.17
+B-9016,2025-02-17,Depósito Jade Imports (F-1021),Ingreso,USD,1004.63
+B-9187,2025-02-18,Pago Microsoft 365 (G-5037),Gasto,USD,-219.92
+B-9186,2025-02-19,Pago Contador Externo (G-5034),Gasto,USD,-238.96
+B-9190,2025-02-22,Pago Seguros PYME (G-5030),Gasto,USD,-19.18
+B-9193,2025-02-23,Pago Papelería Centro (G-5041),Gasto,USD,-243.94
+B-9189,2025-02-23,Pago Google Workspace (G-5048),Gasto,USD,-169.54
+B-9018,2025-02-25,Comisión tarjeta F-1022,Gasto,USD,-26.58
+B-9195,2025-02-25,Pago Microsoft 365 (G-5031),Gasto,USD,-166.92
+B-9017,2025-02-25,Depósito Café Central (F-1022),Ingreso,USD,2004.15
+B-9019,2025-02-26,Depósito Eco Market (F-1023),Ingreso,USD,1632.76
+B-9192,2025-02-26,Pago Microsoft 365 (G-5040),Gasto,USD,-99.48
+B-9191,2025-02-26,Pago Servicios Limpieza (G-5036),Gasto,USD,-26.28
+B-9434,2025-02-27,Comisión bancaria mensual,Gasto,USD,-19.13
+B-9020,2025-02-28,Depósito Grupo Horizonte (F-1024),Ingreso,USD,3589.51
+B-9194,2025-02-28,Pago AWS/Cloud (G-5038),Gasto,USD,-86.36
+B-9197,2025-03-02,Pago Microsoft 365 (G-5053),Gasto,USD,-20.38
+B-9196,2025-03-03,Pago Seguros PYME (G-5033),Gasto,USD,-34.63
+B-9022,2025-03-03,Depósito Quantum Repair (F-1030),Ingreso,USD,255.71
+B-9198,2025-03-05,Pago ICE Telecom (G-5050),Gasto,USD,-70.89
+B-9200,2025-03-05,Pago Proveedor Electricidad (G-5051),Gasto,USD,-138.17
+B-9021,2025-03-05,Depósito Café Central (F-1031),Ingreso,USD,341.75
+B-9024,2025-03-05,Depósito Luna Boutique (F-1032),Ingreso,USD,183.12
+B-9025,2025-03-06,Depósito Innova Studio (F-1028),Ingreso,USD,362.38
+B-9026,2025-03-06,Comisión tarjeta F-1028,Gasto,USD,-9.26
+B-9199,2025-03-06,Pago Seguros PYME (G-5054),Gasto,USD,-100.22
+B-9023,2025-03-07,Depósito Beta Services (F-1033),Ingreso,USD,409.52
+B-9201,2025-03-08,Pago Google Workspace (G-5052),Gasto,USD,-21.82
+B-9202,2025-03-08,Pago Contador Externo (G-5055),Gasto,USD,-205.31
+B-9203,2025-03-09,Pago Proveedor Renta (G-5049),Gasto,USD,-569.11
+B-9205,2025-03-10,Pago Proveedor Combustible (G-5056),Gasto,USD,-102.49
+B-9204,2025-03-11,Pago Contador Externo (G-5069),Gasto,USD,-116.66
+B-9206,2025-03-12,Pago Papelería Centro (G-5064),Gasto,USD,-30.18
+B-9207,2025-03-12,Pago Banco Comisiones (G-5065),Gasto,USD,-227.61
+B-9210,2025-03-13,Pago Proveedor Transporte (G-5070),Gasto,USD,-152.76
+B-9030,2025-03-13,Depósito Hotel Brisa (F-1029),Ingreso,USD,217.98
+B-9031,2025-03-13,Depósito Alfa Comercial (F-1034),Ingreso,USD,903.51
+B-9032,2025-03-13,Comisión tarjeta F-1034,Gasto,USD,-11.65
+B-9027,2025-03-14,Depósito Mar Azul (F-1035),Ingreso,USD,1191.89
+B-9029,2025-03-14,Comisión tarjeta F-1038,Gasto,USD,-19.84
+B-9028,2025-03-14,Depósito Krypton Gym (F-1038),Ingreso,USD,1470.14
+B-9209,2025-03-15,Pago Servicios Limpieza (G-5066),Gasto,USD,-36.47
+B-9208,2025-03-15,Pago Proveedor Combustible (G-5062),Gasto,USD,-115.69
+B-9033,2025-03-17,Depósito Órbita Media (F-1036),Ingreso,USD,652.08
+B-9211,2025-03-17,Pago AWS/Cloud (G-5072),Gasto,USD,-30.26
+B-9212,2025-03-18,Pago Banco Comisiones (G-5071),Gasto,USD,-121.89
+B-9213,2025-03-20,Pago Agencia Marketing (G-5060),Gasto,USD,-16.96
+B-9215,2025-03-21,Pago Seguros PYME (G-5058),Gasto,USD,-16.46
+B-9214,2025-03-21,Pago Banco Comisiones (G-5063),Gasto,USD,-219.18
+B-9218,2025-03-22,Pago Proveedor Electricidad (G-5061),Gasto,USD,-32.43
+B-9216,2025-03-22,Pago Contador Externo (G-5059),Gasto,USD,-25.7
+B-9217,2025-03-23,Pago Proveedor Electricidad (G-5068),Gasto,USD,-191.56
+B-9034,2025-03-25,Depósito Hotel Brisa (F-1040),Ingreso,USD,1954.81
+B-9220,2025-03-26,Pago Banco Comisiones (G-5057),Gasto,USD,-203.88
+B-9435,2025-03-26,Comisión bancaria mensual,Gasto,USD,-13.12
+B-9219,2025-03-28,Pago Proveedor Agua (G-5067),Gasto,USD,-48.38
+B-9036,2025-04-02,Depósito Innova Studio (F-1043),Ingreso,USD,548.65
+B-9221,2025-04-03,Pago Google Workspace (G-5076),Gasto,USD,-38.02
+B-9035,2025-04-03,Depósito Luna Boutique (F-1047),Ingreso,USD,464.69
+B-9224,2025-04-05,Pago Banco Comisiones (G-5087),Gasto,USD,-98.3
+B-9222,2025-04-05,Pago Seguros PYME (G-5078),Gasto,USD,-56.06
+B-9225,2025-04-06,Pago Proveedor Electricidad (G-5092),Gasto,USD,-109.78
+B-9223,2025-04-06,Pago Microsoft 365 (G-5077),Gasto,USD,-45.23
+B-9226,2025-04-07,Pago Proveedor Electricidad (G-5075),Gasto,USD,-128.65
+B-9230,2025-04-08,Pago Contador Externo (G-5079),Gasto,USD,-256.26
+B-9228,2025-04-08,Pago Proveedor Renta (G-5073),Gasto,USD,-586.58
+B-9037,2025-04-08,Depósito Beta Services (F-1048),Ingreso,USD,238.38
+B-9227,2025-04-09,Pago Proveedor Renta (G-5086),Gasto,USD,-165.75
+B-9038,2025-04-09,Depósito Quantum Repair (F-1045),Ingreso,USD,204.2
+B-9043,2025-04-09,Comisión tarjeta F-1046,Gasto,USD,-13.02
+B-9042,2025-04-09,Depósito Café Central (F-1046),Ingreso,USD,487.58
+B-9040,2025-04-10,Depósito Beta Services (F-1049),Ingreso,USD,756.08
+B-9229,2025-04-11,Pago AWS/Cloud (G-5081),Gasto,USD,-90.47
+B-9233,2025-04-11,Pago Contador Externo (G-5091),Gasto,USD,-7.94
+B-9039,2025-04-11,Depósito Alfa Comercial (F-1042),Ingreso,USD,461.65
+B-9044,2025-04-11,Depósito Delta Logistics (F-1041),Ingreso,USD,531.01
+B-9232,2025-04-12,Pago Agencia Marketing (G-5084),Gasto,USD,-153.62
+B-9231,2025-04-12,Pago ICE Telecom (G-5074),Gasto,USD,-113.18
+B-9045,2025-04-13,Depósito Café Central (F-1051),Ingreso,USD,1243.45
+B-9046,2025-04-13,Comisión tarjeta F-1051,Gasto,USD,-28.69
+B-9041,2025-04-13,Depósito Hotel Brisa (F-1044),Ingreso,USD,194.95
+B-9235,2025-04-14,Pago Proveedor Transporte (G-5093),Gasto,USD,-28.08
+B-9047,2025-04-16,Depósito Norte Constructora (F-1052),Ingreso,USD,1183.68
+B-9234,2025-04-17,Pago Proveedor Renta (G-5089),Gasto,USD,-212.97
+B-9236,2025-04-17,Pago Agencia Marketing (G-5085),Gasto,USD,-165.15
+B-9237,2025-04-17,Pago Servicios Limpieza (G-5080),Gasto,USD,-109.29
+B-9239,2025-04-21,Pago Papelería Centro (G-5094),Gasto,USD,-227.15
+B-9238,2025-04-22,Pago Proveedor Agua (G-5088),Gasto,USD,-57.7
+B-9048,2025-04-25,Depósito Faro Tech (F-1050),Ingreso,USD,3940.31
+B-9436,2025-04-27,Comisión bancaria mensual,Gasto,USD,-12.37
+B-9240,2025-04-27,Pago Contador Externo (G-5083),Gasto,USD,-169.94
+B-9241,2025-05-02,Pago Banco Comisiones (G-5090),Gasto,USD,-222.32
+B-9242,2025-05-02,Pago Agencia Marketing (G-5082),Gasto,USD,-214.67
+B-9050,2025-05-03,Depósito Alfa Comercial (F-1055),Ingreso,USD,155.52
+B-9051,2025-05-04,Depósito Quantum Repair (F-1058),Ingreso,USD,352.4
+B-9049,2025-05-04,Depósito Café Central (F-1059),Ingreso,USD,275.01
+B-9245,2025-05-06,Pago Contador Externo (G-5101),Gasto,USD,-236.82
+B-9243,2025-05-06,Pago Seguros PYME (G-5100),Gasto,USD,-59.23
+B-9244,2025-05-07,Pago Google Workspace (G-5098),Gasto,USD,-54.92
+B-9247,2025-05-08,Pago Proveedor Renta (G-5095),Gasto,USD,-664.19
+B-9053,2025-05-09,Depósito Beta Services (F-1061),Ingreso,USD,413.18
+B-9052,2025-05-09,Depósito Innova Studio (F-1056),Ingreso,USD,204.73
+B-9246,2025-05-09,Pago Seguros PYME (G-5114),Gasto,USD,-163.29
+B-9252,2025-05-10,Pago Contador Externo (G-5105),Gasto,USD,-21.12
+B-9249,2025-05-10,Pago Banco Comisiones (G-5113),Gasto,USD,-238.91
+B-9248,2025-05-10,Pago Proveedor Electricidad (G-5097),Gasto,USD,-175.61
+B-9054,2025-05-12,Depósito Hotel Brisa (F-1057),Ingreso,USD,431.83
+B-9256,2025-05-12,Pago Banco Comisiones (G-5111),Gasto,USD,-12.32
+B-9254,2025-05-12,Pago Google Workspace (G-5104),Gasto,USD,-18.71
+B-9251,2025-05-12,Pago Microsoft 365 (G-5099),Gasto,USD,-63.71
+B-9250,2025-05-12,Pago ICE Telecom (G-5096),Gasto,USD,-102.71
+B-9253,2025-05-13,Pago ICE Telecom (G-5107),Gasto,USD,-210.72
+B-9056,2025-05-14,Comisión tarjeta F-1054,Gasto,USD,-11.3
+B-9055,2025-05-14,Depósito Delta Logistics (F-1054),Ingreso,USD,759.74
+B-9255,2025-05-15,Pago Microsoft 365 (G-5108),Gasto,USD,-83.67
+B-9057,2025-05-16,Depósito Jade Imports (F-1068),Ingreso,USD,766.26
+B-9058,2025-05-17,Depósito Delta Logistics (F-1065),Ingreso,USD,2343.95
+B-9257,2025-05-18,Pago Proveedor Renta (G-5117),Gasto,USD,-141.95
+B-9258,2025-05-19,Pago Ferretería San José (G-5115),Gasto,USD,-199.67
+B-9259,2025-05-19,Pago Proveedor Renta (G-5106),Gasto,USD,-158.45
+B-9260,2025-05-19,Pago Google Workspace (G-5102),Gasto,USD,-603.0
+B-9261,2025-05-21,Pago Google Workspace (G-5110),Gasto,USD,-154.02
+B-9059,2025-05-22,Depósito Luna Boutique (F-1064),Ingreso,USD,2121.85
+B-9262,2025-05-23,Pago AWS/Cloud (G-5103),Gasto,USD,-101.0
+B-9264,2025-05-25,Pago Papelería Centro (G-5116),Gasto,USD,-186.97
+B-9263,2025-05-25,Pago Servicios Limpieza (G-5112),Gasto,USD,-262.71
+B-9437,2025-05-27,Comisión bancaria mensual,Gasto,USD,-26.95
+B-9060,2025-05-28,Depósito Alfa Comercial (F-1063),Ingreso,USD,3864.55
+B-9265,2025-05-28,Pago Papelería Centro (G-5109),Gasto,USD,-200.95
+B-9062,2025-05-29,Depósito Faro Tech (F-1067),Ingreso,USD,502.15
+B-9061,2025-05-30,Depósito Jade Imports (F-1066),Ingreso,USD,1013.18
+B-9266,2025-06-02,Pago Google Workspace (G-5121),Gasto,USD,-51.64
+B-9063,2025-06-03,Depósito Alfa Comercial (F-1070),Ingreso,USD,469.85
+B-9064,2025-06-05,Depósito Café Central (F-1074),Ingreso,USD,744.79
+B-9065,2025-06-05,Depósito Hotel Brisa (F-1072),Ingreso,USD,370.24
+B-9267,2025-06-07,Pago ICE Telecom (G-5119),Gasto,USD,-105.86
+B-9271,2025-06-07,Pago Google Workspace (G-5128),Gasto,USD,-114.48
+B-9269,2025-06-07,Pago Contador Externo (G-5124),Gasto,USD,-212.81
+B-9278,2025-06-08,Pago Proveedor Electricidad (G-5120),Gasto,USD,-54.81
+B-9277,2025-06-08,Pago Contador Externo (G-5125),Gasto,USD,-202.24
+B-9275,2025-06-08,Pago Proveedor Renta (G-5118),Gasto,USD,-773.09
+B-9268,2025-06-08,Pago Papelería Centro (G-5139),Gasto,USD,-187.09
+B-9279,2025-06-09,Pago Proveedor Agua (G-5142),Gasto,USD,-214.97
+B-9067,2025-06-09,Depósito Beta Services (F-1076),Ingreso,USD,494.27
+B-9270,2025-06-09,Pago Microsoft 365 (G-5122),Gasto,USD,-66.67
+B-9273,2025-06-10,Pago AWS/Cloud (G-5135),Gasto,USD,-68.17
+B-9276,2025-06-10,Pago Agencia Marketing (G-5129),Gasto,USD,-31.06
+B-9274,2025-06-10,Pago Seguros PYME (G-5123),Gasto,USD,-56.53
+B-9272,2025-06-10,Pago Proveedor Electricidad (G-5143),Gasto,USD,-204.9
+B-9066,2025-06-12,Depósito Delta Logistics (F-1069),Ingreso,USD,308.33
+B-9068,2025-06-13,Depósito Luna Boutique (F-1075),Ingreso,USD,164.83
+B-9069,2025-06-13,Depósito Quantum Repair (F-1073),Ingreso,USD,666.08
+B-9281,2025-06-16,Pago Proveedor Transporte (G-5137),Gasto,USD,-117.66
+B-9283,2025-06-17,Pago Proveedor Hosting (G-5127),Gasto,USD,-231.99
+B-9282,2025-06-17,Pago Proveedor Renta (G-5138),Gasto,USD,-106.73
+B-9280,2025-06-18,Pago Google Workspace (G-5133),Gasto,USD,-134.11
+B-9071,2025-06-18,Comisión tarjeta F-1077,Gasto,USD,-79.06
+B-9070,2025-06-18,Depósito Órbita Media (F-1077),Ingreso,USD,4567.88
+B-9072,2025-06-20,Depósito Jade Imports (F-1079),Ingreso,USD,453.3
+B-9285,2025-06-20,Pago Proveedor Transporte (G-5131),Gasto,USD,-22.08
+B-9073,2025-06-21,Depósito Soluciones Tica (F-1083),Ingreso,USD,223.77
+B-9284,2025-06-21,Pago Seguros PYME (G-5126),Gasto,USD,-92.69
+B-9287,2025-06-23,Pago Servicios Limpieza (G-5144),Gasto,USD,-141.04
+B-9076,2025-06-24,Depósito Innova Studio (F-1078),Ingreso,USD,655.66
+B-9288,2025-06-25,Pago Servicios Limpieza (G-5136),Gasto,USD,-19.71
+B-9438,2025-06-25,Comisión bancaria mensual,Gasto,USD,-8.98
+B-9292,2025-06-26,Pago Proveedor Combustible (G-5132),Gasto,USD,-245.25
+B-9074,2025-06-26,Depósito Café Central (F-1081),Ingreso,USD,449.84
+B-9075,2025-06-26,Depósito Grupo Horizonte (F-1082),Ingreso,USD,849.1
+B-9286,2025-06-26,Pago Banco Comisiones (G-5140),Gasto,USD,-40.03
+B-9290,2025-06-27,Pago ICE Telecom (G-5134),Gasto,USD,-173.39
+B-9291,2025-06-27,Pago Agencia Marketing (G-5130),Gasto,USD,-182.8
+B-9289,2025-06-28,Pago Proveedor Transporte (G-5141),Gasto,USD,-215.23
+B-9080,2025-07-04,Depósito Beta Services (F-1091),Ingreso,USD,667.28
+B-9294,2025-07-04,Pago Proveedor Renta (G-5145),Gasto,USD,-676.25
+B-9077,2025-07-05,Depósito Luna Boutique (F-1090),Ingreso,USD,211.62
+B-9079,2025-07-05,Depósito Hotel Brisa (F-1087),Ingreso,USD,197.21
+B-9293,2025-07-05,Pago Seguros PYME (G-5150),Gasto,USD,-40.59
+B-9295,2025-07-05,Pago Proveedor Electricidad (G-5147),Gasto,USD,-152.97
+B-9082,2025-07-07,Depósito Alfa Comercial (F-1085),Ingreso,USD,362.35
+B-9298,2025-07-07,Pago AWS/Cloud (G-5160),Gasto,USD,-22.82
+B-9081,2025-07-08,Depósito Delta Logistics (F-1084),Ingreso,USD,520.52
+B-9078,2025-07-08,Depósito Innova Studio (F-1086),Ingreso,USD,695.58
+B-9296,2025-07-09,Pago ICE Telecom (G-5146),Gasto,USD,-83.16
+B-9300,2025-07-09,Pago Contador Externo (G-5151),Gasto,USD,-256.68
+B-9297,2025-07-10,Pago Agencia Marketing (G-5163),Gasto,USD,-175.89
+B-9305,2025-07-11,Pago Google Workspace (G-5157),Gasto,USD,-163.14
+B-9083,2025-07-11,Depósito Café Central (F-1089),Ingreso,USD,418.63
+B-9301,2025-07-11,Pago Google Workspace (G-5148),Gasto,USD,-21.05
+B-9299,2025-07-12,Pago Papelería Centro (G-5168),Gasto,USD,-24.04
+B-9303,2025-07-12,Pago Microsoft 365 (G-5155),Gasto,USD,-84.38
+B-9084,2025-07-12,Depósito Quantum Repair (F-1088),Ingreso,USD,250.01
+B-9302,2025-07-12,Pago Microsoft 365 (G-5149),Gasto,USD,-60.18
+B-9304,2025-07-13,Pago Proveedor Combustible (G-5169),Gasto,USD,-205.61
+B-9306,2025-07-13,Pago Agencia Marketing (G-5162),Gasto,USD,-203.52
+B-9307,2025-07-16,Pago Google Workspace (G-5152),Gasto,USD,-164.88
+B-9309,2025-07-16,Pago Contador Externo (G-5156),Gasto,USD,-237.5
+B-9085,2025-07-17,Depósito Soluciones Tica (F-1092),Ingreso,USD,653.93
+B-9086,2025-07-17,Comisión tarjeta F-1092,Gasto,USD,-11.26
+B-9308,2025-07-18,Pago Proveedor Transporte (G-5153),Gasto,USD,-42.54
+B-9311,2025-07-18,Pago Proveedor Agua (G-5161),Gasto,USD,-3.97
+B-9310,2025-07-20,Pago Seguros PYME (G-5166),Gasto,USD,-134.57
+B-9313,2025-07-21,Pago Proveedor Transporte (G-5164),Gasto,USD,-122.54
+B-9314,2025-07-22,Pago Proveedor Agua (G-5170),Gasto,USD,-249.04
+B-9315,2025-07-23,Pago Proveedor Renta (G-5154),Gasto,USD,-228.75
+B-9312,2025-07-23,Pago Contador Externo (G-5167),Gasto,USD,-41.16
+B-9316,2025-07-25,Pago Proveedor Renta (G-5158),Gasto,USD,-138.97
+B-9318,2025-07-27,Pago Proveedor Renta (G-5165),Gasto,USD,-88.0
+B-9439,2025-07-28,Comisión bancaria mensual,Gasto,USD,-26.21
+B-9317,2025-07-29,Pago Proveedor Renta (G-5159),Gasto,USD,-160.63
+B-9087,2025-07-31,Depósito Jade Imports (F-1094),Ingreso,USD,4403.03
+B-9319,2025-08-03,Pago ICE Telecom (G-5172),Gasto,USD,-51.75
+B-9089,2025-08-05,Depósito Café Central (F-1100),Ingreso,USD,434.47
+B-9088,2025-08-05,Depósito Delta Logistics (F-1095),Ingreso,USD,359.0
+B-9090,2025-08-06,Depósito Quantum Repair (F-1099),Ingreso,USD,293.19
+B-9093,2025-08-07,Depósito Innova Studio (F-1097),Ingreso,USD,671.6
+B-9092,2025-08-08,Comisión tarjeta F-1098,Gasto,USD,-6.76
+B-9091,2025-08-08,Depósito Hotel Brisa (F-1098),Ingreso,USD,375.37
+B-9320,2025-08-08,Pago Seguros PYME (G-5176),Gasto,USD,-80.62
+B-9322,2025-08-08,Pago Google Workspace (G-5174),Gasto,USD,-21.95
+B-9324,2025-08-10,Pago Contador Externo (G-5177),Gasto,USD,-154.82
+B-9321,2025-08-10,Pago Proveedor Renta (G-5191),Gasto,USD,-148.27
+B-9323,2025-08-10,Pago Banco Comisiones (G-5183),Gasto,USD,-21.26
+B-9095,2025-08-11,Depósito Luna Boutique (F-1101),Ingreso,USD,145.33
+B-9096,2025-08-11,Comisión tarjeta F-1101,Gasto,USD,-1.94
+B-9328,2025-08-11,Pago Servicios Limpieza (G-5182),Gasto,USD,-155.39
+B-9326,2025-08-11,Pago Microsoft 365 (G-5175),Gasto,USD,-49.88
+B-9094,2025-08-11,Depósito Beta Services (F-1102),Ingreso,USD,250.97
+B-9327,2025-08-12,Pago Proveedor Renta (G-5171),Gasto,USD,-736.47
+B-9325,2025-08-12,Pago Proveedor Electricidad (G-5173),Gasto,USD,-175.67
+B-9329,2025-08-14,Pago Proveedor Hosting (G-5197),Gasto,USD,-78.4
+B-9333,2025-08-16,Pago Contador Externo (G-5185),Gasto,USD,-34.7
+B-9098,2025-08-16,Depósito Mar Azul (F-1105),Ingreso,USD,631.06
+B-9330,2025-08-16,Pago Proveedor Combustible (G-5188),Gasto,USD,-26.21
+B-9331,2025-08-17,Pago Papelería Centro (G-5198),Gasto,USD,-179.77
+B-9337,2025-08-17,Pago Proveedor Renta (G-5181),Gasto,USD,-100.82
+B-9334,2025-08-18,Pago Servicios Limpieza (G-5178),Gasto,USD,-22.77
+B-9097,2025-08-19,Depósito Café Central (F-1103),Ingreso,USD,2532.57
+B-9340,2025-08-19,Pago Proveedor Hosting (G-5184),Gasto,USD,-47.45
+B-9332,2025-08-19,Pago Proveedor Transporte (G-5196),Gasto,USD,-142.01
+B-9338,2025-08-19,Pago Proveedor Combustible (G-5193),Gasto,USD,-131.43
+B-9335,2025-08-20,Pago Proveedor Hosting (G-5187),Gasto,USD,-90.84
+B-9339,2025-08-21,Pago Proveedor Agua (G-5192),Gasto,USD,-86.66
+B-9336,2025-08-21,Pago Proveedor Hosting (G-5195),Gasto,USD,-86.67
+B-9341,2025-08-21,Pago AWS/Cloud (G-5190),Gasto,USD,-23.13
+B-9343,2025-08-21,Pago Contador Externo (G-5186),Gasto,USD,-138.7
+B-9342,2025-08-23,Pago AWS/Cloud (G-5194),Gasto,USD,-61.35
+B-9344,2025-08-23,Pago Banco Comisiones (G-5180),Gasto,USD,-78.57
+B-9345,2025-08-24,Pago Proveedor Agua (G-5179),Gasto,USD,-80.69
+B-9346,2025-08-26,Pago Proveedor Hosting (G-5189),Gasto,USD,-198.33
+B-9440,2025-08-27,Comisión bancaria mensual,Gasto,USD,-25.08
+B-9099,2025-08-30,Depósito Norte Constructora (F-1106),Ingreso,USD,430.0
+B-9101,2025-09-01,Depósito Luna Boutique (F-1113),Ingreso,USD,509.18
+B-9100,2025-09-01,Depósito Café Central (F-1112),Ingreso,USD,330.1
+B-9351,2025-09-07,Pago Microsoft 365 (G-5203),Gasto,USD,-66.2
+B-9348,2025-09-08,Pago Google Workspace (G-5202),Gasto,USD,-21.68
+B-9349,2025-09-08,Pago Contador Externo (G-5205),Gasto,USD,-155.69
+B-9102,2025-09-09,Depósito Beta Services (F-1114),Ingreso,USD,180.0
+B-9347,2025-09-09,Pago ICE Telecom (G-5200),Gasto,USD,-54.14
+B-9350,2025-09-10,Pago Proveedor Renta (G-5199),Gasto,USD,-592.73
+B-9105,2025-09-10,Depósito Innova Studio (F-1109),Ingreso,USD,524.15
+B-9355,2025-09-11,Pago Seguros PYME (G-5213),Gasto,USD,-234.91
+B-9353,2025-09-11,Pago Seguros PYME (G-5204),Gasto,USD,-53.19
+B-9352,2025-09-11,Pago Proveedor Electricidad (G-5201),Gasto,USD,-156.39
+B-9107,2025-09-13,Depósito Jade Imports (F-1115),Ingreso,USD,939.26
+B-9354,2025-09-13,Pago Proveedor Electricidad (G-5212),Gasto,USD,-234.27
+B-9104,2025-09-14,Depósito Alfa Comercial (F-1108),Ingreso,USD,444.06
+B-9103,2025-09-14,Depósito Jade Imports (F-1120),Ingreso,USD,1196.91
+B-9106,2025-09-15,Depósito Río Verde (F-1119),Ingreso,USD,763.43
+B-9356,2025-09-15,Pago AWS/Cloud (G-5206),Gasto,USD,-163.83
+B-9108,2025-09-15,Depósito Café Central (F-1121),Ingreso,USD,796.14
+B-9358,2025-09-16,Pago Microsoft 365 (G-5207),Gasto,USD,-182.73
+B-9357,2025-09-18,Pago AWS/Cloud (G-5214),Gasto,USD,-147.17
+B-9360,2025-09-20,Pago Contador Externo (G-5215),Gasto,USD,-247.41
+B-9109,2025-09-22,Depósito Quantum Repair (F-1116),Ingreso,USD,883.2
+B-9359,2025-09-23,Pago Proveedor Renta (G-5216),Gasto,USD,-76.94
+B-9361,2025-09-23,Pago Proveedor Combustible (G-5209),Gasto,USD,-166.83
+B-9362,2025-09-24,Pago Proveedor Renta (G-5208),Gasto,USD,-244.74
+B-9441,2025-09-26,Comisión bancaria mensual,Gasto,USD,-21.43
+B-9363,2025-09-26,Pago Contador Externo (G-5210),Gasto,USD,-26.08
+B-9110,2025-09-29,Depósito Jade Imports (F-1117),Ingreso,USD,1390.59
+B-9364,2025-09-29,Pago Papelería Centro (G-5211),Gasto,USD,-184.1
+B-9365,2025-09-30,Pago Contador Externo (G-5217),Gasto,USD,-121.22
+B-9366,2025-10-01,Pago Proveedor Electricidad (G-5218),Gasto,USD,-92.23
+B-9368,2025-10-03,Pago Google Workspace (G-5222),Gasto,USD,-39.1
+B-9111,2025-10-04,Depósito Alfa Comercial (F-1123),Ingreso,USD,432.07
+B-9113,2025-10-04,Depósito Quantum Repair (F-1126),Ingreso,USD,822.44
+B-9367,2025-10-05,Pago Microsoft 365 (G-5223),Gasto,USD,-33.04
+B-9370,2025-10-05,Pago Contador Externo (G-5225),Gasto,USD,-271.44
+B-9112,2025-10-05,Depósito Café Central (F-1127),Ingreso,USD,348.91
+B-9369,2025-10-06,Pago Proveedor Renta (G-5219),Gasto,USD,-483.18
+B-9372,2025-10-08,Pago ICE Telecom (G-5220),Gasto,USD,-83.65
+B-9373,2025-10-08,Pago Proveedor Electricidad (G-5221),Gasto,USD,-137.0
+B-9114,2025-10-08,Depósito Beta Services (F-1129),Ingreso,USD,273.78
+B-9371,2025-10-09,Pago Servicios Limpieza (G-5226),Gasto,USD,-359.82
+B-9374,2025-10-10,Pago Papelería Centro (G-5231),Gasto,USD,-19.9
+B-9115,2025-10-10,Depósito Delta Logistics (F-1122),Ingreso,USD,609.38
+B-9116,2025-10-11,Depósito Innova Studio (F-1124),Ingreso,USD,417.55
+B-9375,2025-10-12,Pago Seguros PYME (G-5224),Gasto,USD,-99.07
+B-9376,2025-10-12,Pago Google Workspace (G-5232),Gasto,USD,-20.52
+B-9377,2025-10-12,Pago AWS/Cloud (G-5235),Gasto,USD,-134.15
+B-9117,2025-10-14,Depósito Luna Boutique (F-1128),Ingreso,USD,392.89
+B-9118,2025-10-15,Depósito Krypton Gym (F-1131),Ingreso,USD,851.75
+B-9378,2025-10-16,Pago ICE Telecom (G-5237),Gasto,USD,-206.32
+B-9379,2025-10-18,Pago Proveedor Renta (G-5233),Gasto,USD,-215.37
+B-9384,2025-10-20,Pago Proveedor Combustible (G-5230),Gasto,USD,-192.25
+B-9380,2025-10-21,Pago Google Workspace (G-5238),Gasto,USD,-94.0
+B-9383,2025-10-21,Pago AWS/Cloud (G-5239),Gasto,USD,-19.55
+B-9120,2025-10-21,Comisión tarjeta F-1135,Gasto,USD,-14.86
+B-9119,2025-10-21,Depósito Faro Tech (F-1135),Ingreso,USD,1196.15
+B-9382,2025-10-22,Pago AWS/Cloud (G-5236),Gasto,USD,-172.12
+B-9381,2025-10-22,Pago Proveedor Hosting (G-5229),Gasto,USD,-189.96
+B-9121,2025-10-24,Depósito Río Verde (F-1132),Ingreso,USD,266.91
+B-9442,2025-10-26,Comisión bancaria mensual,Gasto,USD,-11.49
+B-9122,2025-10-27,Depósito Órbita Media (F-1134),Ingreso,USD,803.2
+B-9386,2025-10-27,Pago Microsoft 365 (G-5234),Gasto,USD,-244.01
+B-9387,2025-10-28,Pago Seguros PYME (G-5227),Gasto,USD,-195.22
+B-9385,2025-10-28,Pago Agencia Marketing (G-5228),Gasto,USD,-64.56
+B-9388,2025-11-03,Pago Contador Externo (G-5246),Gasto,USD,-316.61
+B-9389,2025-11-03,Pago Seguros PYME (G-5245),Gasto,USD,-96.87
+B-9126,2025-11-05,Depósito Alfa Comercial (F-1137),Ingreso,USD,309.62
+B-9390,2025-11-05,Pago Proveedor Renta (G-5240),Gasto,USD,-696.83
+B-9124,2025-11-06,Depósito Luna Boutique (F-1142),Ingreso,USD,240.55
+B-9123,2025-11-06,Depósito Delta Logistics (F-1136),Ingreso,USD,511.45
+B-9391,2025-11-07,Pago Microsoft 365 (G-5244),Gasto,USD,-25.93
+B-9393,2025-11-08,Pago Agencia Marketing (G-5255),Gasto,USD,-144.5
+B-9125,2025-11-08,Depósito Quantum Repair (F-1140),Ingreso,USD,480.4
+B-9394,2025-11-08,Pago Google Workspace (G-5243),Gasto,USD,-23.21
+B-9130,2025-11-09,Depósito Café Central (F-1141),Ingreso,USD,324.76
+B-9131,2025-11-09,Comisión tarjeta F-1141,Gasto,USD,-6.8
+B-9127,2025-11-09,Depósito Hotel Brisa (F-1139),Ingreso,USD,506.59
+B-9392,2025-11-10,Pago ICE Telecom (G-5241),Gasto,USD,-119.46
+B-9395,2025-11-10,Pago Papelería Centro (G-5250),Gasto,USD,-55.59
+B-9128,2025-11-11,Depósito Beta Services (F-1143),Ingreso,USD,298.46
+B-9129,2025-11-12,Depósito Innova Studio (F-1138),Ingreso,USD,533.99
+B-9397,2025-11-12,Pago Proveedor Transporte (G-5248),Gasto,USD,-77.6
+B-9396,2025-11-12,Pago Proveedor Electricidad (G-5242),Gasto,USD,-163.05
+B-9400,2025-11-15,Pago Seguros PYME (G-5257),Gasto,USD,-177.72
+B-9402,2025-11-17,Pago Papelería Centro (G-5251),Gasto,USD,-116.47
+B-9398,2025-11-17,Pago Seguros PYME (G-5261),Gasto,USD,-141.37
+B-9399,2025-11-18,Pago Papelería Centro (G-5259),Gasto,USD,-364.69
+B-9403,2025-11-19,Pago AWS/Cloud (G-5263),Gasto,USD,-172.33
+B-9405,2025-11-20,Pago AWS/Cloud (G-5260),Gasto,USD,-242.33
+B-9401,2025-11-21,Pago Proveedor Renta (G-5258),Gasto,USD,-55.76
+B-9407,2025-11-21,Pago AWS/Cloud (G-5252),Gasto,USD,-248.45
+B-9404,2025-11-21,Pago Proveedor Combustible (G-5247),Gasto,USD,-207.96
+B-9132,2025-11-24,Depósito Café Central (F-1146),Ingreso,USD,472.05
+B-9406,2025-11-24,Pago Proveedor Combustible (G-5256),Gasto,USD,-23.16
+B-9410,2025-11-25,Pago Contador Externo (G-5253),Gasto,USD,-29.19
+B-9408,2025-11-25,Pago Servicios Limpieza (G-5262),Gasto,USD,-184.45
+B-9443,2025-11-27,Comisión bancaria mensual,Gasto,USD,-24.23
+B-9409,2025-11-28,Pago AWS/Cloud (G-5249),Gasto,USD,-194.32
+B-9133,2025-11-29,Depósito Krypton Gym (F-1147),Ingreso,USD,916.11
+B-9411,2025-11-29,Pago Agencia Marketing (G-5254),Gasto,USD,-136.06
+B-9134,2025-11-30,Depósito Quantum Repair (F-1144),Ingreso,USD,855.21
+B-9135,2025-12-02,Depósito Luna Boutique (F-1154),Ingreso,USD,441.11
+B-9412,2025-12-02,Pago Proveedor Renta (G-5264),Gasto,USD,-487.74
+B-9138,2025-12-04,Depósito Café Central (F-1153),Ingreso,USD,509.21
+B-9137,2025-12-05,Depósito Quantum Repair (F-1152),Ingreso,USD,345.68
+B-9415,2025-12-05,Pago Contador Externo (G-5270),Gasto,USD,-218.97
+B-9413,2025-12-05,Pago Google Workspace (G-5267),Gasto,USD,-57.49
+B-9139,2025-12-06,Depósito Innova Studio (F-1150),Ingreso,USD,335.63
+B-9419,2025-12-07,Pago Seguros PYME (G-5269),Gasto,USD,-112.79
+B-9414,2025-12-07,Pago Google Workspace (G-5282),Gasto,USD,-64.06
+B-9417,2025-12-07,Pago Proveedor Electricidad (G-5266),Gasto,USD,-174.41
+B-9136,2025-12-07,Depósito Alfa Comercial (F-1149),Ingreso,USD,467.26
+B-9421,2025-12-08,Pago ICE Telecom (G-5265),Gasto,USD,-60.67
+B-9416,2025-12-08,Pago Proveedor Hosting (G-5284),Gasto,USD,-138.67
+B-9418,2025-12-08,Pago Contador Externo (G-5273),Gasto,USD,-145.88
+B-9140,2025-12-08,Depósito Beta Services (F-1155),Ingreso,USD,352.2
+B-9422,2025-12-09,Pago Microsoft 365 (G-5268),Gasto,USD,-65.72
+B-9141,2025-12-09,Depósito Hotel Brisa (F-1151),Ingreso,USD,418.5
+B-9142,2025-12-09,Depósito Innova Studio (F-1158),Ingreso,USD,4242.83
+B-9143,2025-12-09,Depósito Delta Logistics (F-1148),Ingreso,USD,574.56
+B-9423,2025-12-10,Pago ICE Telecom (G-5281),Gasto,USD,-212.53
+B-9420,2025-12-10,Pago Banco Comisiones (G-5280),Gasto,USD,-236.95
+B-9425,2025-12-15,Pago Proveedor Renta (G-5274),Gasto,USD,-143.69
+B-9144,2025-12-15,Depósito Hotel Brisa (F-1160),Ingreso,USD,1951.59
+B-9145,2025-12-15,Comisión tarjeta F-1160,Gasto,USD,-36.57
+B-9424,2025-12-15,Pago Agencia Marketing (G-5275),Gasto,USD,-90.51
+B-9426,2025-12-19,Pago Microsoft 365 (G-5272),Gasto,USD,-229.61
+B-9147,2025-12-20,Depósito Grupo Horizonte (F-1156),Ingreso,USD,272.09
+B-9146,2025-12-20,Depósito Soluciones Tica (F-1157),Ingreso,USD,2117.91
+B-9428,2025-12-22,Pago Ferretería San José (G-5271),Gasto,USD,-222.11
+B-9427,2025-12-23,Pago Proveedor Renta (G-5279),Gasto,USD,-55.8
+B-9430,2025-12-25,Pago Servicios Limpieza (G-5283),Gasto,USD,-163.78
+B-9429,2025-12-26,Pago Papelería Centro (G-5276),Gasto,USD,-167.8
+B-9444,2025-12-28,Comisión bancaria mensual,Gasto,USD,-16.77
+B-9431,2025-12-29,Pago Ferretería San José (G-5277),Gasto,USD,-164.72
+B-9432,2025-12-29,Pago Proveedor Transporte (G-5278),Gasto,USD,-201.2

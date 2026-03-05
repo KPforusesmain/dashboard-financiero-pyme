@@ -17,13 +17,29 @@ def _read_csv(name: str) -> pd.DataFrame:
     return pd.read_csv(p)
 
 
-def _to_date(df: pd.DataFrame, col: str = "fecha") -> pd.DataFrame:
-    df[col] = pd.to_datetime(df[col], errors="coerce")
-    bad = df[df[col].isna()]
-    if not bad.empty:
-        raise ValueError(f"Invalid dates found in column '{col}':\n{bad.head(10)}")
-    return df
+def _to_date(df: pd.DataFrame, col: str = "fecha", drop_bad: bool = False) -> pd.DataFrame:
+    if col not in df.columns:
+        raise KeyError(f"Missing required date column: {col}")
 
+    # limpiar strings
+    df[col] = df[col].astype(str).str.strip()
+
+    # convertir
+    parsed = pd.to_datetime(df[col], errors="coerce")
+    bad_mask = parsed.isna()
+
+    if bad_mask.any():
+        bad = df.loc[bad_mask, [c for c in df.columns if c in ["invoice_id", "fecha_emision", col, "cliente"]]].head(15)
+        msg = f"Invalid dates found in column '{col}'. Examples:\n{bad}"
+
+        if drop_bad:
+            df = df.loc[~bad_mask].copy()
+            df[col] = pd.to_datetime(df[col], errors="coerce")
+            return df
+        raise ValueError(msg)
+
+    df[col] = parsed
+    return df
 
 def build_dim_fecha(min_date: pd.Timestamp, max_date: pd.Timestamp) -> pd.DataFrame:
     d = pd.date_range(min_date, max_date, freq="D")
@@ -44,15 +60,17 @@ def main() -> int:
     ventas = _to_date(_read_csv("ventas.csv"))
     gastos = _to_date(_read_csv("gastos.csv"))
     banco = _to_date(_read_csv("banco.csv"))
+    cxc = _to_date(_read_csv("cxc.csv"), col="fecha_emision")
+    cxc = _to_date(cxc, col="fecha_vencimiento", drop_bad=True)
 
     # Numeric conversions
-    for col in ["subtotal", "impuesto", "monto"]:
-        if col in ventas.columns:
-            ventas[col] = pd.to_numeric(ventas[col], errors="coerce")
+    for col in ["monto_factura", "pagado", "saldo"]:
+        cxc[col] = pd.to_numeric(cxc[col], errors="coerce")
 
-    gastos["monto"] = pd.to_numeric(gastos["monto"], errors="coerce")
-    banco["monto"] = pd.to_numeric(banco["monto"], errors="coerce")
+    if cxc[["monto_factura", "pagado", "saldo"]].isna().any().any():
+        raise ValueError("Found non-numeric values in cxc monto_factura/pagado/saldo.")
 
+    
     if ventas[["monto"]].isna().any().any() or gastos["monto"].isna().any() or banco["monto"].isna().any():
         raise ValueError("Found non-numeric values in monto/subtotal/impuesto.")
 
@@ -117,6 +135,50 @@ def main() -> int:
     )
     dim_entidad["entidad_id"] = range(1, len(dim_entidad) + 1)
 
+    # ---- Aging buckets (as_of = max fecha del modelo) ----
+    as_of = max(dim_fecha["fecha"])
+    cxc2 = cxc.copy()
+    cxc2["as_of"] = as_of
+
+    cxc2["dias_vencidos"] = (cxc2["as_of"] - cxc2["fecha_vencimiento"]).dt.days
+    cxc2["dias_vencidos"] = cxc2["dias_vencidos"].fillna(0).astype(int)
+
+    def bucket(d: int) -> str:
+        if d <= 0:
+            return "No vencido"
+        if 1 <= d <= 30:
+            return "1-30"
+        if 31 <= d <= 60:
+            return "31-60"
+        if 61 <= d <= 90:
+            return "61-90"
+        return "90+"
+
+    cxc2["bucket"] = cxc2["dias_vencidos"].apply(bucket)
+
+    # Agregar entidad_id (cliente) para relacionar con dim_entidad si quieres
+    cxc2["entidad"] = cxc2["cliente"].astype(str).str.strip()
+    cxc2 = cxc2.merge(dim_entidad[["entidad", "entidad_id"]], on="entidad", how="left")
+
+    # Tabla final de CxC para Power BI
+    cxc_out = cxc2[[
+        "invoice_id",
+        "fecha_emision",
+        "fecha_vencimiento",
+        "cliente",
+        "moneda",
+        "monto_factura",
+        "pagado",
+        "saldo",
+        "estado",
+        "as_of",
+        "dias_vencidos",
+        "bucket",
+        "entidad_id",
+    ]].copy()
+
+
+
     # Add IDs to fact
     fact_mov = fact_mov.merge(dim_categoria, on=["tipo", "categoria"], how="left")
     fact_mov = fact_mov.merge(dim_entidad, on=["entidad"], how="left")
@@ -144,6 +206,7 @@ def main() -> int:
     dim_entidad.to_csv(OUT_DIR / "dim_entidad.csv", index=False)
     banco_out.to_csv(OUT_DIR / "banco_movimientos.csv", index=False)
     resumen.to_csv(OUT_DIR / "resumen_mensual.csv", index=False)
+    cxc_out.to_csv(OUT_DIR / "cxc_aging.csv", index=False)
 
     print("✅ ETL complete. Files written to:", OUT_DIR)
     for f in [
@@ -153,6 +216,7 @@ def main() -> int:
         "dim_entidad.csv",
         "banco_movimientos.csv",
         "resumen_mensual.csv",
+        "cxc_aging.csv",
     ]:
         print(" -", f)
 

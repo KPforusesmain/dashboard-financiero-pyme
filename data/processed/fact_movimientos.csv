@@ -1,441 +1,447 @@
 fecha,tipo,origen,documento,entidad,categoria,detalle,estado,moneda,subtotal,impuesto,monto,metodo_pago,categoria_id,entidad_id
-2025-01-01,Ingreso,Ventas,F-1003,Hotel Brisa,Ingresos,Servicio Mensual,Pagada,CRC,538.31,69.98,608.29,SINPE,11,14
-2025-01-02,Ingreso,Ventas,F-1007,Beta Services,Ingresos,Servicio Mensual,Pagada,CRC,524.67,68.21,592.88,SINPE,11,5
-2025-01-04,Ingreso,Ventas,F-1001,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,CRC,466.98,60.71,527.69,Transferencia,11,3
-2025-01-04,Ingreso,Ventas,F-1004,Quantum Repair,Ingresos,Soporte Técnico,Pendiente,CRC,150.66,19.59,170.25,Efectivo,11,31
-2025-01-06,Ingreso,Ventas,F-1005,Café Central,Ingresos,Soporte Técnico,Pagada,CRC,362.14,47.08,409.22,Efectivo,11,6
-2025-01-07,Ingreso,Ventas,F-1006,Luna Boutique,Ingresos,Servicio Mensual,Pagada,CRC,484.26,62.95,547.21,SINPE,11,19
-2025-01-09,Ingreso,Ventas,F-1000,Delta Logistics,Ingresos,Servicio Mensual,Pendiente,CRC,498.48,64.8,563.28,Transferencia,11,8
-2025-01-09,Ingreso,Ventas,F-1002,Innova Studio,Ingresos,Soporte Técnico,Pagada,CRC,186.13,24.2,210.33,SINPE,11,16
-2025-01-13,Ingreso,Ventas,F-1010,TropiFood,Ingresos,Proyecto,Pendiente,CRC,3306.12,429.8,3735.92,Efectivo,11,35
-2025-01-19,Ingreso,Ventas,F-1009,Luna Boutique,Ingresos,Implementación,Pagada,CRC,1404.21,182.55,1586.76,Transferencia,11,19
-2025-01-20,Ingreso,Ventas,F-1008,Delta Logistics,Ingresos,Capacitación,Pagada,CRC,438.44,57.0,495.44,Tarjeta,11,8
-2025-01-25,Ingreso,Ventas,F-1011,Innova Studio,Ingresos,Implementación,Pagada,CRC,1421.54,184.8,1606.34,Transferencia,11,16
-2025-02-02,Ingreso,Ventas,F-1017,Café Central,Ingresos,Servicio Mensual,Pagada,CRC,598.61,77.82,676.43,Tarjeta,11,6
-2025-02-04,Ingreso,Ventas,F-1013,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,CRC,183.79,23.89,207.68,Efectivo,11,3
-2025-02-04,Ingreso,Ventas,F-1012,Delta Logistics,Ingresos,Servicio Mensual,Pagada,CRC,577.87,75.12,652.99,Efectivo,11,8
-2025-02-07,Ingreso,Ventas,F-1016,Quantum Repair,Ingresos,Soporte Técnico,Pagada,CRC,185.8,24.15,209.95,Tarjeta,11,31
-2025-02-07,Ingreso,Ventas,F-1018,Luna Boutique,Ingresos,Servicio Mensual,Pagada,CRC,422.36,54.91,477.27,Efectivo,11,19
-2025-02-08,Ingreso,Ventas,F-1014,Innova Studio,Ingresos,Servicio Mensual,Pagada,CRC,378.01,49.14,427.15,Tarjeta,11,16
-2025-02-09,Ingreso,Ventas,F-1015,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,CRC,344.1,44.73,388.83,Efectivo,11,14
-2025-02-09,Ingreso,Ventas,F-1019,Beta Services,Ingresos,Servicio Mensual,Pagada,CRC,531.7,69.12,600.82,Transferencia,11,5
-2025-02-09,Ingreso,Ventas,F-1024,Hotel Brisa,Ingresos,Implementación,Pagada,CRC,1653.61,214.97,1868.58,Transferencia,11,14
-2025-02-10,Ingreso,Ventas,F-1025,Pura Vida Tours,Ingresos,Proyecto,Pendiente,CRC,3427.25,445.54,3872.79,Efectivo,11,30
-2025-02-13,Ingreso,Ventas,F-1026,Río Verde,Ingresos,Capacitación,Pagada,CRC,480.77,62.5,543.27,Tarjeta,11,32
-2025-02-14,Ingreso,Ventas,F-1022,Quantum Repair,Ingresos,Implementación,Pendiente,CRC,1048.7,136.33,1185.03,Transferencia,11,31
-2025-02-18,Ingreso,Ventas,F-1023,TropiFood,Ingresos,Capacitación,Pagada,CRC,191.1,24.84,215.94,SINPE,11,35
-2025-02-18,Ingreso,Ventas,F-1020,Innova Studio,Ingresos,Implementación,Pendiente,CRC,952.2,123.79,1075.99,Transferencia,11,16
-2025-02-24,Ingreso,Ventas,F-1021,Innova Studio,Ingresos,Implementación,Pendiente,CRC,1209.22,157.2,1366.42,SINPE,11,16
-2025-03-01,Ingreso,Ventas,F-1030,Hotel Brisa,Ingresos,Servicio Mensual,Pagada,CRC,541.9,70.45,612.35,Transferencia,11,14
-2025-03-01,Ingreso,Ventas,F-1031,Quantum Repair,Ingresos,Soporte Técnico,Pagada,CRC,141.26,18.36,159.62,Tarjeta,11,31
-2025-03-04,Ingreso,Ventas,F-1029,Innova Studio,Ingresos,Servicio Mensual,Pagada,CRC,405.09,52.66,457.75,Tarjeta,11,16
-2025-03-06,Ingreso,Ventas,F-1028,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,CRC,389.88,50.68,440.56,Efectivo,11,3
-2025-03-06,Ingreso,Ventas,F-1034,Beta Services,Ingresos,Soporte Técnico,Pagada,CRC,243.33,31.63,274.96,Transferencia,11,5
-2025-03-08,Ingreso,Ventas,F-1033,Luna Boutique,Ingresos,Soporte Técnico,Pagada,CRC,177.12,23.03,200.15,Transferencia,11,19
-2025-03-08,Ingreso,Ventas,F-1032,Café Central,Ingresos,Servicio Mensual,Pagada,CRC,479.52,62.34,541.86,Efectivo,11,6
-2025-03-09,Ingreso,Ventas,F-1027,Delta Logistics,Ingresos,Servicio Mensual,Pagada,CRC,543.79,70.69,614.48,Efectivo,11,8
-2025-03-14,Ingreso,Ventas,F-1036,Grupo Horizonte,Ingresos,Proyecto,Pagada,CRC,2380.42,309.45,2689.87,SINPE,11,13
-2025-03-15,Ingreso,Ventas,F-1037,Órbita Media,Ingresos,Implementación,Pagada,CRC,1131.76,147.13,1278.89,Transferencia,11,36
-2025-03-20,Ingreso,Ventas,F-1035,Beta Services,Ingresos,Proyecto,Pagada,CRC,2019.7,262.56,2282.26,Tarjeta,11,5
-2025-04-01,Ingreso,Ventas,F-1038,Delta Logistics,Ingresos,Servicio Mensual,Pagada,CRC,689.61,89.65,779.26,Tarjeta,11,8
-2025-04-01,Ingreso,Ventas,F-1043,Café Central,Ingresos,Servicio Mensual,Pendiente,CRC,535.84,69.66,605.5,Tarjeta,11,6
-2025-04-03,Ingreso,Ventas,F-1040,Innova Studio,Ingresos,Soporte Técnico,Pagada,CRC,130.3,16.94,147.24,Efectivo,11,16
-2025-04-04,Ingreso,Ventas,F-1045,Beta Services,Ingresos,Soporte Técnico,Pagada,CRC,168.44,21.9,190.34,Tarjeta,11,5
-2025-04-05,Ingreso,Ventas,F-1042,Quantum Repair,Ingresos,Servicio Mensual,Pagada,CRC,689.5,89.64,779.14,Transferencia,11,31
-2025-04-08,Ingreso,Ventas,F-1039,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,CRC,198.85,25.85,224.7,Efectivo,11,3
-2025-04-08,Ingreso,Ventas,F-1041,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,CRC,266.65,34.66,301.31,Efectivo,11,14
-2025-04-09,Ingreso,Ventas,F-1044,Luna Boutique,Ingresos,Servicio Mensual,Pagada,CRC,642.6,83.54,726.14,Transferencia,11,19
-2025-04-10,Ingreso,Ventas,F-1046,TropiFood,Ingresos,Capacitación,Pagada,CRC,599.08,77.88,676.96,SINPE,11,35
-2025-04-14,Ingreso,Ventas,F-1047,Innova Studio,Ingresos,Proyecto,Pendiente,CRC,3524.51,458.19,3982.7,Efectivo,11,16
-2025-04-17,Ingreso,Ventas,F-1048,Eco Market,Ingresos,Capacitación,Pagada,CRC,389.04,50.58,439.62,Transferencia,11,9
-2025-05-01,Ingreso,Ventas,F-1049,Delta Logistics,Ingresos,Soporte Técnico,Pendiente,CRC,330.86,43.01,373.87,Transferencia,11,8
-2025-05-01,Ingreso,Ventas,F-1056,Beta Services,Ingresos,Servicio Mensual,Pendiente,CRC,555.86,72.26,628.12,SINPE,11,5
-2025-05-02,Ingreso,Ventas,F-1053,Quantum Repair,Ingresos,Servicio Mensual,Pagada,CRC,408.08,53.05,461.13,Transferencia,11,31
-2025-05-03,Ingreso,Ventas,F-1054,Café Central,Ingresos,Soporte Técnico,Pagada,CRC,220.89,28.72,249.61,Tarjeta,11,6
-2025-05-04,Ingreso,Ventas,F-1050,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,CRC,172.52,22.43,194.95,SINPE,11,3
-2025-05-04,Ingreso,Ventas,F-1051,Innova Studio,Ingresos,Soporte Técnico,Pagada,CRC,221.94,28.85,250.79,Efectivo,11,16
-2025-05-04,Ingreso,Ventas,F-1055,Luna Boutique,Ingresos,Soporte Técnico,Pagada,CRC,293.35,38.14,331.49,SINPE,11,19
-2025-05-05,Ingreso,Ventas,F-1052,Hotel Brisa,Ingresos,Servicio Mensual,Pagada,CRC,569.28,74.01,643.29,SINPE,11,14
-2025-05-08,Ingreso,Ventas,F-1058,Río Verde,Ingresos,Implementación,Pagada,CRC,745.52,96.92,842.44,Tarjeta,11,32
-2025-05-09,Ingreso,Ventas,F-1059,Río Verde,Ingresos,Capacitación,Pendiente,CRC,552.99,71.89,624.88,Tarjeta,11,32
-2025-05-14,Ingreso,Ventas,F-1061,Luna Boutique,Ingresos,Proyecto,Pendiente,CRC,1861.32,241.97,2103.29,Efectivo,11,19
-2025-05-16,Ingreso,Ventas,F-1057,Eco Market,Ingresos,Implementación,Pagada,CRC,1608.64,209.12,1817.76,Efectivo,11,9
-2025-05-17,Ingreso,Ventas,F-1060,Beta Services,Ingresos,Capacitación,Pagada,CRC,747.81,97.22,845.03,Transferencia,11,5
-2025-06-01,Ingreso,Ventas,F-1065,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,CRC,201.67,26.22,227.89,Efectivo,11,14
-2025-06-02,Ingreso,Ventas,F-1069,Beta Services,Ingresos,Soporte Técnico,Pendiente,CRC,187.46,24.37,211.83,SINPE,11,5
-2025-06-03,Ingreso,Ventas,F-1063,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,CRC,137.63,17.89,155.52,SINPE,11,3
-2025-06-04,Ingreso,Ventas,F-1066,Quantum Repair,Ingresos,Servicio Mensual,Pagada,CRC,311.86,40.54,352.4,Tarjeta,11,31
-2025-06-05,Ingreso,Ventas,F-1067,Café Central,Ingresos,Servicio Mensual,Pagada,CRC,688.77,89.54,778.31,SINPE,11,6
-2025-06-07,Ingreso,Ventas,F-1064,Innova Studio,Ingresos,Servicio Mensual,Pagada,CRC,409.02,53.17,462.19,Transferencia,11,16
-2025-06-09,Ingreso,Ventas,F-1068,Luna Boutique,Ingresos,Soporte Técnico,Pagada,CRC,349.76,45.47,395.23,SINPE,11,19
-2025-06-10,Ingreso,Ventas,F-1062,Delta Logistics,Ingresos,Servicio Mensual,Pagada,CRC,672.34,87.4,759.74,Tarjeta,11,8
-2025-06-17,Ingreso,Ventas,F-1074,Delta Logistics,Ingresos,Proyecto,Pagada,CRC,2074.29,269.66,2343.95,Efectivo,11,8
-2025-06-19,Ingreso,Ventas,F-1070,Norte Constructora,Ingresos,Proyecto,Pagada,CRC,3774.83,490.73,4265.56,Transferencia,11,22
-2025-06-21,Ingreso,Ventas,F-1073,Luna Boutique,Ingresos,Implementación,Pagada,CRC,1877.74,244.11,2121.85,SINPE,11,19
-2025-06-25,Ingreso,Ventas,F-1075,Jade Imports,Ingresos,Implementación,Pagada,CRC,896.62,116.56,1013.18,Efectivo,11,17
-2025-06-25,Ingreso,Ventas,F-1072,Quantum Repair,Ingresos,Proyecto,Pagada,CRC,3536.05,459.69,3995.74,Tarjeta,11,31
-2025-06-26,Ingreso,Ventas,F-1071,Mar Azul,Ingresos,Implementación,Pagada,CRC,978.12,127.16,1105.28,Transferencia,11,20
-2025-06-26,Ingreso,Ventas,F-1076,Faro Tech,Ingresos,Capacitación,Pagada,CRC,444.38,57.77,502.15,SINPE,11,10
-2025-07-01,Ingreso,Ventas,F-1083,Luna Boutique,Ingresos,Servicio Mensual,Pagada,CRC,568.02,73.84,641.86,Tarjeta,11,19
-2025-07-04,Ingreso,Ventas,F-1080,Hotel Brisa,Ingresos,Servicio Mensual,Pagada,CRC,334.52,43.49,378.01,Transferencia,11,14
-2025-07-05,Ingreso,Ventas,F-1077,Delta Logistics,Ingresos,Servicio Mensual,Pagada,CRC,439.06,57.08,496.14,SINPE,11,8
-2025-07-05,Ingreso,Ventas,F-1079,Innova Studio,Ingresos,Soporte Técnico,Pagada,CRC,148.02,19.24,167.26,Tarjeta,11,16
-2025-07-07,Ingreso,Ventas,F-1082,Café Central,Ingresos,Soporte Técnico,Pagada,CRC,239.9,31.19,271.09,Tarjeta,11,6
-2025-07-08,Ingreso,Ventas,F-1078,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,CRC,469.13,60.99,530.12,Tarjeta,11,3
-2025-07-08,Ingreso,Ventas,F-1081,Quantum Repair,Ingresos,Servicio Mensual,Pagada,CRC,448.5,58.3,506.8,Tarjeta,11,31
-2025-07-09,Ingreso,Ventas,F-1084,Beta Services,Ingresos,Soporte Técnico,Pagada,CRC,135.07,17.56,152.63,Tarjeta,11,5
-2025-07-12,Ingreso,Ventas,F-1085,Órbita Media,Ingresos,Capacitación,Pagada,CRC,560.52,72.87,633.39,SINPE,11,36
-2025-07-22,Ingreso,Ventas,F-1087,Pura Vida Tours,Ingresos,Capacitación,Pagada,CRC,608.51,79.11,687.62,SINPE,11,30
-2025-07-24,Ingreso,Ventas,F-1086,Órbita Media,Ingresos,Capacitación,Pagada,CRC,653.42,84.94,738.36,Tarjeta,11,36
-2025-08-02,Ingreso,Ventas,F-1090,Innova Studio,Ingresos,Servicio Mensual,Pagada,CRC,335.81,43.66,379.47,Efectivo,11,16
-2025-08-04,Ingreso,Ventas,F-1091,Hotel Brisa,Ingresos,Servicio Mensual,Pagada,CRC,433.5,56.36,489.86,SINPE,11,14
-2025-08-05,Ingreso,Ventas,F-1089,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,CRC,380.53,49.47,430.0,SINPE,11,3
-2025-08-06,Ingreso,Ventas,F-1094,Luna Boutique,Ingresos,Soporte Técnico,Pagada,CRC,346.04,44.99,391.03,Efectivo,11,19
-2025-08-07,Ingreso,Ventas,F-1092,Quantum Repair,Ingresos,Servicio Mensual,Pagada,CRC,356.53,46.35,402.88,Efectivo,11,31
-2025-08-09,Ingreso,Ventas,F-1088,Delta Logistics,Ingresos,Soporte Técnico,Pagada,CRC,308.02,40.04,348.06,SINPE,11,8
-2025-08-09,Ingreso,Ventas,F-1095,Beta Services,Ingresos,Servicio Mensual,Pagada,CRC,460.64,59.88,520.52,SINPE,11,5
-2025-08-10,Ingreso,Ventas,F-1093,Café Central,Ingresos,Servicio Mensual,Pagada,CRC,596.99,77.61,674.6,Efectivo,11,6
-2025-08-12,Ingreso,Ventas,F-1097,Órbita Media,Ingresos,Proyecto,Pagada,CRC,2662.61,346.14,3008.75,Transferencia,11,36
-2025-08-18,Ingreso,Ventas,F-1096,Mar Azul,Ingresos,Proyecto,Pagada,CRC,3141.17,408.35,3549.52,Tarjeta,11,20
-2025-08-21,Ingreso,Ventas,F-1098,Café Central,Ingresos,Implementación,Pendiente,CRC,1640.22,213.23,1853.45,SINPE,11,6
-2025-09-02,Ingreso,Ventas,F-1101,Innova Studio,Ingresos,Soporte Técnico,Pagada,CRC,140.91,18.32,159.23,Transferencia,11,16
-2025-09-03,Ingreso,Ventas,F-1106,Beta Services,Ingresos,Soporte Técnico,Pagada,CRC,170.72,22.19,192.91,Transferencia,11,5
-2025-09-04,Ingreso,Ventas,F-1103,Quantum Repair,Ingresos,Servicio Mensual,Pagada,CRC,661.38,85.98,747.36,Tarjeta,11,31
-2025-09-05,Ingreso,Ventas,F-1105,Luna Boutique,Ingresos,Soporte Técnico,Pagada,CRC,190.78,24.8,215.58,Transferencia,11,19
-2025-09-06,Ingreso,Ventas,F-1102,Hotel Brisa,Ingresos,Servicio Mensual,Pagada,CRC,583.02,75.79,658.81,Transferencia,11,14
-2025-09-07,Ingreso,Ventas,F-1100,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,CRC,387.08,50.32,437.4,Efectivo,11,3
-2025-09-07,Ingreso,Ventas,F-1099,Delta Logistics,Ingresos,Soporte Técnico,Pagada,CRC,205.52,26.72,232.24,SINPE,11,8
-2025-09-08,Ingreso,Ventas,F-1104,Café Central,Ingresos,Servicio Mensual,Pagada,CRC,547.31,71.15,618.46,Tarjeta,11,6
-2025-09-15,Ingreso,Ventas,F-1113,Krypton Gym,Ingresos,Implementación,Pagada,CRC,1046.88,136.09,1182.97,Efectivo,11,18
-2025-09-17,Ingreso,Ventas,F-1108,Delta Logistics,Ingresos,Proyecto,Pendiente,CRC,3227.12,419.53,3646.65,Transferencia,11,8
-2025-09-20,Ingreso,Ventas,F-1107,Mar Azul,Ingresos,Proyecto,Pagada,CRC,1741.03,226.33,1967.36,Tarjeta,11,20
-2025-09-21,Ingreso,Ventas,F-1110,Alfa Comercial,Ingresos,Capacitación,Pagada,CRC,268.98,34.97,303.95,Efectivo,11,3
-2025-09-21,Ingreso,Ventas,F-1111,Eco Market,Ingresos,Implementación,Pagada,CRC,1658.22,215.57,1873.79,SINPE,11,9
-2025-09-25,Ingreso,Ventas,F-1112,TropiFood,Ingresos,Capacitación,Pagada,CRC,498.38,64.79,563.17,SINPE,11,35
-2025-09-25,Ingreso,Ventas,F-1109,Luna Boutique,Ingresos,Capacitación,Pendiente,CRC,623.92,81.11,705.03,SINPE,11,19
-2025-10-03,Ingreso,Ventas,F-1115,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,CRC,205.67,26.74,232.41,SINPE,11,3
-2025-10-07,Ingreso,Ventas,F-1117,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,CRC,320.94,41.72,362.66,Tarjeta,11,14
-2025-10-07,Ingreso,Ventas,F-1119,Café Central,Ingresos,Servicio Mensual,Pagada,CRC,440.49,57.26,497.75,SINPE,11,6
-2025-10-08,Ingreso,Ventas,F-1121,Beta Services,Ingresos,Soporte Técnico,Pagada,CRC,237.43,30.87,268.3,Tarjeta,11,5
-2025-10-08,Ingreso,Ventas,F-1118,Quantum Repair,Ingresos,Soporte Técnico,Pagada,CRC,400.83,52.11,452.94,Transferencia,11,31
-2025-10-09,Ingreso,Ventas,F-1120,Luna Boutique,Ingresos,Soporte Técnico,Pagada,CRC,277.37,36.06,313.43,SINPE,11,19
-2025-10-10,Ingreso,Ventas,F-1114,Delta Logistics,Ingresos,Soporte Técnico,Pagada,CRC,247.43,32.17,279.6,Efectivo,11,8
-2025-10-10,Ingreso,Ventas,F-1116,Innova Studio,Ingresos,Soporte Técnico,Pendiente,CRC,321.15,41.75,362.9,Tarjeta,11,16
-2025-10-11,Ingreso,Ventas,F-1122,Krypton Gym,Ingresos,Proyecto,Pagada,CRC,2988.55,388.51,3377.06,Tarjeta,11,18
-2025-10-12,Ingreso,Ventas,F-1125,Río Verde,Ingresos,Capacitación,Pendiente,CRC,230.66,29.99,260.65,SINPE,11,32
-2025-10-14,Ingreso,Ventas,F-1123,Grupo Horizonte,Ingresos,Proyecto,Pagada,CRC,2797.6,363.69,3161.29,SINPE,11,13
-2025-10-14,Ingreso,Ventas,F-1124,Delta Logistics,Ingresos,Capacitación,Pendiente,CRC,346.83,45.09,391.92,Transferencia,11,8
-2025-11-02,Ingreso,Ventas,F-1129,Hotel Brisa,Ingresos,Servicio Mensual,Pendiente,CRC,376.48,48.94,425.42,SINPE,11,14
-2025-11-03,Ingreso,Ventas,F-1126,Delta Logistics,Ingresos,Soporte Técnico,Pagada,CRC,168.87,21.95,190.82,Transferencia,11,8
-2025-11-04,Ingreso,Ventas,F-1130,Quantum Repair,Ingresos,Servicio Mensual,Pagada,CRC,544.87,70.83,615.7,Efectivo,11,31
-2025-11-05,Ingreso,Ventas,F-1128,Innova Studio,Ingresos,Soporte Técnico,Pagada,CRC,172.73,22.45,195.18,Transferencia,11,16
-2025-11-08,Ingreso,Ventas,F-1135,Faro Tech,Ingresos,Capacitación,Pagada,CRC,489.2,63.6,552.8,SINPE,11,10
-2025-11-08,Ingreso,Ventas,F-1132,Luna Boutique,Ingresos,Soporte Técnico,Pagada,CRC,423.42,55.04,478.46,Efectivo,11,19
-2025-11-08,Ingreso,Ventas,F-1127,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,CRC,282.4,36.71,319.11,Tarjeta,11,3
-2025-11-10,Ingreso,Ventas,F-1133,Beta Services,Ingresos,Servicio Mensual,Pagada,CRC,566.23,73.61,639.84,Transferencia,11,5
-2025-11-10,Ingreso,Ventas,F-1131,Café Central,Ingresos,Servicio Mensual,Pagada,CRC,635.05,82.56,717.61,Efectivo,11,6
-2025-11-15,Ingreso,Ventas,F-1136,Beta Services,Ingresos,Capacitación,Pagada,CRC,652.92,84.88,737.8,Efectivo,11,5
-2025-11-15,Ingreso,Ventas,F-1137,Café Central,Ingresos,Capacitación,Pagada,CRC,704.55,91.59,796.14,Tarjeta,11,6
-2025-11-16,Ingreso,Ventas,F-1134,Grupo Horizonte,Ingresos,Proyecto,Pendiente,CRC,1308.07,170.05,1478.12,Transferencia,11,13
-2025-12-01,Ingreso,Ventas,F-1143,Café Central,Ingresos,Servicio Mensual,Pagada,CRC,364.7,47.41,412.11,Transferencia,11,6
-2025-12-03,Ingreso,Ventas,F-1139,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,CRC,302.07,39.27,341.34,SINPE,11,3
-2025-12-05,Ingreso,Ventas,F-1144,Luna Boutique,Ingresos,Servicio Mensual,Pagada,CRC,562.35,73.11,635.46,Tarjeta,11,19
-2025-12-07,Ingreso,Ventas,F-1138,Delta Logistics,Ingresos,Servicio Mensual,Pagada,CRC,481.49,62.59,544.08,Tarjeta,11,8
-2025-12-07,Ingreso,Ventas,F-1141,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,CRC,270.14,35.12,305.26,Efectivo,11,14
-2025-12-08,Ingreso,Ventas,F-1145,Beta Services,Ingresos,Soporte Técnico,Pagada,CRC,174.45,22.68,197.13,Efectivo,11,5
-2025-12-09,Ingreso,Ventas,F-1148,Río Verde,Ingresos,Capacitación,Pagada,CRC,230.19,29.92,260.11,Transferencia,11,32
-2025-12-10,Ingreso,Ventas,F-1140,Innova Studio,Ingresos,Soporte Técnico,Pagada,CRC,251.75,32.73,284.48,Efectivo,11,16
-2025-12-10,Ingreso,Ventas,F-1142,Quantum Repair,Ingresos,Servicio Mensual,Pagada,CRC,609.09,79.18,688.27,SINPE,11,31
-2025-12-14,Ingreso,Ventas,F-1150,Beta Services,Ingresos,Proyecto,Pagada,CRC,2093.87,272.2,2366.07,Efectivo,11,5
-2025-12-14,Ingreso,Ventas,F-1151,Beta Services,Ingresos,Capacitación,Pagada,CRC,493.06,64.1,557.16,Efectivo,11,5
-2025-12-18,Ingreso,Ventas,F-1147,Faro Tech,Ingresos,Capacitación,Pagada,CRC,575.39,74.8,650.19,Efectivo,11,10
-2025-12-23,Ingreso,Ventas,F-1146,Café Central,Ingresos,Capacitación,Pagada,CRC,412.76,53.66,466.42,Transferencia,11,6
-2025-12-24,Ingreso,Ventas,F-1149,Mar Azul,Ingresos,Implementación,Pagada,CRC,1389.19,180.59,1569.78,Efectivo,11,20
-2025-01-03,Gasto,Gastos,G-5001,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,68.31,0.0,68.31,Transferencia,8,15
-2025-01-05,Gasto,Gastos,G-5005,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,70.32,0.0,70.32,Tarjeta,7,33
-2025-01-07,Gasto,Gastos,G-5002,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,62.12,0.0,62.12,Transferencia,8,26
-2025-01-08,Gasto,Gastos,G-5000,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,463.71,0.0,463.71,Transferencia,1,28
-2025-01-08,Gasto,Gastos,G-5003,Google Workspace,Software,Pago Software,Pagado,CRC,57.88,0.0,57.88,Transferencia,9,12
-2025-01-08,Gasto,Gastos,G-5004,Microsoft 365,Software,Pago Software,Pagado,CRC,66.63,0.0,66.63,Tarjeta,9,21
-2025-01-08,Gasto,Gastos,G-5006,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,183.37,0.0,183.37,Transferencia,3,7
-2025-01-08,Gasto,Gastos,G-5015,Microsoft 365,Honorarios,Gasto Honorarios,Pagado,CRC,137.18,0.0,137.18,Efectivo,3,21
-2025-01-09,Gasto,Gastos,G-5014,Proveedor Hosting,Alquiler,Gasto Alquiler,Pagado,CRC,131.55,0.0,131.55,SINPE,1,27
-2025-01-12,Gasto,Gastos,G-5020,Papelería Centro,Transporte,Gasto Transporte,Pagado,CRC,189.73,0.0,189.73,Efectivo,10,23
-2025-01-13,Gasto,Gastos,G-5017,Google Workspace,Honorarios,Gasto Honorarios,Pagado,CRC,92.58,0.0,92.58,Efectivo,3,12
-2025-01-15,Gasto,Gastos,G-5022,ICE Telecom,Alquiler,Gasto Alquiler,Pagado,CRC,201.48,0.0,201.48,SINPE,1,15
-2025-01-15,Gasto,Gastos,G-5008,Ferretería San José,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,234.35,0.0,234.35,SINPE,4,11
-2025-01-15,Gasto,Gastos,G-5011,Seguros PYME,Honorarios,Gasto Honorarios,Pagado,CRC,218.97,0.0,218.97,Tarjeta,3,33
-2025-01-18,Gasto,Gastos,G-5012,Seguros PYME,Marketing,Gasto Marketing,Pagado,CRC,22.39,0.0,22.39,Efectivo,5,33
-2025-01-18,Gasto,Gastos,G-5016,ICE Telecom,Software,Gasto Software,Pagado,CRC,219.28,0.0,219.28,Tarjeta,9,15
-2025-01-19,Gasto,Gastos,G-5021,Microsoft 365,Servicios,Gasto Servicios,Pagado,CRC,51.59,0.0,51.59,SINPE,8,21
-2025-01-21,Gasto,Gastos,G-5007,Proveedor Agua,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,7.37,0.0,7.37,Transferencia,2,24
-2025-01-22,Gasto,Gastos,G-5010,Proveedor Renta,Honorarios,Gasto Honorarios,Pagado,CRC,127.27,0.0,127.27,SINPE,3,28
-2025-01-22,Gasto,Gastos,G-5019,Contador Externo,Honorarios,Gasto Honorarios,Pagado,CRC,20.54,0.0,20.54,Transferencia,3,7
-2025-01-26,Gasto,Gastos,G-5013,Seguros PYME,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,200.59,0.0,200.59,Tarjeta,4,33
-2025-01-26,Gasto,Gastos,G-5018,Google Workspace,Papelería,Gasto Papelería,Pagado,CRC,216.52,0.0,216.52,Efectivo,6,12
-2025-01-28,Gasto,Gastos,G-5009,ICE Telecom,Transporte,Gasto Transporte,Pagado,CRC,83.06,0.0,83.06,Efectivo,10,15
-2025-02-03,Gasto,Gastos,G-5025,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,72.76,0.0,72.76,Tarjeta,8,26
-2025-02-04,Gasto,Gastos,G-5027,Microsoft 365,Software,Pago Software,Pagado,CRC,43.06,0.0,43.06,Tarjeta,9,21
-2025-02-04,Gasto,Gastos,G-5024,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,84.84,0.0,84.84,Transferencia,8,15
-2025-02-04,Gasto,Gastos,G-5026,Google Workspace,Software,Pago Software,Pagado,CRC,39.91,0.0,39.91,Transferencia,9,12
-2025-02-05,Gasto,Gastos,G-5033,Agencia Marketing,Transporte,Gasto Transporte,Pagado,CRC,244.75,0.0,244.75,Efectivo,10,2
-2025-02-06,Gasto,Gastos,G-5023,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,554.94,0.0,554.94,Transferencia,1,28
-2025-02-07,Gasto,Gastos,G-5038,Servicios Limpieza,Software,Gasto Software,Pagado,CRC,228.49,0.0,228.49,SINPE,9,34
-2025-02-08,Gasto,Gastos,G-5028,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,56.7,0.0,56.7,Transferencia,7,33
-2025-02-08,Gasto,Gastos,G-5029,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,354.31,0.0,354.31,Transferencia,3,7
-2025-02-11,Gasto,Gastos,G-5039,Proveedor Combustible,Software,Gasto Software,Pagado,CRC,43.45,0.0,43.45,SINPE,9,25
-2025-02-12,Gasto,Gastos,G-5032,Proveedor Hosting,Servicios,Gasto Servicios,Pagado,CRC,102.76,0.0,102.76,SINPE,8,27
-2025-02-12,Gasto,Gastos,G-5035,Proveedor Hosting,Transporte,Gasto Transporte,Pagado,CRC,156.48,0.0,156.48,SINPE,10,27
-2025-02-13,Gasto,Gastos,G-5040,Banco Comisiones,Seguros,Gasto Seguros,Pagado,CRC,209.65,0.0,209.65,SINPE,7,4
-2025-02-14,Gasto,Gastos,G-5031,Ferretería San José,Honorarios,Gasto Honorarios,Pagado,CRC,59.41,0.0,59.41,Efectivo,3,11
-2025-02-14,Gasto,Gastos,G-5037,Microsoft 365,Alquiler,Gasto Alquiler,Pagado,CRC,199.69,0.0,199.69,Transferencia,1,21
-2025-02-23,Gasto,Gastos,G-5030,Proveedor Transporte,Papelería,Gasto Papelería,Pagado,CRC,83.2,0.0,83.2,Efectivo,6,29
-2025-02-23,Gasto,Gastos,G-5034,Ferretería San José,Alquiler,Gasto Alquiler,Pagado,CRC,217.89,0.0,217.89,Transferencia,1,11
-2025-02-24,Gasto,Gastos,G-5036,Papelería Centro,Marketing,Gasto Marketing,Pagado,CRC,71.65,0.0,71.65,Tarjeta,5,23
-2025-03-02,Gasto,Gastos,G-5043,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,68.3,0.0,68.3,Transferencia,8,26
-2025-03-02,Gasto,Gastos,G-5045,Microsoft 365,Software,Pago Software,Pagado,CRC,59.53,0.0,59.53,Transferencia,9,21
-2025-03-05,Gasto,Gastos,G-5063,ICE Telecom,Software,Gasto Software,Pagado,CRC,97.26,0.0,97.26,Tarjeta,9,15
-2025-03-05,Gasto,Gastos,G-5046,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,80.61,0.0,80.61,Tarjeta,7,33
-2025-03-06,Gasto,Gastos,G-5047,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,294.94,0.0,294.94,Tarjeta,3,7
-2025-03-06,Gasto,Gastos,G-5042,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,105.32,0.0,105.32,Tarjeta,8,15
-2025-03-07,Gasto,Gastos,G-5044,Google Workspace,Software,Pago Software,Pagado,CRC,58.69,0.0,58.69,Tarjeta,9,12
-2025-03-08,Gasto,Gastos,G-5041,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,768.26,0.0,768.26,Tarjeta,1,28
-2025-03-08,Gasto,Gastos,G-5048,Seguros PYME,Papelería,Gasto Papelería,Pagado,CRC,172.61,0.0,172.61,Efectivo,6,33
-2025-03-08,Gasto,Gastos,G-5065,Proveedor Combustible,Seguros,Gasto Seguros,Pagado,CRC,189.47,0.0,189.47,Efectivo,7,25
-2025-03-10,Gasto,Gastos,G-5064,Contador Externo,Alquiler,Gasto Alquiler,Pagado,CRC,75.16,0.0,75.16,Tarjeta,1,7
-2025-03-11,Gasto,Gastos,G-5060,Google Workspace,Seguros,Gasto Seguros,Pagado,CRC,151.56,0.0,151.56,Tarjeta,7,12
-2025-03-11,Gasto,Gastos,G-5055,AWS/Cloud,Papelería,Gasto Papelería,Pagado,CRC,117.53,0.0,117.53,Tarjeta,6,1
-2025-03-12,Gasto,Gastos,G-5059,AWS/Cloud,Papelería,Gasto Papelería,Pagado,CRC,247.34,0.0,247.34,Tarjeta,6,1
-2025-03-13,Gasto,Gastos,G-5057,AWS/Cloud,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,57.17,0.0,57.17,Transferencia,4,1
-2025-03-13,Gasto,Gastos,G-5062,Proveedor Renta,Seguros,Gasto Seguros,Pagado,CRC,202.05,0.0,202.05,Transferencia,7,28
-2025-03-14,Gasto,Gastos,G-5051,AWS/Cloud,Alquiler,Gasto Alquiler,Pagado,CRC,249.03,0.0,249.03,Transferencia,1,1
-2025-03-18,Gasto,Gastos,G-5053,Servicios Limpieza,Seguros,Gasto Seguros,Pagado,CRC,151.79,0.0,151.79,Tarjeta,7,34
-2025-03-20,Gasto,Gastos,G-5054,Proveedor Combustible,Servicios,Gasto Servicios,Pagado,CRC,158.53,0.0,158.53,SINPE,8,25
-2025-03-21,Gasto,Gastos,G-5066,Proveedor Transporte,Papelería,Gasto Papelería,Pagado,CRC,153.29,0.0,153.29,Efectivo,6,29
-2025-03-22,Gasto,Gastos,G-5052,Microsoft 365,Marketing,Gasto Marketing,Pagado,CRC,44.29,0.0,44.29,Efectivo,5,21
-2025-03-22,Gasto,Gastos,G-5049,ICE Telecom,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,22.52,0.0,22.52,Transferencia,2,15
-2025-03-24,Gasto,Gastos,G-5061,Contador Externo,Software,Gasto Software,Pagado,CRC,12.67,0.0,12.67,Tarjeta,9,7
-2025-03-25,Gasto,Gastos,G-5050,Proveedor Transporte,Transporte,Gasto Transporte,Pagado,CRC,109.17,0.0,109.17,Tarjeta,10,29
-2025-03-26,Gasto,Gastos,G-5056,Servicios Limpieza,Servicios,Gasto Servicios,Pagado,CRC,99.43,0.0,99.43,SINPE,8,34
-2025-03-26,Gasto,Gastos,G-5058,Proveedor Transporte,Servicios,Gasto Servicios,Pagado,CRC,62.48,0.0,62.48,Transferencia,8,29
-2025-04-01,Gasto,Gastos,G-5069,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,179.82,0.0,179.82,Tarjeta,8,26
-2025-04-03,Gasto,Gastos,G-5073,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,191.5,0.0,191.5,Tarjeta,3,7
-2025-04-04,Gasto,Gastos,G-5067,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,760.35,0.0,760.35,Transferencia,1,28
-2025-04-05,Gasto,Gastos,G-5068,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,79.35,0.0,79.35,Transferencia,8,15
-2025-04-05,Gasto,Gastos,G-5087,Contador Externo,Papelería,Gasto Papelería,Pagado,CRC,55.17,0.0,55.17,Tarjeta,6,7
-2025-04-06,Gasto,Gastos,G-5072,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,86.71,0.0,86.71,Transferencia,7,33
-2025-04-07,Gasto,Gastos,G-5070,Google Workspace,Software,Pago Software,Pagado,CRC,47.44,0.0,47.44,Tarjeta,9,12
-2025-04-07,Gasto,Gastos,G-5079,Google Workspace,Servicios,Gasto Servicios,Pagado,CRC,34.19,0.0,34.19,Transferencia,8,12
-2025-04-08,Gasto,Gastos,G-5071,Microsoft 365,Software,Pago Software,Pagado,CRC,23.67,0.0,23.67,Transferencia,9,21
-2025-04-09,Gasto,Gastos,G-5088,Seguros PYME,Servicios,Gasto Servicios,Pagado,CRC,188.35,0.0,188.35,Transferencia,8,33
-2025-04-09,Gasto,Gastos,G-5083,Banco Comisiones,Marketing,Gasto Marketing,Pagado,CRC,301.52,0.0,301.52,Transferencia,5,4
-2025-04-10,Gasto,Gastos,G-5086,Ferretería San José,Alquiler,Gasto Alquiler,Pagado,CRC,77.04,0.0,77.04,SINPE,1,11
-2025-04-11,Gasto,Gastos,G-5089,Google Workspace,Seguros,Gasto Seguros,Pagado,CRC,101.53,0.0,101.53,Efectivo,7,12
-2025-04-12,Gasto,Gastos,G-5076,Proveedor Combustible,Honorarios,Gasto Honorarios,Pagado,CRC,110.49,0.0,110.49,Efectivo,3,25
-2025-04-16,Gasto,Gastos,G-5084,Servicios Limpieza,Seguros,Gasto Seguros,Pagado,CRC,39.34,0.0,39.34,SINPE,7,34
-2025-04-16,Gasto,Gastos,G-5078,Contador Externo,Transporte,Gasto Transporte,Pagado,CRC,238.96,0.0,238.96,Efectivo,10,7
-2025-04-16,Gasto,Gastos,G-5081,Microsoft 365,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,219.92,0.0,219.92,Efectivo,4,21
-2025-04-19,Gasto,Gastos,G-5074,Banco Comisiones,Transporte,Gasto Transporte,Pagado,CRC,132.32,0.0,132.32,Efectivo,10,4
-2025-04-22,Gasto,Gastos,G-5080,Servicios Limpieza,Software,Gasto Software,Pagado,CRC,26.28,0.0,26.28,SINPE,9,34
-2025-04-22,Gasto,Gastos,G-5085,Papelería Centro,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,243.94,0.0,243.94,Transferencia,4,23
-2025-04-24,Gasto,Gastos,G-5082,AWS/Cloud,Transporte,Gasto Transporte,Pagado,CRC,86.36,0.0,86.36,Transferencia,10,1
-2025-04-25,Gasto,Gastos,G-5075,Microsoft 365,Servicios,Gasto Servicios,Pagado,CRC,166.92,0.0,166.92,Tarjeta,8,21
-2025-04-28,Gasto,Gastos,G-5077,Seguros PYME,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,34.63,0.0,34.63,Efectivo,4,33
-2025-05-01,Gasto,Gastos,G-5092,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,70.23,0.0,70.23,Transferencia,8,26
-2025-05-02,Gasto,Gastos,G-5093,Google Workspace,Software,Pago Software,Pagado,CRC,30.88,0.0,30.88,Tarjeta,9,12
-2025-05-05,Gasto,Gastos,G-5095,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,53.32,0.0,53.32,Transferencia,7,33
-2025-05-06,Gasto,Gastos,G-5096,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,231.78,0.0,231.78,Tarjeta,3,7
-2025-05-06,Gasto,Gastos,G-5090,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,476.67,0.0,476.67,Tarjeta,1,28
-2025-05-06,Gasto,Gastos,G-5091,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,103.26,0.0,103.26,Transferencia,8,15
-2025-05-06,Gasto,Gastos,G-5098,Seguros PYME,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,12.65,0.0,12.65,Tarjeta,2,33
-2025-05-08,Gasto,Gastos,G-5094,Microsoft 365,Software,Pago Software,Pagado,CRC,50.35,0.0,50.35,Tarjeta,9,21
-2025-05-09,Gasto,Gastos,G-5113,Contador Externo,Papelería,Gasto Papelería,Pagado,CRC,116.66,0.0,116.66,Efectivo,6,7
-2025-05-10,Gasto,Gastos,G-5100,Proveedor Hosting,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,42.75,0.0,42.75,Tarjeta,4,27
-2025-05-10,Gasto,Gastos,G-5108,Papelería Centro,Papelería,Gasto Papelería,Pagado,CRC,30.18,0.0,30.18,Transferencia,6,23
-2025-05-11,Gasto,Gastos,G-5109,Banco Comisiones,Seguros,Gasto Seguros,Pagado,CRC,227.61,0.0,227.61,SINPE,7,4
-2025-05-12,Gasto,Gastos,G-5106,Proveedor Combustible,Servicios,Gasto Servicios,Pagado,CRC,115.69,0.0,115.69,Efectivo,8,25
-2025-05-12,Gasto,Gastos,G-5110,Servicios Limpieza,Software,Gasto Software,Pagado,CRC,36.47,0.0,36.47,SINPE,9,34
-2025-05-13,Gasto,Gastos,G-5114,Proveedor Transporte,Transporte,Gasto Transporte,Pagado,CRC,152.76,0.0,152.76,SINPE,10,29
-2025-05-14,Gasto,Gastos,G-5116,AWS/Cloud,Papelería,Gasto Papelería,Pagado,CRC,30.26,0.0,30.26,Transferencia,6,1
-2025-05-14,Gasto,Gastos,G-5099,Proveedor Renta,Transporte,Gasto Transporte,Pagado,CRC,90.09,0.0,90.09,Transferencia,10,28
-2025-05-14,Gasto,Gastos,G-5115,Banco Comisiones,Servicios,Gasto Servicios,Pagado,CRC,121.89,0.0,121.89,Transferencia,8,4
-2025-05-17,Gasto,Gastos,G-5104,Agencia Marketing,Servicios,Gasto Servicios,Pagado,CRC,16.96,0.0,16.96,SINPE,8,2
-2025-05-17,Gasto,Gastos,G-5107,Banco Comisiones,Servicios,Gasto Servicios,Pagado,CRC,219.18,0.0,219.18,SINPE,8,4
-2025-05-18,Gasto,Gastos,G-5102,Seguros PYME,Alquiler,Gasto Alquiler,Pagado,CRC,16.46,0.0,16.46,Transferencia,1,33
-2025-05-18,Gasto,Gastos,G-5103,Contador Externo,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,25.7,0.0,25.7,Efectivo,2,7
-2025-05-19,Gasto,Gastos,G-5105,Proveedor Electricidad,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,32.43,0.0,32.43,Transferencia,2,26
-2025-05-19,Gasto,Gastos,G-5112,Proveedor Electricidad,Honorarios,Gasto Honorarios,Pagado,CRC,191.56,0.0,191.56,Efectivo,3,26
-2025-05-24,Gasto,Gastos,G-5111,Proveedor Agua,Software,Gasto Software,Pagado,CRC,48.38,0.0,48.38,Transferencia,9,24
-2025-05-26,Gasto,Gastos,G-5101,Banco Comisiones,Seguros,Gasto Seguros,Pagado,CRC,203.88,0.0,203.88,Transferencia,7,4
-2025-05-26,Gasto,Gastos,G-5097,Proveedor Hosting,Seguros,Gasto Seguros,Pagado,CRC,85.4,0.0,85.4,Tarjeta,7,27
-2025-06-01,Gasto,Gastos,G-5120,Google Workspace,Software,Pago Software,Pagado,CRC,38.02,0.0,38.02,Tarjeta,9,12
-2025-06-01,Gasto,Gastos,G-5122,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,56.06,0.0,56.06,Tarjeta,7,33
-2025-06-02,Gasto,Gastos,G-5121,Microsoft 365,Software,Pago Software,Pagado,CRC,45.23,0.0,45.23,Transferencia,9,21
-2025-06-05,Gasto,Gastos,G-5131,Banco Comisiones,Papelería,Gasto Papelería,Pagado,CRC,98.3,0.0,98.3,Tarjeta,6,4
-2025-06-06,Gasto,Gastos,G-5119,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,128.65,0.0,128.65,Transferencia,8,26
-2025-06-06,Gasto,Gastos,G-5136,Proveedor Electricidad,Honorarios,Gasto Honorarios,Pagado,CRC,109.78,0.0,109.78,Tarjeta,3,26
-2025-06-07,Gasto,Gastos,G-5130,Proveedor Renta,Seguros,Gasto Seguros,Pagado,CRC,165.75,0.0,165.75,Efectivo,7,28
-2025-06-07,Gasto,Gastos,G-5117,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,586.58,0.0,586.58,Transferencia,1,28
-2025-06-07,Gasto,Gastos,G-5125,AWS/Cloud,Papelería,Gasto Papelería,Pagado,CRC,90.47,0.0,90.47,Efectivo,6,1
-2025-06-08,Gasto,Gastos,G-5118,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,113.18,0.0,113.18,Transferencia,8,15
-2025-06-08,Gasto,Gastos,G-5123,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,256.26,0.0,256.26,Transferencia,3,7
-2025-06-09,Gasto,Gastos,G-5135,Contador Externo,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,7.94,0.0,7.94,Tarjeta,2,7
-2025-06-09,Gasto,Gastos,G-5128,Agencia Marketing,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,153.62,0.0,153.62,Transferencia,4,2
-2025-06-14,Gasto,Gastos,G-5133,Proveedor Renta,Servicios,Gasto Servicios,Pagado,CRC,212.97,0.0,212.97,Transferencia,8,28
-2025-06-14,Gasto,Gastos,G-5137,Proveedor Transporte,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,28.08,0.0,28.08,Tarjeta,2,29
-2025-06-17,Gasto,Gastos,G-5124,Servicios Limpieza,Transporte,Gasto Transporte,Pagado,CRC,109.29,0.0,109.29,SINPE,10,34
-2025-06-17,Gasto,Gastos,G-5129,Agencia Marketing,Seguros,Gasto Seguros,Pagado,CRC,165.15,0.0,165.15,SINPE,7,2
-2025-06-20,Gasto,Gastos,G-5138,Papelería Centro,Transporte,Gasto Transporte,Pagado,CRC,227.15,0.0,227.15,Tarjeta,10,23
-2025-06-20,Gasto,Gastos,G-5132,Proveedor Agua,Papelería,Gasto Papelería,Pagado,CRC,57.7,0.0,57.7,Tarjeta,6,24
-2025-06-23,Gasto,Gastos,G-5127,Contador Externo,Servicios,Gasto Servicios,Pagado,CRC,169.94,0.0,169.94,SINPE,8,7
-2025-06-28,Gasto,Gastos,G-5134,Banco Comisiones,Seguros,Gasto Seguros,Pagado,CRC,222.32,0.0,222.32,Transferencia,7,4
-2025-06-28,Gasto,Gastos,G-5126,Agencia Marketing,Transporte,Gasto Transporte,Pagado,CRC,214.67,0.0,214.67,Tarjeta,10,2
-2025-07-02,Gasto,Gastos,G-5144,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,59.23,0.0,59.23,Transferencia,7,33
-2025-07-03,Gasto,Gastos,G-5142,Google Workspace,Software,Pago Software,Pagado,CRC,54.92,0.0,54.92,Transferencia,9,12
-2025-07-05,Gasto,Gastos,G-5145,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,236.82,0.0,236.82,Transferencia,3,7
-2025-07-06,Gasto,Gastos,G-5153,Agencia Marketing,Servicios,Gasto Servicios,Pagado,CRC,68.75,0.0,68.75,Efectivo,8,2
-2025-07-06,Gasto,Gastos,G-5139,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,664.19,0.0,664.19,Tarjeta,1,28
-2025-07-06,Gasto,Gastos,G-5158,Seguros PYME,Honorarios,Gasto Honorarios,Pagado,CRC,163.29,0.0,163.29,SINPE,3,33
-2025-07-07,Gasto,Gastos,G-5141,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,175.61,0.0,175.61,Transferencia,8,26
-2025-07-07,Gasto,Gastos,G-5157,Banco Comisiones,Papelería,Gasto Papelería,Pagado,CRC,238.91,0.0,238.91,Transferencia,6,4
-2025-07-08,Gasto,Gastos,G-5152,Banco Comisiones,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,196.73,0.0,196.73,Tarjeta,4,4
-2025-07-08,Gasto,Gastos,G-5143,Microsoft 365,Software,Pago Software,Pagado,CRC,63.71,0.0,63.71,Transferencia,9,21
-2025-07-08,Gasto,Gastos,G-5140,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,102.71,0.0,102.71,Tarjeta,8,15
-2025-07-09,Gasto,Gastos,G-5149,Microsoft 365,Papelería,Gasto Papelería,Pagado,CRC,44.75,0.0,44.75,SINPE,6,21
-2025-07-12,Gasto,Gastos,G-5155,Banco Comisiones,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,12.32,0.0,12.32,Transferencia,2,4
-2025-07-13,Gasto,Gastos,G-5151,Google Workspace,Alquiler,Gasto Alquiler,Pagado,CRC,63.33,0.0,63.33,Tarjeta,1,12
-2025-07-16,Gasto,Gastos,G-5161,Proveedor Renta,Alquiler,Gasto Alquiler,Pagado,CRC,141.95,0.0,141.95,Tarjeta,1,28
-2025-07-16,Gasto,Gastos,G-5159,Ferretería San José,Alquiler,Gasto Alquiler,Pagado,CRC,199.67,0.0,199.67,SINPE,1,11
-2025-07-16,Gasto,Gastos,G-5148,Seguros PYME,Servicios,Gasto Servicios,Pagado,CRC,65.44,0.0,65.44,SINPE,8,33
-2025-07-17,Gasto,Gastos,G-5147,Proveedor Combustible,Alquiler,Gasto Alquiler,Pagado,CRC,131.48,0.0,131.48,Tarjeta,1,25
-2025-07-19,Gasto,Gastos,G-5146,Google Workspace,Marketing,Gasto Marketing,Pagado,CRC,222.54,0.0,222.54,Transferencia,5,12
-2025-07-20,Gasto,Gastos,G-5154,Google Workspace,Servicios,Gasto Servicios,Pagado,CRC,154.02,0.0,154.02,Transferencia,8,12
-2025-07-23,Gasto,Gastos,G-5156,Servicios Limpieza,Marketing,Gasto Marketing,Pagado,CRC,111.14,0.0,111.14,Transferencia,5,34
-2025-07-23,Gasto,Gastos,G-5160,Papelería Centro,Servicios,Gasto Servicios,Pagado,CRC,186.97,0.0,186.97,SINPE,8,23
-2025-07-27,Gasto,Gastos,G-5150,Proveedor Hosting,Software,Gasto Software,Pagado,CRC,123.65,0.0,123.65,Transferencia,9,27
-2025-08-01,Gasto,Gastos,G-5165,Google Workspace,Software,Pago Software,Pagado,CRC,51.64,0.0,51.64,Transferencia,9,12
-2025-08-03,Gasto,Gastos,G-5163,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,105.86,0.0,105.86,Transferencia,8,15
-2025-08-05,Gasto,Gastos,G-5168,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,212.81,0.0,212.81,Transferencia,3,7
-2025-08-05,Gasto,Gastos,G-5183,Papelería Centro,Servicios,Gasto Servicios,Pagado,CRC,187.09,0.0,187.09,Efectivo,8,23
-2025-08-06,Gasto,Gastos,G-5166,Microsoft 365,Software,Pago Software,Pagado,CRC,66.67,0.0,66.67,Tarjeta,9,21
-2025-08-07,Gasto,Gastos,G-5179,AWS/Cloud,Software,Gasto Software,Pagado,CRC,68.17,0.0,68.17,SINPE,9,1
-2025-08-07,Gasto,Gastos,G-5172,Google Workspace,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,114.48,0.0,114.48,Tarjeta,4,12
-2025-08-07,Gasto,Gastos,G-5187,Proveedor Electricidad,Honorarios,Gasto Honorarios,Pagado,CRC,204.9,0.0,204.9,SINPE,3,26
-2025-08-08,Gasto,Gastos,G-5167,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,56.53,0.0,56.53,Transferencia,7,33
-2025-08-08,Gasto,Gastos,G-5162,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,773.09,0.0,773.09,Tarjeta,1,28
-2025-08-08,Gasto,Gastos,G-5173,Agencia Marketing,Papelería,Gasto Papelería,Pagado,CRC,31.06,0.0,31.06,SINPE,6,2
-2025-08-08,Gasto,Gastos,G-5169,Contador Externo,Transporte,Gasto Transporte,Pagado,CRC,202.24,0.0,202.24,Efectivo,10,7
-2025-08-08,Gasto,Gastos,G-5164,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,54.81,0.0,54.81,Transferencia,8,26
-2025-08-09,Gasto,Gastos,G-5186,Proveedor Agua,Servicios,Gasto Servicios,Pagado,CRC,214.97,0.0,214.97,Efectivo,8,24
-2025-08-16,Gasto,Gastos,G-5171,Proveedor Hosting,Honorarios,Gasto Honorarios,Pagado,CRC,231.99,0.0,231.99,SINPE,3,27
-2025-08-16,Gasto,Gastos,G-5182,Proveedor Renta,Seguros,Gasto Seguros,Pagado,CRC,106.73,0.0,106.73,SINPE,7,28
-2025-08-16,Gasto,Gastos,G-5177,Google Workspace,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,134.11,0.0,134.11,Tarjeta,4,12
-2025-08-16,Gasto,Gastos,G-5181,Proveedor Transporte,Papelería,Gasto Papelería,Pagado,CRC,117.66,0.0,117.66,Transferencia,6,29
-2025-08-17,Gasto,Gastos,G-5170,Seguros PYME,Honorarios,Gasto Honorarios,Pagado,CRC,92.69,0.0,92.69,Tarjeta,3,33
-2025-08-19,Gasto,Gastos,G-5175,Proveedor Transporte,Papelería,Gasto Papelería,Pagado,CRC,22.08,0.0,22.08,SINPE,6,29
-2025-08-22,Gasto,Gastos,G-5184,Banco Comisiones,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,40.03,0.0,40.03,SINPE,4,4
-2025-08-22,Gasto,Gastos,G-5188,Servicios Limpieza,Servicios,Gasto Servicios,Pagado,CRC,141.04,0.0,141.04,SINPE,8,34
-2025-08-23,Gasto,Gastos,G-5180,Servicios Limpieza,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,19.71,0.0,19.71,Tarjeta,4,34
-2025-08-24,Gasto,Gastos,G-5178,ICE Telecom,Software,Gasto Software,Pagado,CRC,173.39,0.0,173.39,Efectivo,9,15
-2025-08-24,Gasto,Gastos,G-5185,Proveedor Transporte,Marketing,Gasto Marketing,Pagado,CRC,79.97,0.0,79.97,Efectivo,5,29
-2025-08-24,Gasto,Gastos,G-5174,Agencia Marketing,Honorarios,Gasto Honorarios,Pagado,CRC,182.8,0.0,182.8,Tarjeta,3,2
-2025-08-25,Gasto,Gastos,G-5176,Proveedor Combustible,Transporte,Gasto Transporte,Pagado,CRC,245.25,0.0,245.25,Transferencia,10,25
-2025-09-02,Gasto,Gastos,G-5194,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,40.59,0.0,40.59,Tarjeta,7,33
-2025-09-03,Gasto,Gastos,G-5189,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,676.25,0.0,676.25,Transferencia,1,28
-2025-09-04,Gasto,Gastos,G-5191,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,152.97,0.0,152.97,Transferencia,8,26
-2025-09-06,Gasto,Gastos,G-5190,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,83.16,0.0,83.16,Transferencia,8,15
-2025-09-07,Gasto,Gastos,G-5207,Agencia Marketing,Honorarios,Gasto Honorarios,Pagado,CRC,175.89,0.0,175.89,Tarjeta,3,2
-2025-09-07,Gasto,Gastos,G-5204,AWS/Cloud,Alquiler,Gasto Alquiler,Pagado,CRC,22.82,0.0,22.82,SINPE,1,1
-2025-09-08,Gasto,Gastos,G-5195,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,256.68,0.0,256.68,Tarjeta,3,7
-2025-09-08,Gasto,Gastos,G-5212,Papelería Centro,Software,Gasto Software,Pagado,CRC,24.04,0.0,24.04,Efectivo,9,23
-2025-09-08,Gasto,Gastos,G-5193,Microsoft 365,Software,Pago Software,Pagado,CRC,60.18,0.0,60.18,Transferencia,9,21
-2025-09-08,Gasto,Gastos,G-5192,Google Workspace,Software,Pago Software,Pagado,CRC,21.05,0.0,21.05,Tarjeta,9,12
-2025-09-09,Gasto,Gastos,G-5199,Microsoft 365,Seguros,Gasto Seguros,Pagado,CRC,84.38,0.0,84.38,Tarjeta,7,21
-2025-09-10,Gasto,Gastos,G-5213,Proveedor Combustible,Marketing,Gasto Marketing,Pagado,CRC,205.61,0.0,205.61,SINPE,5,25
-2025-09-11,Gasto,Gastos,G-5201,Google Workspace,Transporte,Gasto Transporte,Pagado,CRC,163.14,0.0,163.14,SINPE,10,12
-2025-09-12,Gasto,Gastos,G-5206,Agencia Marketing,Honorarios,Gasto Honorarios,Pagado,CRC,203.52,0.0,203.52,Efectivo,3,2
-2025-09-15,Gasto,Gastos,G-5196,Google Workspace,Software,Gasto Software,Pagado,CRC,164.88,0.0,164.88,Efectivo,9,12
-2025-09-16,Gasto,Gastos,G-5197,Proveedor Transporte,Seguros,Gasto Seguros,Pagado,CRC,42.54,0.0,42.54,Tarjeta,7,29
-2025-09-16,Gasto,Gastos,G-5210,Seguros PYME,Software,Gasto Software,Pagado,CRC,134.57,0.0,134.57,Transferencia,9,33
-2025-09-16,Gasto,Gastos,G-5200,Contador Externo,Marketing,Gasto Marketing,Pagado,CRC,237.5,0.0,237.5,SINPE,5,7
-2025-09-18,Gasto,Gastos,G-5205,Proveedor Agua,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,3.97,0.0,3.97,SINPE,2,24
-2025-09-19,Gasto,Gastos,G-5211,Contador Externo,Marketing,Gasto Marketing,Pagado,CRC,41.16,0.0,41.16,Efectivo,5,7
-2025-09-20,Gasto,Gastos,G-5214,Proveedor Agua,Software,Gasto Software,Pagado,CRC,249.04,0.0,249.04,Efectivo,9,24
-2025-09-20,Gasto,Gastos,G-5208,Proveedor Transporte,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,122.54,0.0,122.54,SINPE,4,29
-2025-09-21,Gasto,Gastos,G-5198,Proveedor Renta,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,228.75,0.0,228.75,Transferencia,4,28
-2025-09-24,Gasto,Gastos,G-5202,Proveedor Renta,Transporte,Gasto Transporte,Pagado,CRC,138.97,0.0,138.97,Tarjeta,10,28
-2025-09-26,Gasto,Gastos,G-5203,Proveedor Renta,Software,Gasto Software,Pagado,CRC,160.63,0.0,160.63,SINPE,9,28
-2025-09-27,Gasto,Gastos,G-5209,Proveedor Renta,Papelería,Gasto Papelería,Pagado,CRC,88.0,0.0,88.0,SINPE,6,28
-2025-10-01,Gasto,Gastos,G-5216,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,51.75,0.0,51.75,Tarjeta,8,15
-2025-10-05,Gasto,Gastos,G-5220,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,80.62,0.0,80.62,Transferencia,7,33
-2025-10-06,Gasto,Gastos,G-5235,Proveedor Renta,Marketing,Gasto Marketing,Pagado,CRC,357.44,0.0,357.44,Tarjeta,5,28
-2025-10-06,Gasto,Gastos,G-5227,Banco Comisiones,Alquiler,Gasto Alquiler,Pagado,CRC,21.26,0.0,21.26,SINPE,1,4
-2025-10-06,Gasto,Gastos,G-5218,Google Workspace,Software,Pago Software,Pagado,CRC,21.95,0.0,21.95,Tarjeta,9,12
-2025-10-07,Gasto,Gastos,G-5221,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,154.82,0.0,154.82,Tarjeta,3,7
-2025-10-08,Gasto,Gastos,G-5217,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,175.67,0.0,175.67,Transferencia,8,26
-2025-10-08,Gasto,Gastos,G-5219,Microsoft 365,Software,Pago Software,Pagado,CRC,49.88,0.0,49.88,Tarjeta,9,21
-2025-10-08,Gasto,Gastos,G-5215,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,736.47,0.0,736.47,Tarjeta,1,28
-2025-10-11,Gasto,Gastos,G-5226,Servicios Limpieza,Software,Gasto Software,Pagado,CRC,155.39,0.0,155.39,Efectivo,9,34
-2025-10-12,Gasto,Gastos,G-5241,Proveedor Hosting,Marketing,Gasto Marketing,Pagado,CRC,148.03,0.0,148.03,SINPE,5,27
-2025-10-14,Gasto,Gastos,G-5232,Proveedor Combustible,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,26.21,0.0,26.21,Transferencia,2,25
-2025-10-15,Gasto,Gastos,G-5229,Contador Externo,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,34.7,0.0,34.7,SINPE,2,7
-2025-10-15,Gasto,Gastos,G-5240,Proveedor Transporte,Seguros,Gasto Seguros,Pagado,CRC,142.01,0.0,142.01,SINPE,7,29
-2025-10-15,Gasto,Gastos,G-5236,ICE Telecom,Honorarios,Gasto Honorarios,Pagado,CRC,111.67,0.0,111.67,Efectivo,3,15
-2025-10-16,Gasto,Gastos,G-5231,Proveedor Hosting,Alquiler,Gasto Alquiler,Pagado,CRC,90.84,0.0,90.84,Transferencia,1,27
-2025-10-16,Gasto,Gastos,G-5222,Servicios Limpieza,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,22.77,0.0,22.77,Transferencia,4,34
-2025-10-17,Gasto,Gastos,G-5239,Proveedor Hosting,Seguros,Gasto Seguros,Pagado,CRC,86.67,0.0,86.67,Tarjeta,7,27
-2025-10-17,Gasto,Gastos,G-5225,Proveedor Renta,Servicios,Gasto Servicios,Pagado,CRC,100.82,0.0,100.82,SINPE,8,28
-2025-10-19,Gasto,Gastos,G-5228,Proveedor Hosting,Seguros,Gasto Seguros,Pagado,CRC,47.45,0.0,47.45,Tarjeta,7,27
-2025-10-20,Gasto,Gastos,G-5234,AWS/Cloud,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,23.13,0.0,23.13,Efectivo,2,1
-2025-10-21,Gasto,Gastos,G-5237,Proveedor Agua,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,196.44,0.0,196.44,Efectivo,4,24
-2025-10-21,Gasto,Gastos,G-5238,AWS/Cloud,Software,Gasto Software,Pagado,CRC,61.35,0.0,61.35,SINPE,9,1
-2025-10-21,Gasto,Gastos,G-5230,Contador Externo,Seguros,Gasto Seguros,Pagado,CRC,138.7,0.0,138.7,SINPE,7,7
-2025-10-22,Gasto,Gastos,G-5224,Banco Comisiones,Honorarios,Gasto Honorarios,Pagado,CRC,78.57,0.0,78.57,Transferencia,3,4
-2025-10-22,Gasto,Gastos,G-5223,Proveedor Agua,Papelería,Gasto Papelería,Pagado,CRC,80.69,0.0,80.69,Efectivo,6,24
-2025-10-25,Gasto,Gastos,G-5233,Proveedor Hosting,Transporte,Gasto Transporte,Pagado,CRC,198.33,0.0,198.33,Tarjeta,10,27
-2025-10-27,Gasto,Gastos,G-5242,Agencia Marketing,Marketing,Gasto Marketing,Pagado,CRC,343.78,0.0,343.78,SINPE,5,2
-2025-11-04,Gasto,Gastos,G-5249,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,133.2,0.0,133.2,Transferencia,3,7
-2025-11-05,Gasto,Gastos,G-5243,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,523.6,0.0,523.6,Tarjeta,1,28
-2025-11-05,Gasto,Gastos,G-5245,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,55.47,0.0,55.47,Transferencia,8,26
-2025-11-05,Gasto,Gastos,G-5248,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,46.67,0.0,46.67,Transferencia,7,33
-2025-11-05,Gasto,Gastos,G-5251,Microsoft 365,Software,Gasto Software,Pagado,CRC,241.56,0.0,241.56,Tarjeta,9,21
-2025-11-06,Gasto,Gastos,G-5246,Google Workspace,Software,Pago Software,Pagado,CRC,56.96,0.0,56.96,Tarjeta,9,12
-2025-11-07,Gasto,Gastos,G-5244,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,106.38,0.0,106.38,Transferencia,8,15
-2025-11-08,Gasto,Gastos,G-5247,Microsoft 365,Software,Pago Software,Pagado,CRC,30.7,0.0,30.7,Tarjeta,9,21
-2025-11-08,Gasto,Gastos,G-5250,Papelería Centro,Alquiler,Gasto Alquiler,Pagado,CRC,110.37,0.0,110.37,Efectivo,1,23
-2025-11-10,Gasto,Gastos,G-5268,Proveedor Transporte,Transporte,Gasto Transporte,Pagado,CRC,108.49,0.0,108.49,SINPE,10,29
-2025-11-10,Gasto,Gastos,G-5255,Proveedor Electricidad,Mantenimiento,Gasto Mantenimiento,Pagado,CRC,234.27,0.0,234.27,Transferencia,4,26
-2025-11-10,Gasto,Gastos,G-5256,Seguros PYME,Honorarios,Gasto Honorarios,Pagado,CRC,234.91,0.0,234.91,SINPE,3,33
-2025-11-14,Gasto,Gastos,G-5257,AWS/Cloud,Alquiler,Gasto Alquiler,Pagado,CRC,147.17,0.0,147.17,Transferencia,1,1
-2025-11-15,Gasto,Gastos,G-5263,Proveedor Combustible,Seguros,Gasto Seguros,Pagado,CRC,32.64,0.0,32.64,Transferencia,7,25
-2025-11-16,Gasto,Gastos,G-5269,Microsoft 365,Transporte,Gasto Transporte,Pagado,CRC,158.28,0.0,158.28,Tarjeta,10,21
-2025-11-17,Gasto,Gastos,G-5265,ICE Telecom,Transporte,Gasto Transporte,Pagado,CRC,68.05,0.0,68.05,SINPE,10,15
-2025-11-19,Gasto,Gastos,G-5258,Contador Externo,Transporte,Gasto Transporte,Pagado,CRC,247.41,0.0,247.41,Efectivo,10,7
-2025-11-19,Gasto,Gastos,G-5259,Proveedor Renta,Seguros,Gasto Seguros,Pagado,CRC,76.94,0.0,76.94,Transferencia,7,28
-2025-11-20,Gasto,Gastos,G-5252,Proveedor Combustible,Honorarios,Gasto Honorarios,Pagado,CRC,166.83,0.0,166.83,SINPE,3,25
-2025-11-20,Gasto,Gastos,G-5264,Proveedor Electricidad,Software,Gasto Software,Pagado,CRC,89.02,0.0,89.02,Tarjeta,9,26
-2025-11-23,Gasto,Gastos,G-5266,Contador Externo,Transporte,Gasto Transporte,Pagado,CRC,184.05,0.0,184.05,Transferencia,10,7
-2025-11-24,Gasto,Gastos,G-5262,Proveedor Agua,Software,Gasto Software,Pagado,CRC,215.76,0.0,215.76,Efectivo,9,24
-2025-11-25,Gasto,Gastos,G-5253,Contador Externo,Transporte,Gasto Transporte,Pagado,CRC,26.08,0.0,26.08,Transferencia,10,7
-2025-11-27,Gasto,Gastos,G-5267,Ferretería San José,Papelería,Gasto Papelería,Pagado,CRC,68.24,0.0,68.24,Transferencia,6,11
-2025-11-28,Gasto,Gastos,G-5260,Contador Externo,Software,Gasto Software,Pagado,CRC,121.22,0.0,121.22,SINPE,9,7
-2025-11-28,Gasto,Gastos,G-5254,Papelería Centro,Seguros,Gasto Seguros,Pagado,CRC,184.1,0.0,184.1,Transferencia,7,23
-2025-11-28,Gasto,Gastos,G-5261,Proveedor Electricidad,Alquiler,Gasto Alquiler,Pagado,CRC,92.23,0.0,92.23,SINPE,1,26
-2025-12-01,Gasto,Gastos,G-5275,Seguros PYME,Seguros,Pago Seguros,Pagado,CRC,105.45,0.0,105.45,Transferencia,7,33
-2025-12-02,Gasto,Gastos,G-5274,Microsoft 365,Software,Pago Software,Pagado,CRC,65.86,0.0,65.86,Transferencia,9,21
-2025-12-03,Gasto,Gastos,G-5276,Contador Externo,Honorarios,Pago Honorarios,Pagado,CRC,162.78,0.0,162.78,Tarjeta,3,7
-2025-12-03,Gasto,Gastos,G-5270,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,CRC,592.15,0.0,592.15,Tarjeta,1,28
-2025-12-04,Gasto,Gastos,G-5272,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,CRC,149.04,0.0,149.04,Transferencia,8,26
-2025-12-06,Gasto,Gastos,G-5271,ICE Telecom,Servicios,Pago Servicios,Pagado,CRC,76.19,0.0,76.19,Tarjeta,8,15
-2025-12-08,Gasto,Gastos,G-5273,Google Workspace,Software,Pago Software,Pagado,CRC,41.13,0.0,41.13,Tarjeta,9,12
-2025-12-10,Gasto,Gastos,G-5285,Servicios Limpieza,Servicios,Gasto Servicios,Pagado,CRC,248.3,0.0,248.3,Efectivo,8,34
-2025-12-14,Gasto,Gastos,G-5282,Proveedor Hosting,Alquiler,Gasto Alquiler,Pagado,CRC,109.31,0.0,109.31,Tarjeta,1,27
-2025-12-17,Gasto,Gastos,G-5283,Proveedor Combustible,Papelería,Gasto Papelería,Pagado,CRC,118.75,0.0,118.75,Efectivo,6,25
-2025-12-19,Gasto,Gastos,G-5287,ICE Telecom,Transporte,Gasto Transporte,Pagado,CRC,172.29,0.0,172.29,Efectivo,10,15
-2025-12-20,Gasto,Gastos,G-5277,Proveedor Agua,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,CRC,19.33,0.0,19.33,Transferencia,2,24
-2025-12-21,Gasto,Gastos,G-5278,Proveedor Transporte,Software,Gasto Software,Pagado,CRC,110.87,0.0,110.87,Transferencia,9,29
-2025-12-22,Gasto,Gastos,G-5281,Servicios Limpieza,Servicios,Gasto Servicios,Pagado,CRC,248.6,0.0,248.6,Transferencia,8,34
-2025-12-23,Gasto,Gastos,G-5280,ICE Telecom,Marketing,Gasto Marketing,Pagado,CRC,29.38,0.0,29.38,Efectivo,5,15
-2025-12-26,Gasto,Gastos,G-5284,Seguros PYME,Servicios,Gasto Servicios,Pagado,CRC,241.47,0.0,241.47,Tarjeta,8,33
-2025-12-28,Gasto,Gastos,G-5286,Banco Comisiones,Software,Gasto Software,Pagado,CRC,244.94,0.0,244.94,Transferencia,9,4
-2025-12-28,Gasto,Gastos,G-5279,Proveedor Transporte,Transporte,Gasto Transporte,Pagado,CRC,17.18,0.0,17.18,SINPE,10,29
+2025-01-02,Ingreso,Ventas,F-1004,Quantum Repair,Ingresos,Soporte Técnico,Pagada,USD,374.25,48.65,422.9,Transferencia,11,31
+2025-01-03,Ingreso,Ventas,F-1003,Hotel Brisa,Ingresos,Servicio Mensual,Pendiente,USD,634.17,82.44,716.61,Transferencia,11,14
+2025-01-04,Ingreso,Ventas,F-1001,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,USD,487.66,63.4,551.06,Tarjeta,11,3
+2025-01-05,Ingreso,Ventas,F-1002,Innova Studio,Ingresos,Servicio Mensual,Pagada,USD,560.76,72.9,633.66,Efectivo,11,16
+2025-01-05,Ingreso,Ventas,F-1007,Beta Services,Ingresos,Servicio Mensual,Pagada,USD,596.47,77.54,674.01,Efectivo,11,5
+2025-01-09,Ingreso,Ventas,F-1000,Delta Logistics,Ingresos,Servicio Mensual,Pendiente,USD,498.48,64.8,563.28,Transferencia,11,8
+2025-01-09,Ingreso,Ventas,F-1005,Café Central,Ingresos,Servicio Mensual,Pagada,USD,640.05,83.21,723.26,Transferencia,11,6
+2025-01-09,Ingreso,Ventas,F-1011,Hotel Brisa,Ingresos,Capacitación,Pendiente,USD,408.66,53.13,461.79,SINPE,11,14
+2025-01-10,Ingreso,Ventas,F-1006,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,293.21,38.12,331.33,Transferencia,11,19
+2025-01-13,Ingreso,Ventas,F-1009,TropiFood,Ingresos,Proyecto,Pendiente,USD,3306.12,429.8,3735.92,Efectivo,11,36
+2025-01-19,Ingreso,Ventas,F-1008,Faro Tech,Ingresos,Capacitación,Pagada,USD,299.42,38.92,338.34,Transferencia,11,10
+2025-01-23,Ingreso,Ventas,F-1012,Grupo Horizonte,Ingresos,Capacitación,Pagada,USD,684.27,88.96,773.23,Tarjeta,11,13
+2025-01-25,Ingreso,Ventas,F-1010,Innova Studio,Ingresos,Implementación,Pagada,USD,1421.54,184.8,1606.34,Transferencia,11,16
+2025-02-01,Ingreso,Ventas,F-1015,Innova Studio,Ingresos,Servicio Mensual,Pagada,USD,336.55,43.75,380.3,Efectivo,11,16
+2025-02-01,Ingreso,Ventas,F-1017,Quantum Repair,Ingresos,Servicio Mensual,Pendiente,USD,532.23,69.19,601.42,SINPE,11,31
+2025-02-02,Ingreso,Ventas,F-1019,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,372.5,48.43,420.93,Tarjeta,11,19
+2025-02-03,Ingreso,Ventas,F-1020,Beta Services,Ingresos,Servicio Mensual,Pendiente,USD,501.61,65.21,566.82,Transferencia,11,5
+2025-02-05,Ingreso,Ventas,F-1013,Delta Logistics,Ingresos,Servicio Mensual,Pagada,USD,371.25,48.26,419.51,Efectivo,11,8
+2025-02-07,Ingreso,Ventas,F-1016,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,USD,298.77,38.84,337.61,SINPE,11,14
+2025-02-07,Ingreso,Ventas,F-1014,Alfa Comercial,Ingresos,Soporte Técnico,Pendiente,USD,185.8,24.15,209.95,Efectivo,11,3
+2025-02-07,Ingreso,Ventas,F-1018,Café Central,Ingresos,Servicio Mensual,Pagada,USD,447.88,58.22,506.1,Tarjeta,11,6
+2025-02-15,Ingreso,Ventas,F-1021,Jade Imports,Ingresos,Implementación,Pagada,USD,889.05,115.58,1004.63,Transferencia,11,17
+2025-02-22,Ingreso,Ventas,F-1025,Luna Boutique,Ingresos,Proyecto,Pendiente,USD,2389.9,310.69,2700.59,Transferencia,11,19
+2025-02-23,Ingreso,Ventas,F-1022,Café Central,Ingresos,Implementación,Pagada,USD,1773.58,230.57,2004.15,Tarjeta,11,6
+2025-02-23,Ingreso,Ventas,F-1023,Eco Market,Ingresos,Proyecto,Pagada,USD,1444.92,187.84,1632.76,Efectivo,11,9
+2025-02-25,Ingreso,Ventas,F-1024,Grupo Horizonte,Ingresos,Proyecto,Pagada,USD,3176.56,412.95,3589.51,Efectivo,11,13
+2025-03-01,Ingreso,Ventas,F-1027,Alfa Comercial,Ingresos,Servicio Mensual,Pendiente,USD,304.94,39.64,344.58,SINPE,11,3
+2025-03-01,Ingreso,Ventas,F-1031,Café Central,Ingresos,Servicio Mensual,Pagada,USD,302.43,39.32,341.75,Transferencia,11,6
+2025-03-02,Ingreso,Ventas,F-1030,Quantum Repair,Ingresos,Soporte Técnico,Pagada,USD,226.29,29.42,255.71,Efectivo,11,31
+2025-03-02,Ingreso,Ventas,F-1033,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,362.41,47.11,409.52,Transferencia,11,5
+2025-03-04,Ingreso,Ventas,F-1032,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,162.05,21.07,183.12,SINPE,11,19
+2025-03-04,Ingreso,Ventas,F-1028,Innova Studio,Ingresos,Soporte Técnico,Pagada,USD,320.69,41.69,362.38,Tarjeta,11,16
+2025-03-06,Ingreso,Ventas,F-1026,Delta Logistics,Ingresos,Servicio Mensual,Pendiente,USD,497.67,64.7,562.37,Tarjeta,11,8
+2025-03-09,Ingreso,Ventas,F-1035,Mar Azul,Ingresos,Implementación,Pagada,USD,1054.77,137.12,1191.89,SINPE,11,20
+2025-03-09,Ingreso,Ventas,F-1038,Krypton Gym,Ingresos,Implementación,Pagada,USD,1301.01,169.13,1470.14,Tarjeta,11,18
+2025-03-10,Ingreso,Ventas,F-1029,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,USD,192.9,25.08,217.98,Efectivo,11,14
+2025-03-10,Ingreso,Ventas,F-1034,Alfa Comercial,Ingresos,Implementación,Pagada,USD,799.57,103.94,903.51,Tarjeta,11,3
+2025-03-14,Ingreso,Ventas,F-1037,Eco Market,Ingresos,Capacitación,Pendiente,USD,304.09,39.53,343.62,Transferencia,11,9
+2025-03-17,Ingreso,Ventas,F-1036,Órbita Media,Ingresos,Capacitación,Pagada,USD,577.06,75.02,652.08,Efectivo,11,37
+2025-03-20,Ingreso,Ventas,F-1040,Hotel Brisa,Ingresos,Implementación,Pagada,USD,1729.92,224.89,1954.81,Transferencia,11,14
+2025-03-24,Ingreso,Ventas,F-1039,Beta Services,Ingresos,Implementación,Pendiente,USD,1621.61,210.81,1832.42,Transferencia,11,5
+2025-04-02,Ingreso,Ventas,F-1047,Luna Boutique,Ingresos,Servicio Mensual,Pagada,USD,411.23,53.46,464.69,SINPE,11,19
+2025-04-02,Ingreso,Ventas,F-1043,Innova Studio,Ingresos,Servicio Mensual,Pagada,USD,485.53,63.12,548.65,Transferencia,11,16
+2025-04-05,Ingreso,Ventas,F-1048,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,210.96,27.42,238.38,Transferencia,11,5
+2025-04-06,Ingreso,Ventas,F-1045,Quantum Repair,Ingresos,Soporte Técnico,Pagada,USD,180.71,23.49,204.2,Transferencia,11,31
+2025-04-06,Ingreso,Ventas,F-1042,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,USD,408.54,53.11,461.65,SINPE,11,3
+2025-04-08,Ingreso,Ventas,F-1049,Beta Services,Ingresos,Capacitación,Pagada,USD,669.1,86.98,756.08,SINPE,11,5
+2025-04-09,Ingreso,Ventas,F-1044,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,USD,172.52,22.43,194.95,Transferencia,11,14
+2025-04-09,Ingreso,Ventas,F-1046,Café Central,Ingresos,Soporte Técnico,Pagada,USD,431.49,56.09,487.58,Tarjeta,11,6
+2025-04-10,Ingreso,Ventas,F-1041,Delta Logistics,Ingresos,Servicio Mensual,Pagada,USD,469.92,61.09,531.01,SINPE,11,8
+2025-04-12,Ingreso,Ventas,F-1051,Café Central,Ingresos,Proyecto,Pagada,USD,1100.4,143.05,1243.45,Tarjeta,11,6
+2025-04-12,Ingreso,Ventas,F-1052,Norte Constructora,Ingresos,Implementación,Pagada,USD,1047.5,136.18,1183.68,Transferencia,11,22
+2025-04-14,Ingreso,Ventas,F-1053,Luna Boutique,Ingresos,Proyecto,Pendiente,USD,1861.32,241.97,2103.29,Efectivo,11,19
+2025-04-22,Ingreso,Ventas,F-1050,Faro Tech,Ingresos,Proyecto,Pagada,USD,3487.0,453.31,3940.31,Transferencia,11,10
+2025-05-02,Ingreso,Ventas,F-1059,Café Central,Ingresos,Soporte Técnico,Pagada,USD,243.37,31.64,275.01,SINPE,11,6
+2025-05-02,Ingreso,Ventas,F-1060,Luna Boutique,Ingresos,Soporte Técnico,Pendiente,USD,187.46,24.37,211.83,Transferencia,11,19
+2025-05-03,Ingreso,Ventas,F-1055,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,USD,137.63,17.89,155.52,Efectivo,11,3
+2025-05-04,Ingreso,Ventas,F-1058,Quantum Repair,Ingresos,Servicio Mensual,Pagada,USD,311.86,40.54,352.4,Efectivo,11,31
+2025-05-04,Ingreso,Ventas,F-1056,Innova Studio,Ingresos,Soporte Técnico,Pagada,USD,181.18,23.55,204.73,Efectivo,11,16
+2025-05-07,Ingreso,Ventas,F-1061,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,365.65,47.53,413.18,Efectivo,11,5
+2025-05-08,Ingreso,Ventas,F-1057,Hotel Brisa,Ingresos,Servicio Mensual,Pagada,USD,382.15,49.68,431.83,SINPE,11,14
+2025-05-10,Ingreso,Ventas,F-1054,Delta Logistics,Ingresos,Servicio Mensual,Pagada,USD,672.34,87.4,759.74,Tarjeta,11,8
+2025-05-14,Ingreso,Ventas,F-1068,Jade Imports,Ingresos,Capacitación,Pagada,USD,678.11,88.15,766.26,SINPE,11,17
+2025-05-17,Ingreso,Ventas,F-1065,Delta Logistics,Ingresos,Proyecto,Pagada,USD,2074.29,269.66,2343.95,Efectivo,11,8
+2025-05-20,Ingreso,Ventas,F-1062,Delta Logistics,Ingresos,Proyecto,Pendiente,USD,1649.44,214.43,1863.87,Efectivo,11,8
+2025-05-21,Ingreso,Ventas,F-1064,Luna Boutique,Ingresos,Implementación,Pagada,USD,1877.74,244.11,2121.85,SINPE,11,19
+2025-05-24,Ingreso,Ventas,F-1063,Alfa Comercial,Ingresos,Proyecto,Pagada,USD,3419.96,444.59,3864.55,Tarjeta,11,3
+2025-05-25,Ingreso,Ventas,F-1066,Jade Imports,Ingresos,Implementación,Pagada,USD,896.62,116.56,1013.18,Efectivo,11,17
+2025-05-26,Ingreso,Ventas,F-1067,Faro Tech,Ingresos,Capacitación,Pagada,USD,444.38,57.77,502.15,SINPE,11,10
+2025-06-03,Ingreso,Ventas,F-1070,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,USD,415.8,54.05,469.85,Transferencia,11,3
+2025-06-03,Ingreso,Ventas,F-1074,Café Central,Ingresos,Servicio Mensual,Pagada,USD,659.11,85.68,744.79,Efectivo,11,6
+2025-06-04,Ingreso,Ventas,F-1071,Innova Studio,Ingresos,Soporte Técnico,Pendiente,USD,202.38,26.31,228.69,Tarjeta,11,16
+2025-06-04,Ingreso,Ventas,F-1072,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,USD,327.65,42.59,370.24,Efectivo,11,14
+2025-06-08,Ingreso,Ventas,F-1069,Delta Logistics,Ingresos,Soporte Técnico,Pagada,USD,272.86,35.47,308.33,Efectivo,11,8
+2025-06-08,Ingreso,Ventas,F-1076,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,437.41,56.86,494.27,Efectivo,11,5
+2025-06-09,Ingreso,Ventas,F-1075,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,145.87,18.96,164.83,Transferencia,11,19
+2025-06-10,Ingreso,Ventas,F-1073,Quantum Repair,Ingresos,Servicio Mensual,Pagada,USD,589.45,76.63,666.08,Efectivo,11,31
+2025-06-12,Ingreso,Ventas,F-1080,Eco Market,Ingresos,Implementación,Pendiente,USD,1144.41,148.77,1293.18,Tarjeta,11,9
+2025-06-13,Ingreso,Ventas,F-1077,Órbita Media,Ingresos,Proyecto,Pagada,USD,4042.37,525.51,4567.88,Tarjeta,11,37
+2025-06-15,Ingreso,Ventas,F-1079,Jade Imports,Ingresos,Capacitación,Pagada,USD,401.15,52.15,453.3,Transferencia,11,17
+2025-06-20,Ingreso,Ventas,F-1083,Soluciones Tica,Ingresos,Capacitación,Pagada,USD,198.03,25.74,223.77,Efectivo,11,35
+2025-06-21,Ingreso,Ventas,F-1081,Café Central,Ingresos,Capacitación,Pagada,USD,398.09,51.75,449.84,Transferencia,11,6
+2025-06-21,Ingreso,Ventas,F-1082,Grupo Horizonte,Ingresos,Capacitación,Pagada,USD,751.42,97.68,849.1,Transferencia,11,13
+2025-06-24,Ingreso,Ventas,F-1078,Innova Studio,Ingresos,Capacitación,Pagada,USD,580.23,75.43,655.66,Transferencia,11,16
+2025-07-01,Ingreso,Ventas,F-1090,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,187.27,24.35,211.62,Transferencia,11,19
+2025-07-03,Ingreso,Ventas,F-1086,Innova Studio,Ingresos,Servicio Mensual,Pagada,USD,615.56,80.02,695.58,Transferencia,11,16
+2025-07-03,Ingreso,Ventas,F-1087,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,USD,174.52,22.69,197.21,Efectivo,11,14
+2025-07-04,Ingreso,Ventas,F-1091,Beta Services,Ingresos,Servicio Mensual,Pagada,USD,590.51,76.77,667.28,Tarjeta,11,5
+2025-07-07,Ingreso,Ventas,F-1084,Delta Logistics,Ingresos,Servicio Mensual,Pagada,USD,460.64,59.88,520.52,Efectivo,11,8
+2025-07-07,Ingreso,Ventas,F-1085,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,USD,320.66,41.69,362.35,Tarjeta,11,3
+2025-07-07,Ingreso,Ventas,F-1089,Café Central,Ingresos,Soporte Técnico,Pagada,USD,370.47,48.16,418.63,Transferencia,11,6
+2025-07-08,Ingreso,Ventas,F-1088,Quantum Repair,Ingresos,Soporte Técnico,Pagada,USD,221.25,28.76,250.01,SINPE,11,31
+2025-07-11,Ingreso,Ventas,F-1093,TropiFood,Ingresos,Implementación,Pendiente,USD,1757.66,228.5,1986.16,Transferencia,11,36
+2025-07-14,Ingreso,Ventas,F-1092,Soluciones Tica,Ingresos,Capacitación,Pagada,USD,578.7,75.23,653.93,Tarjeta,11,35
+2025-07-26,Ingreso,Ventas,F-1094,Jade Imports,Ingresos,Proyecto,Pagada,USD,3896.49,506.54,4403.03,Tarjeta,11,17
+2025-08-02,Ingreso,Ventas,F-1095,Delta Logistics,Ingresos,Servicio Mensual,Pagada,USD,317.7,41.3,359.0,Transferencia,11,8
+2025-08-02,Ingreso,Ventas,F-1100,Café Central,Ingresos,Soporte Técnico,Pagada,USD,384.49,49.98,434.47,Efectivo,11,6
+2025-08-05,Ingreso,Ventas,F-1099,Quantum Repair,Ingresos,Soporte Técnico,Pagada,USD,259.46,33.73,293.19,SINPE,11,31
+2025-08-06,Ingreso,Ventas,F-1098,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,USD,332.19,43.18,375.37,Tarjeta,11,14
+2025-08-06,Ingreso,Ventas,F-1097,Innova Studio,Ingresos,Servicio Mensual,Pagada,USD,594.34,77.26,671.6,Transferencia,11,16
+2025-08-06,Ingreso,Ventas,F-1102,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,222.1,28.87,250.97,Transferencia,11,5
+2025-08-07,Ingreso,Ventas,F-1101,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,128.61,16.72,145.33,Tarjeta,11,19
+2025-08-10,Ingreso,Ventas,F-1096,Alfa Comercial,Ingresos,Servicio Mensual,Pendiente,USD,408.47,53.1,461.57,SINPE,11,3
+2025-08-15,Ingreso,Ventas,F-1103,Café Central,Ingresos,Proyecto,Pagada,USD,2241.21,291.36,2532.57,Tarjeta,11,6
+2025-08-15,Ingreso,Ventas,F-1105,Mar Azul,Ingresos,Capacitación,Pagada,USD,558.46,72.6,631.06,SINPE,11,20
+2025-08-23,Ingreso,Ventas,F-1104,Pura Vida Tours,Ingresos,Capacitación,Pendiente,USD,631.97,82.16,714.13,Tarjeta,11,30
+2025-08-25,Ingreso,Ventas,F-1106,Norte Constructora,Ingresos,Capacitación,Pagada,USD,380.53,49.47,430.0,SINPE,11,22
+2025-09-01,Ingreso,Ventas,F-1111,Quantum Repair,Ingresos,Soporte Técnico,Pendiente,USD,368.73,47.93,416.66,Efectivo,11,31
+2025-09-01,Ingreso,Ventas,F-1112,Café Central,Ingresos,Soporte Técnico,Pagada,USD,292.12,37.98,330.1,SINPE,11,6
+2025-09-01,Ingreso,Ventas,F-1113,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,450.6,58.58,509.18,Transferencia,11,19
+2025-09-03,Ingreso,Ventas,F-1110,Hotel Brisa,Ingresos,Soporte Técnico,Pendiente,USD,139.15,18.09,157.24,SINPE,11,14
+2025-09-05,Ingreso,Ventas,F-1107,Delta Logistics,Ingresos,Servicio Mensual,Pendiente,USD,363.6,47.27,410.87,SINPE,11,8
+2025-09-07,Ingreso,Ventas,F-1114,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,159.29,20.71,180.0,Tarjeta,11,5
+2025-09-09,Ingreso,Ventas,F-1120,Jade Imports,Ingresos,Implementación,Pagada,USD,1059.21,137.7,1196.91,Efectivo,11,17
+2025-09-09,Ingreso,Ventas,F-1108,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,USD,392.97,51.09,444.06,SINPE,11,3
+2025-09-09,Ingreso,Ventas,F-1109,Innova Studio,Ingresos,Soporte Técnico,Pagada,USD,463.85,60.3,524.15,SINPE,11,16
+2025-09-10,Ingreso,Ventas,F-1119,Río Verde,Ingresos,Implementación,Pagada,USD,675.6,87.83,763.43,Efectivo,11,32
+2025-09-10,Ingreso,Ventas,F-1115,Jade Imports,Ingresos,Implementación,Pagada,USD,831.2,108.06,939.26,Tarjeta,11,17
+2025-09-14,Ingreso,Ventas,F-1118,Grupo Horizonte,Ingresos,Capacitación,Pendiente,USD,623.22,81.02,704.24,Tarjeta,11,13
+2025-09-15,Ingreso,Ventas,F-1121,Café Central,Ingresos,Capacitación,Pagada,USD,704.55,91.59,796.14,Tarjeta,11,6
+2025-09-20,Ingreso,Ventas,F-1116,Quantum Repair,Ingresos,Capacitación,Pagada,USD,781.59,101.61,883.2,Efectivo,11,31
+2025-09-26,Ingreso,Ventas,F-1117,Jade Imports,Ingresos,Proyecto,Pagada,USD,1230.61,159.98,1390.59,Transferencia,11,17
+2025-10-02,Ingreso,Ventas,F-1123,Alfa Comercial,Ingresos,Servicio Mensual,Pagada,USD,382.36,49.71,432.07,SINPE,11,3
+2025-10-03,Ingreso,Ventas,F-1127,Café Central,Ingresos,Soporte Técnico,Pagada,USD,308.77,40.14,348.91,SINPE,11,6
+2025-10-04,Ingreso,Ventas,F-1126,Quantum Repair,Ingresos,Servicio Mensual,Pagada,USD,727.82,94.62,822.44,Transferencia,11,31
+2025-10-07,Ingreso,Ventas,F-1129,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,242.28,31.5,273.78,Tarjeta,11,5
+2025-10-07,Ingreso,Ventas,F-1122,Delta Logistics,Ingresos,Servicio Mensual,Pagada,USD,539.27,70.11,609.38,SINPE,11,8
+2025-10-08,Ingreso,Ventas,F-1124,Innova Studio,Ingresos,Soporte Técnico,Pagada,USD,369.51,48.04,417.55,Efectivo,11,16
+2025-10-09,Ingreso,Ventas,F-1133,Órbita Media,Ingresos,Implementación,Pendiente,USD,1030.92,134.02,1164.94,SINPE,11,37
+2025-10-10,Ingreso,Ventas,F-1128,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,347.69,45.2,392.89,Transferencia,11,19
+2025-10-10,Ingreso,Ventas,F-1125,Hotel Brisa,Ingresos,Servicio Mensual,Pendiente,USD,682.18,88.68,770.86,SINPE,11,14
+2025-10-11,Ingreso,Ventas,F-1131,Krypton Gym,Ingresos,Capacitación,Pagada,USD,753.76,97.99,851.75,Transferencia,11,18
+2025-10-17,Ingreso,Ventas,F-1135,Faro Tech,Ingresos,Proyecto,Pagada,USD,1058.54,137.61,1196.15,Tarjeta,11,10
+2025-10-20,Ingreso,Ventas,F-1130,Jade Imports,Ingresos,Proyecto,Pendiente,USD,1143.63,148.67,1292.3,SINPE,11,17
+2025-10-22,Ingreso,Ventas,F-1132,Río Verde,Ingresos,Capacitación,Pagada,USD,236.2,30.71,266.91,Efectivo,11,32
+2025-10-23,Ingreso,Ventas,F-1134,Órbita Media,Ingresos,Implementación,Pagada,USD,710.8,92.4,803.2,Tarjeta,11,37
+2025-11-02,Ingreso,Ventas,F-1136,Delta Logistics,Ingresos,Soporte Técnico,Pagada,USD,452.61,58.84,511.45,Efectivo,11,8
+2025-11-04,Ingreso,Ventas,F-1142,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,212.88,27.67,240.55,Transferencia,11,19
+2025-11-05,Ingreso,Ventas,F-1140,Quantum Repair,Ingresos,Soporte Técnico,Pagada,USD,425.13,55.27,480.4,Efectivo,11,31
+2025-11-05,Ingreso,Ventas,F-1137,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,USD,274.0,35.62,309.62,Efectivo,11,3
+2025-11-07,Ingreso,Ventas,F-1139,Hotel Brisa,Ingresos,Soporte Técnico,Pagada,USD,448.31,58.28,506.59,Transferencia,11,14
+2025-11-08,Ingreso,Ventas,F-1143,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,264.12,34.34,298.46,Efectivo,11,5
+2025-11-09,Ingreso,Ventas,F-1138,Innova Studio,Ingresos,Servicio Mensual,Pagada,USD,472.56,61.43,533.99,Transferencia,11,16
+2025-11-09,Ingreso,Ventas,F-1141,Café Central,Ingresos,Soporte Técnico,Pagada,USD,287.4,37.36,324.76,Tarjeta,11,6
+2025-11-23,Ingreso,Ventas,F-1146,Café Central,Ingresos,Capacitación,Pagada,USD,417.74,54.31,472.05,Transferencia,11,6
+2025-11-24,Ingreso,Ventas,F-1145,Delta Logistics,Ingresos,Capacitación,Pendiente,USD,211.4,27.48,238.88,Tarjeta,11,8
+2025-11-25,Ingreso,Ventas,F-1147,Krypton Gym,Ingresos,Capacitación,Pagada,USD,810.72,105.39,916.11,Efectivo,11,18
+2025-11-26,Ingreso,Ventas,F-1144,Quantum Repair,Ingresos,Capacitación,Pagada,USD,756.82,98.39,855.21,Efectivo,11,31
+2025-12-01,Ingreso,Ventas,F-1154,Luna Boutique,Ingresos,Soporte Técnico,Pagada,USD,390.36,50.75,441.11,Transferencia,11,19
+2025-12-02,Ingreso,Ventas,F-1149,Alfa Comercial,Ingresos,Soporte Técnico,Pagada,USD,413.5,53.76,467.26,Efectivo,11,3
+2025-12-02,Ingreso,Ventas,F-1152,Quantum Repair,Ingresos,Soporte Técnico,Pagada,USD,305.91,39.77,345.68,Efectivo,11,31
+2025-12-03,Ingreso,Ventas,F-1153,Café Central,Ingresos,Servicio Mensual,Pagada,USD,450.63,58.58,509.21,Efectivo,11,6
+2025-12-05,Ingreso,Ventas,F-1150,Innova Studio,Ingresos,Servicio Mensual,Pagada,USD,297.02,38.61,335.63,SINPE,11,16
+2025-12-06,Ingreso,Ventas,F-1155,Beta Services,Ingresos,Soporte Técnico,Pagada,USD,311.68,40.52,352.2,SINPE,11,5
+2025-12-07,Ingreso,Ventas,F-1151,Hotel Brisa,Ingresos,Servicio Mensual,Pagada,USD,370.35,48.15,418.5,Tarjeta,11,14
+2025-12-08,Ingreso,Ventas,F-1158,Innova Studio,Ingresos,Proyecto,Pagada,USD,3754.72,488.11,4242.83,Transferencia,11,16
+2025-12-09,Ingreso,Ventas,F-1148,Delta Logistics,Ingresos,Servicio Mensual,Pagada,USD,508.46,66.1,574.56,SINPE,11,8
+2025-12-14,Ingreso,Ventas,F-1160,Hotel Brisa,Ingresos,Proyecto,Pagada,USD,1727.07,224.52,1951.59,Tarjeta,11,14
+2025-12-17,Ingreso,Ventas,F-1157,Soluciones Tica,Ingresos,Proyecto,Pagada,USD,1874.26,243.65,2117.91,Efectivo,11,35
+2025-12-20,Ingreso,Ventas,F-1156,Grupo Horizonte,Ingresos,Capacitación,Pagada,USD,240.79,31.3,272.09,SINPE,11,13
+2025-12-23,Ingreso,Ventas,F-1159,TropiFood,Ingresos,Capacitación,Pendiente,USD,622.17,80.88,703.05,SINPE,11,36
+2025-01-01,Gasto,Gastos,G-5003,Google Workspace,Software,Pago Software,Pagado,USD,44.78,0.0,44.78,Tarjeta,9,12
+2025-01-02,Gasto,Gastos,G-5002,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,137.73,0.0,137.73,Tarjeta,8,26
+2025-01-03,Gasto,Gastos,G-5006,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,131.79,0.0,131.79,Transferencia,3,7
+2025-01-04,Gasto,Gastos,G-5004,Microsoft 365,Software,Pago Software,Pagado,USD,52.38,0.0,52.38,Tarjeta,9,21
+2025-01-05,Gasto,Gastos,G-5005,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,90.19,0.0,90.19,Transferencia,7,33
+2025-01-05,Gasto,Gastos,G-5019,ICE Telecom,Software,Gasto Software,Pagado,USD,97.26,0.0,97.26,Tarjeta,9,15
+2025-01-06,Gasto,Gastos,G-5010,Proveedor Combustible,Transporte,Gasto Transporte,Pagado,USD,176.29,0.0,176.29,Tarjeta,10,25
+2025-01-07,Gasto,Gastos,G-5001,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,106.68,0.0,106.68,Tarjeta,8,15
+2025-01-08,Gasto,Gastos,G-5000,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,552.69,0.0,552.69,Tarjeta,1,28
+2025-01-08,Gasto,Gastos,G-5007,Proveedor Hosting,Servicios,Gasto Servicios,Pagado,USD,67.88,0.0,67.88,Tarjeta,8,27
+2025-01-08,Gasto,Gastos,G-5013,Ferretería San José,Marketing,Gasto Marketing,Pagado,USD,237.86,0.0,237.86,Efectivo,5,11
+2025-01-10,Gasto,Gastos,G-5020,Contador Externo,Alquiler,Gasto Alquiler,Pagado,USD,75.16,0.0,75.16,Tarjeta,1,7
+2025-01-11,Gasto,Gastos,G-5016,Google Workspace,Seguros,Gasto Seguros,Pagado,USD,151.56,0.0,151.56,Tarjeta,7,12
+2025-01-12,Gasto,Gastos,G-5011,Proveedor Transporte,Honorarios,Gasto Honorarios,Pagado,USD,215.6,0.0,215.6,Transferencia,3,29
+2025-01-12,Gasto,Gastos,G-5015,AWS/Cloud,Papelería,Gasto Papelería,Pagado,USD,247.34,0.0,247.34,Tarjeta,6,1
+2025-01-13,Gasto,Gastos,G-5018,Proveedor Renta,Seguros,Gasto Seguros,Pagado,USD,202.05,0.0,202.05,Transferencia,7,28
+2025-01-16,Gasto,Gastos,G-5008,Seguros PYME,Honorarios,Gasto Honorarios,Pagado,USD,171.58,0.0,171.58,Efectivo,3,33
+2025-01-24,Gasto,Gastos,G-5017,Contador Externo,Software,Gasto Software,Pagado,USD,12.67,0.0,12.67,Tarjeta,9,7
+2025-01-25,Gasto,Gastos,G-5012,Servicios Limpieza,Seguros,Gasto Seguros,Pagado,USD,97.36,0.0,97.36,Efectivo,7,34
+2025-01-25,Gasto,Gastos,G-5014,Google Workspace,Marketing,Gasto Marketing,Pagado,USD,164.2,0.0,164.2,Transferencia,5,12
+2025-01-25,Gasto,Gastos,G-5009,Proveedor Renta,Mantenimiento,Gasto Mantenimiento,Pagado,USD,35.57,0.0,35.57,Efectivo,4,28
+2025-02-01,Gasto,Gastos,G-5024,Google Workspace,Software,Pago Software,Pagado,USD,49.09,0.0,49.09,Tarjeta,9,12
+2025-02-01,Gasto,Gastos,G-5026,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,119.88,0.0,119.88,Tarjeta,7,33
+2025-02-02,Gasto,Gastos,G-5023,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,108.76,0.0,108.76,Transferencia,8,26
+2025-02-05,Gasto,Gastos,G-5043,Contador Externo,Papelería,Gasto Papelería,Pagado,USD,55.17,0.0,55.17,Tarjeta,6,7
+2025-02-07,Gasto,Gastos,G-5021,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,609.39,0.0,609.39,Transferencia,1,28
+2025-02-07,Gasto,Gastos,G-5035,Google Workspace,Servicios,Gasto Servicios,Pagado,USD,34.19,0.0,34.19,Transferencia,8,12
+2025-02-07,Gasto,Gastos,G-5027,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,298.39,0.0,298.39,Tarjeta,3,7
+2025-02-07,Gasto,Gastos,G-5028,Proveedor Transporte,Servicios,Gasto Servicios,Pagado,USD,88.66,0.0,88.66,Tarjeta,8,29
+2025-02-08,Gasto,Gastos,G-5025,Microsoft 365,Software,Pago Software,Pagado,USD,52.17,0.0,52.17,Transferencia,9,21
+2025-02-08,Gasto,Gastos,G-5022,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,78.62,0.0,78.62,Tarjeta,8,15
+2025-02-09,Gasto,Gastos,G-5047,Google Workspace,Alquiler,Gasto Alquiler,Pagado,USD,49.46,0.0,49.46,Transferencia,1,12
+2025-02-09,Gasto,Gastos,G-5044,Seguros PYME,Servicios,Gasto Servicios,Pagado,USD,188.35,0.0,188.35,Transferencia,8,33
+2025-02-09,Gasto,Gastos,G-5039,Banco Comisiones,Marketing,Gasto Marketing,Pagado,USD,168.3,0.0,168.3,Tarjeta,5,4
+2025-02-10,Gasto,Gastos,G-5042,Ferretería San José,Alquiler,Gasto Alquiler,Pagado,USD,77.04,0.0,77.04,SINPE,1,11
+2025-02-11,Gasto,Gastos,G-5045,Google Workspace,Seguros,Gasto Seguros,Pagado,USD,101.53,0.0,101.53,Efectivo,7,12
+2025-02-12,Gasto,Gastos,G-5032,Proveedor Combustible,Honorarios,Gasto Honorarios,Pagado,USD,110.49,0.0,110.49,Efectivo,3,25
+2025-02-13,Gasto,Gastos,G-5029,Google Workspace,Software,Gasto Software,Pagado,USD,160.59,0.0,160.59,SINPE,9,12
+2025-02-16,Gasto,Gastos,G-5034,Contador Externo,Transporte,Gasto Transporte,Pagado,USD,238.96,0.0,238.96,Efectivo,10,7
+2025-02-16,Gasto,Gastos,G-5037,Microsoft 365,Mantenimiento,Gasto Mantenimiento,Pagado,USD,219.92,0.0,219.92,Efectivo,4,21
+2025-02-16,Gasto,Gastos,G-5046,Contador Externo,Software,Gasto Software,Pagado,USD,86.17,0.0,86.17,SINPE,9,7
+2025-02-19,Gasto,Gastos,G-5048,Google Workspace,Transporte,Gasto Transporte,Pagado,USD,169.54,0.0,169.54,Efectivo,10,12
+2025-02-21,Gasto,Gastos,G-5030,Seguros PYME,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,19.18,0.0,19.18,Efectivo,2,33
+2025-02-22,Gasto,Gastos,G-5036,Servicios Limpieza,Software,Gasto Software,Pagado,USD,26.28,0.0,26.28,SINPE,9,34
+2025-02-22,Gasto,Gastos,G-5040,Microsoft 365,Papelería,Gasto Papelería,Pagado,USD,99.48,0.0,99.48,SINPE,6,21
+2025-02-22,Gasto,Gastos,G-5041,Papelería Centro,Mantenimiento,Gasto Mantenimiento,Pagado,USD,243.94,0.0,243.94,Transferencia,4,23
+2025-02-24,Gasto,Gastos,G-5038,AWS/Cloud,Transporte,Gasto Transporte,Pagado,USD,86.36,0.0,86.36,Transferencia,10,1
+2025-02-25,Gasto,Gastos,G-5031,Microsoft 365,Servicios,Gasto Servicios,Pagado,USD,166.92,0.0,166.92,Tarjeta,8,21
+2025-02-28,Gasto,Gastos,G-5033,Seguros PYME,Mantenimiento,Gasto Mantenimiento,Pagado,USD,34.63,0.0,34.63,Efectivo,4,33
+2025-03-01,Gasto,Gastos,G-5053,Microsoft 365,Software,Pago Software,Pagado,USD,20.38,0.0,20.38,Tarjeta,9,21
+2025-03-02,Gasto,Gastos,G-5050,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,70.89,0.0,70.89,Transferencia,8,15
+2025-03-04,Gasto,Gastos,G-5054,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,100.22,0.0,100.22,Tarjeta,7,33
+2025-03-05,Gasto,Gastos,G-5051,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,138.17,0.0,138.17,Tarjeta,8,26
+2025-03-05,Gasto,Gastos,G-5052,Google Workspace,Software,Pago Software,Pagado,USD,21.82,0.0,21.82,Tarjeta,9,12
+2025-03-05,Gasto,Gastos,G-5055,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,205.31,0.0,205.31,Transferencia,3,7
+2025-03-08,Gasto,Gastos,G-5049,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,569.11,0.0,569.11,Transferencia,1,28
+2025-03-09,Gasto,Gastos,G-5069,Contador Externo,Papelería,Gasto Papelería,Pagado,USD,116.66,0.0,116.66,Efectivo,6,7
+2025-03-09,Gasto,Gastos,G-5056,Proveedor Combustible,Software,Gasto Software,Pagado,USD,102.49,0.0,102.49,Tarjeta,9,25
+2025-03-10,Gasto,Gastos,G-5064,Papelería Centro,Papelería,Gasto Papelería,Pagado,USD,30.18,0.0,30.18,Transferencia,6,23
+2025-03-11,Gasto,Gastos,G-5065,Banco Comisiones,Seguros,Gasto Seguros,Pagado,USD,227.61,0.0,227.61,SINPE,7,4
+2025-03-12,Gasto,Gastos,G-5062,Proveedor Combustible,Servicios,Gasto Servicios,Pagado,USD,115.69,0.0,115.69,Efectivo,8,25
+2025-03-12,Gasto,Gastos,G-5066,Servicios Limpieza,Software,Gasto Software,Pagado,USD,36.47,0.0,36.47,SINPE,9,34
+2025-03-13,Gasto,Gastos,G-5070,Proveedor Transporte,Transporte,Gasto Transporte,Pagado,USD,152.76,0.0,152.76,SINPE,10,29
+2025-03-14,Gasto,Gastos,G-5072,AWS/Cloud,Papelería,Gasto Papelería,Pagado,USD,30.26,0.0,30.26,Transferencia,6,1
+2025-03-14,Gasto,Gastos,G-5071,Banco Comisiones,Servicios,Gasto Servicios,Pagado,USD,121.89,0.0,121.89,Transferencia,8,4
+2025-03-17,Gasto,Gastos,G-5060,Agencia Marketing,Servicios,Gasto Servicios,Pagado,USD,16.96,0.0,16.96,SINPE,8,2
+2025-03-17,Gasto,Gastos,G-5063,Banco Comisiones,Servicios,Gasto Servicios,Pagado,USD,219.18,0.0,219.18,SINPE,8,4
+2025-03-18,Gasto,Gastos,G-5058,Seguros PYME,Alquiler,Gasto Alquiler,Pagado,USD,16.46,0.0,16.46,Transferencia,1,33
+2025-03-18,Gasto,Gastos,G-5059,Contador Externo,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,25.7,0.0,25.7,Efectivo,2,7
+2025-03-19,Gasto,Gastos,G-5068,Proveedor Electricidad,Honorarios,Gasto Honorarios,Pagado,USD,191.56,0.0,191.56,Efectivo,3,26
+2025-03-19,Gasto,Gastos,G-5061,Proveedor Electricidad,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,32.43,0.0,32.43,Transferencia,2,26
+2025-03-24,Gasto,Gastos,G-5067,Proveedor Agua,Software,Gasto Software,Pagado,USD,48.38,0.0,48.38,Transferencia,9,24
+2025-03-26,Gasto,Gastos,G-5057,Banco Comisiones,Seguros,Gasto Seguros,Pagado,USD,203.88,0.0,203.88,Transferencia,7,4
+2025-04-01,Gasto,Gastos,G-5076,Google Workspace,Software,Pago Software,Pagado,USD,38.02,0.0,38.02,Tarjeta,9,12
+2025-04-01,Gasto,Gastos,G-5078,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,56.06,0.0,56.06,Tarjeta,7,33
+2025-04-02,Gasto,Gastos,G-5077,Microsoft 365,Software,Pago Software,Pagado,USD,45.23,0.0,45.23,Transferencia,9,21
+2025-04-05,Gasto,Gastos,G-5087,Banco Comisiones,Papelería,Gasto Papelería,Pagado,USD,98.3,0.0,98.3,Tarjeta,6,4
+2025-04-06,Gasto,Gastos,G-5092,Proveedor Electricidad,Honorarios,Gasto Honorarios,Pagado,USD,109.78,0.0,109.78,Tarjeta,3,26
+2025-04-06,Gasto,Gastos,G-5075,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,128.65,0.0,128.65,Transferencia,8,26
+2025-04-07,Gasto,Gastos,G-5086,Proveedor Renta,Seguros,Gasto Seguros,Pagado,USD,165.75,0.0,165.75,Efectivo,7,28
+2025-04-07,Gasto,Gastos,G-5073,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,586.58,0.0,586.58,Transferencia,1,28
+2025-04-07,Gasto,Gastos,G-5081,AWS/Cloud,Papelería,Gasto Papelería,Pagado,USD,90.47,0.0,90.47,Efectivo,6,1
+2025-04-08,Gasto,Gastos,G-5079,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,256.26,0.0,256.26,Transferencia,3,7
+2025-04-08,Gasto,Gastos,G-5074,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,113.18,0.0,113.18,Transferencia,8,15
+2025-04-09,Gasto,Gastos,G-5084,Agencia Marketing,Mantenimiento,Gasto Mantenimiento,Pagado,USD,153.62,0.0,153.62,Transferencia,4,2
+2025-04-09,Gasto,Gastos,G-5091,Contador Externo,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,7.94,0.0,7.94,Tarjeta,2,7
+2025-04-14,Gasto,Gastos,G-5089,Proveedor Renta,Servicios,Gasto Servicios,Pagado,USD,212.97,0.0,212.97,Transferencia,8,28
+2025-04-14,Gasto,Gastos,G-5093,Proveedor Transporte,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,28.08,0.0,28.08,Tarjeta,2,29
+2025-04-17,Gasto,Gastos,G-5085,Agencia Marketing,Seguros,Gasto Seguros,Pagado,USD,165.15,0.0,165.15,SINPE,7,2
+2025-04-17,Gasto,Gastos,G-5080,Servicios Limpieza,Transporte,Gasto Transporte,Pagado,USD,109.29,0.0,109.29,SINPE,10,34
+2025-04-20,Gasto,Gastos,G-5088,Proveedor Agua,Papelería,Gasto Papelería,Pagado,USD,57.7,0.0,57.7,Tarjeta,6,24
+2025-04-20,Gasto,Gastos,G-5094,Papelería Centro,Transporte,Gasto Transporte,Pagado,USD,227.15,0.0,227.15,Tarjeta,10,23
+2025-04-23,Gasto,Gastos,G-5083,Contador Externo,Servicios,Gasto Servicios,Pagado,USD,169.94,0.0,169.94,SINPE,8,7
+2025-04-28,Gasto,Gastos,G-5090,Banco Comisiones,Seguros,Gasto Seguros,Pagado,USD,222.32,0.0,222.32,Transferencia,7,4
+2025-04-28,Gasto,Gastos,G-5082,Agencia Marketing,Transporte,Gasto Transporte,Pagado,USD,214.67,0.0,214.67,Tarjeta,10,2
+2025-05-02,Gasto,Gastos,G-5100,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,59.23,0.0,59.23,Transferencia,7,33
+2025-05-03,Gasto,Gastos,G-5098,Google Workspace,Software,Pago Software,Pagado,USD,54.92,0.0,54.92,Transferencia,9,12
+2025-05-05,Gasto,Gastos,G-5101,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,236.82,0.0,236.82,Transferencia,3,7
+2025-05-06,Gasto,Gastos,G-5114,Seguros PYME,Honorarios,Gasto Honorarios,Pagado,USD,163.29,0.0,163.29,SINPE,3,33
+2025-05-06,Gasto,Gastos,G-5095,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,664.19,0.0,664.19,Tarjeta,1,28
+2025-05-07,Gasto,Gastos,G-5097,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,175.61,0.0,175.61,Transferencia,8,26
+2025-05-07,Gasto,Gastos,G-5113,Banco Comisiones,Papelería,Gasto Papelería,Pagado,USD,238.91,0.0,238.91,Transferencia,6,4
+2025-05-08,Gasto,Gastos,G-5096,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,102.71,0.0,102.71,Tarjeta,8,15
+2025-05-08,Gasto,Gastos,G-5099,Microsoft 365,Software,Pago Software,Pagado,USD,63.71,0.0,63.71,Transferencia,9,21
+2025-05-09,Gasto,Gastos,G-5105,Contador Externo,Software,Gasto Software,Pagado,USD,21.12,0.0,21.12,Efectivo,9,7
+2025-05-11,Gasto,Gastos,G-5107,ICE Telecom,Transporte,Gasto Transporte,Pagado,USD,210.72,0.0,210.72,Efectivo,10,15
+2025-05-12,Gasto,Gastos,G-5104,Google Workspace,Papelería,Gasto Papelería,Pagado,USD,18.71,0.0,18.71,Transferencia,6,12
+2025-05-12,Gasto,Gastos,G-5108,Microsoft 365,Transporte,Gasto Transporte,Pagado,USD,83.67,0.0,83.67,Transferencia,10,21
+2025-05-12,Gasto,Gastos,G-5111,Banco Comisiones,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,12.32,0.0,12.32,Transferencia,2,4
+2025-05-16,Gasto,Gastos,G-5117,Proveedor Renta,Alquiler,Gasto Alquiler,Pagado,USD,141.95,0.0,141.95,Tarjeta,1,28
+2025-05-16,Gasto,Gastos,G-5115,Ferretería San José,Alquiler,Gasto Alquiler,Pagado,USD,199.67,0.0,199.67,SINPE,1,11
+2025-05-19,Gasto,Gastos,G-5106,Proveedor Renta,Honorarios,Gasto Honorarios,Pagado,USD,158.45,0.0,158.45,Transferencia,3,28
+2025-05-19,Gasto,Gastos,G-5102,Google Workspace,Marketing,Gasto Marketing,Pagado,USD,603.0,0.0,603.0,Efectivo,5,12
+2025-05-20,Gasto,Gastos,G-5110,Google Workspace,Servicios,Gasto Servicios,Pagado,USD,154.02,0.0,154.02,Transferencia,8,12
+2025-05-21,Gasto,Gastos,G-5103,AWS/Cloud,Mantenimiento,Gasto Mantenimiento,Pagado,USD,101.0,0.0,101.0,Efectivo,4,1
+2025-05-23,Gasto,Gastos,G-5112,Servicios Limpieza,Marketing,Gasto Marketing,Pagado,USD,262.71,0.0,262.71,Transferencia,5,34
+2025-05-23,Gasto,Gastos,G-5116,Papelería Centro,Servicios,Gasto Servicios,Pagado,USD,186.97,0.0,186.97,SINPE,8,23
+2025-05-25,Gasto,Gastos,G-5109,Papelería Centro,Mantenimiento,Gasto Mantenimiento,Pagado,USD,200.95,0.0,200.95,Efectivo,4,23
+2025-06-01,Gasto,Gastos,G-5121,Google Workspace,Software,Pago Software,Pagado,USD,51.64,0.0,51.64,Transferencia,9,12
+2025-06-03,Gasto,Gastos,G-5119,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,105.86,0.0,105.86,Transferencia,8,15
+2025-06-05,Gasto,Gastos,G-5139,Papelería Centro,Servicios,Gasto Servicios,Pagado,USD,187.09,0.0,187.09,Efectivo,8,23
+2025-06-05,Gasto,Gastos,G-5124,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,212.81,0.0,212.81,Transferencia,3,7
+2025-06-06,Gasto,Gastos,G-5122,Microsoft 365,Software,Pago Software,Pagado,USD,66.67,0.0,66.67,Tarjeta,9,21
+2025-06-07,Gasto,Gastos,G-5128,Google Workspace,Mantenimiento,Gasto Mantenimiento,Pagado,USD,114.48,0.0,114.48,Tarjeta,4,12
+2025-06-07,Gasto,Gastos,G-5143,Proveedor Electricidad,Honorarios,Gasto Honorarios,Pagado,USD,204.9,0.0,204.9,SINPE,3,26
+2025-06-07,Gasto,Gastos,G-5135,AWS/Cloud,Software,Gasto Software,Pagado,USD,68.17,0.0,68.17,SINPE,9,1
+2025-06-08,Gasto,Gastos,G-5123,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,56.53,0.0,56.53,Transferencia,7,33
+2025-06-08,Gasto,Gastos,G-5118,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,773.09,0.0,773.09,Tarjeta,1,28
+2025-06-08,Gasto,Gastos,G-5129,Agencia Marketing,Papelería,Gasto Papelería,Pagado,USD,31.06,0.0,31.06,SINPE,6,2
+2025-06-08,Gasto,Gastos,G-5125,Contador Externo,Transporte,Gasto Transporte,Pagado,USD,202.24,0.0,202.24,Efectivo,10,7
+2025-06-08,Gasto,Gastos,G-5120,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,54.81,0.0,54.81,Transferencia,8,26
+2025-06-09,Gasto,Gastos,G-5142,Proveedor Agua,Servicios,Gasto Servicios,Pagado,USD,214.97,0.0,214.97,Efectivo,8,24
+2025-06-16,Gasto,Gastos,G-5133,Google Workspace,Mantenimiento,Gasto Mantenimiento,Pagado,USD,134.11,0.0,134.11,Tarjeta,4,12
+2025-06-16,Gasto,Gastos,G-5137,Proveedor Transporte,Papelería,Gasto Papelería,Pagado,USD,117.66,0.0,117.66,Transferencia,6,29
+2025-06-16,Gasto,Gastos,G-5138,Proveedor Renta,Seguros,Gasto Seguros,Pagado,USD,106.73,0.0,106.73,SINPE,7,28
+2025-06-16,Gasto,Gastos,G-5127,Proveedor Hosting,Honorarios,Gasto Honorarios,Pagado,USD,231.99,0.0,231.99,SINPE,3,27
+2025-06-17,Gasto,Gastos,G-5126,Seguros PYME,Honorarios,Gasto Honorarios,Pagado,USD,92.69,0.0,92.69,Tarjeta,3,33
+2025-06-19,Gasto,Gastos,G-5131,Proveedor Transporte,Papelería,Gasto Papelería,Pagado,USD,22.08,0.0,22.08,SINPE,6,29
+2025-06-22,Gasto,Gastos,G-5140,Banco Comisiones,Mantenimiento,Gasto Mantenimiento,Pagado,USD,40.03,0.0,40.03,SINPE,4,4
+2025-06-22,Gasto,Gastos,G-5144,Servicios Limpieza,Servicios,Gasto Servicios,Pagado,USD,141.04,0.0,141.04,SINPE,8,34
+2025-06-23,Gasto,Gastos,G-5136,Servicios Limpieza,Mantenimiento,Gasto Mantenimiento,Pagado,USD,19.71,0.0,19.71,Tarjeta,4,34
+2025-06-24,Gasto,Gastos,G-5141,Proveedor Transporte,Marketing,Gasto Marketing,Pagado,USD,215.23,0.0,215.23,Efectivo,5,29
+2025-06-24,Gasto,Gastos,G-5134,ICE Telecom,Software,Gasto Software,Pagado,USD,173.39,0.0,173.39,Efectivo,9,15
+2025-06-24,Gasto,Gastos,G-5130,Agencia Marketing,Honorarios,Gasto Honorarios,Pagado,USD,182.8,0.0,182.8,Tarjeta,3,2
+2025-06-25,Gasto,Gastos,G-5132,Proveedor Combustible,Transporte,Gasto Transporte,Pagado,USD,245.25,0.0,245.25,Transferencia,10,25
+2025-07-02,Gasto,Gastos,G-5150,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,40.59,0.0,40.59,Tarjeta,7,33
+2025-07-03,Gasto,Gastos,G-5145,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,676.25,0.0,676.25,Transferencia,1,28
+2025-07-04,Gasto,Gastos,G-5147,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,152.97,0.0,152.97,Transferencia,8,26
+2025-07-06,Gasto,Gastos,G-5146,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,83.16,0.0,83.16,Transferencia,8,15
+2025-07-07,Gasto,Gastos,G-5163,Agencia Marketing,Honorarios,Gasto Honorarios,Pagado,USD,175.89,0.0,175.89,Tarjeta,3,2
+2025-07-07,Gasto,Gastos,G-5160,AWS/Cloud,Alquiler,Gasto Alquiler,Pagado,USD,22.82,0.0,22.82,SINPE,1,1
+2025-07-08,Gasto,Gastos,G-5168,Papelería Centro,Software,Gasto Software,Pagado,USD,24.04,0.0,24.04,Efectivo,9,23
+2025-07-08,Gasto,Gastos,G-5151,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,256.68,0.0,256.68,Tarjeta,3,7
+2025-07-08,Gasto,Gastos,G-5148,Google Workspace,Software,Pago Software,Pagado,USD,21.05,0.0,21.05,Tarjeta,9,12
+2025-07-08,Gasto,Gastos,G-5149,Microsoft 365,Software,Pago Software,Pagado,USD,60.18,0.0,60.18,Transferencia,9,21
+2025-07-09,Gasto,Gastos,G-5155,Microsoft 365,Seguros,Gasto Seguros,Pagado,USD,84.38,0.0,84.38,Tarjeta,7,21
+2025-07-10,Gasto,Gastos,G-5169,Proveedor Combustible,Marketing,Gasto Marketing,Pagado,USD,205.61,0.0,205.61,SINPE,5,25
+2025-07-11,Gasto,Gastos,G-5157,Google Workspace,Transporte,Gasto Transporte,Pagado,USD,163.14,0.0,163.14,SINPE,10,12
+2025-07-12,Gasto,Gastos,G-5162,Agencia Marketing,Honorarios,Gasto Honorarios,Pagado,USD,203.52,0.0,203.52,Efectivo,3,2
+2025-07-15,Gasto,Gastos,G-5152,Google Workspace,Software,Gasto Software,Pagado,USD,164.88,0.0,164.88,Efectivo,9,12
+2025-07-16,Gasto,Gastos,G-5153,Proveedor Transporte,Seguros,Gasto Seguros,Pagado,USD,42.54,0.0,42.54,Tarjeta,7,29
+2025-07-16,Gasto,Gastos,G-5156,Contador Externo,Marketing,Gasto Marketing,Pagado,USD,237.5,0.0,237.5,SINPE,5,7
+2025-07-16,Gasto,Gastos,G-5166,Seguros PYME,Software,Gasto Software,Pagado,USD,134.57,0.0,134.57,Transferencia,9,33
+2025-07-18,Gasto,Gastos,G-5161,Proveedor Agua,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,3.97,0.0,3.97,SINPE,2,24
+2025-07-19,Gasto,Gastos,G-5167,Contador Externo,Marketing,Gasto Marketing,Pagado,USD,41.16,0.0,41.16,Efectivo,5,7
+2025-07-20,Gasto,Gastos,G-5164,Proveedor Transporte,Mantenimiento,Gasto Mantenimiento,Pagado,USD,122.54,0.0,122.54,SINPE,4,29
+2025-07-20,Gasto,Gastos,G-5170,Proveedor Agua,Software,Gasto Software,Pagado,USD,249.04,0.0,249.04,Efectivo,9,24
+2025-07-21,Gasto,Gastos,G-5154,Proveedor Renta,Mantenimiento,Gasto Mantenimiento,Pagado,USD,228.75,0.0,228.75,Transferencia,4,28
+2025-07-24,Gasto,Gastos,G-5158,Proveedor Renta,Transporte,Gasto Transporte,Pagado,USD,138.97,0.0,138.97,Tarjeta,10,28
+2025-07-26,Gasto,Gastos,G-5159,Proveedor Renta,Software,Gasto Software,Pagado,USD,160.63,0.0,160.63,SINPE,9,28
+2025-07-27,Gasto,Gastos,G-5165,Proveedor Renta,Papelería,Gasto Papelería,Pagado,USD,88.0,0.0,88.0,SINPE,6,28
+2025-08-01,Gasto,Gastos,G-5172,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,51.75,0.0,51.75,Tarjeta,8,15
+2025-08-05,Gasto,Gastos,G-5176,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,80.62,0.0,80.62,Transferencia,7,33
+2025-08-06,Gasto,Gastos,G-5191,Proveedor Renta,Marketing,Gasto Marketing,Pagado,USD,148.27,0.0,148.27,Transferencia,5,28
+2025-08-06,Gasto,Gastos,G-5174,Google Workspace,Software,Pago Software,Pagado,USD,21.95,0.0,21.95,Tarjeta,9,12
+2025-08-06,Gasto,Gastos,G-5183,Banco Comisiones,Alquiler,Gasto Alquiler,Pagado,USD,21.26,0.0,21.26,SINPE,1,4
+2025-08-07,Gasto,Gastos,G-5177,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,154.82,0.0,154.82,Tarjeta,3,7
+2025-08-08,Gasto,Gastos,G-5173,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,175.67,0.0,175.67,Transferencia,8,26
+2025-08-08,Gasto,Gastos,G-5175,Microsoft 365,Software,Pago Software,Pagado,USD,49.88,0.0,49.88,Tarjeta,9,21
+2025-08-08,Gasto,Gastos,G-5171,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,736.47,0.0,736.47,Tarjeta,1,28
+2025-08-11,Gasto,Gastos,G-5182,Servicios Limpieza,Software,Gasto Software,Pagado,USD,155.39,0.0,155.39,Efectivo,9,34
+2025-08-12,Gasto,Gastos,G-5197,Proveedor Hosting,Marketing,Gasto Marketing,Pagado,USD,78.4,0.0,78.4,SINPE,5,27
+2025-08-14,Gasto,Gastos,G-5188,Proveedor Combustible,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,26.21,0.0,26.21,Transferencia,2,25
+2025-08-14,Gasto,Gastos,G-5198,Papelería Centro,Transporte,Gasto Transporte,Pagado,USD,179.77,0.0,179.77,Efectivo,10,23
+2025-08-15,Gasto,Gastos,G-5196,Proveedor Transporte,Seguros,Gasto Seguros,Pagado,USD,142.01,0.0,142.01,SINPE,7,29
+2025-08-15,Gasto,Gastos,G-5185,Contador Externo,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,34.7,0.0,34.7,SINPE,2,7
+2025-08-16,Gasto,Gastos,G-5178,Servicios Limpieza,Mantenimiento,Gasto Mantenimiento,Pagado,USD,22.77,0.0,22.77,Transferencia,4,34
+2025-08-16,Gasto,Gastos,G-5187,Proveedor Hosting,Alquiler,Gasto Alquiler,Pagado,USD,90.84,0.0,90.84,Transferencia,1,27
+2025-08-17,Gasto,Gastos,G-5195,Proveedor Hosting,Seguros,Gasto Seguros,Pagado,USD,86.67,0.0,86.67,Tarjeta,7,27
+2025-08-17,Gasto,Gastos,G-5181,Proveedor Renta,Servicios,Gasto Servicios,Pagado,USD,100.82,0.0,100.82,SINPE,8,28
+2025-08-18,Gasto,Gastos,G-5193,Proveedor Combustible,Marketing,Gasto Marketing,Pagado,USD,131.43,0.0,131.43,Efectivo,5,25
+2025-08-19,Gasto,Gastos,G-5192,Proveedor Agua,Alquiler,Gasto Alquiler,Pagado,USD,86.66,0.0,86.66,Tarjeta,1,24
+2025-08-19,Gasto,Gastos,G-5184,Proveedor Hosting,Seguros,Gasto Seguros,Pagado,USD,47.45,0.0,47.45,Tarjeta,7,27
+2025-08-20,Gasto,Gastos,G-5190,AWS/Cloud,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,23.13,0.0,23.13,Efectivo,2,1
+2025-08-21,Gasto,Gastos,G-5194,AWS/Cloud,Software,Gasto Software,Pagado,USD,61.35,0.0,61.35,SINPE,9,1
+2025-08-21,Gasto,Gastos,G-5186,Contador Externo,Seguros,Gasto Seguros,Pagado,USD,138.7,0.0,138.7,SINPE,7,7
+2025-08-22,Gasto,Gastos,G-5180,Banco Comisiones,Honorarios,Gasto Honorarios,Pagado,USD,78.57,0.0,78.57,Transferencia,3,4
+2025-08-22,Gasto,Gastos,G-5179,Proveedor Agua,Papelería,Gasto Papelería,Pagado,USD,80.69,0.0,80.69,Efectivo,6,24
+2025-08-25,Gasto,Gastos,G-5189,Proveedor Hosting,Transporte,Gasto Transporte,Pagado,USD,198.33,0.0,198.33,Tarjeta,10,27
+2025-09-05,Gasto,Gastos,G-5200,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,54.14,0.0,54.14,Tarjeta,8,15
+2025-09-05,Gasto,Gastos,G-5202,Google Workspace,Software,Pago Software,Pagado,USD,21.68,0.0,21.68,Transferencia,9,12
+2025-09-05,Gasto,Gastos,G-5205,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,155.69,0.0,155.69,Transferencia,3,7
+2025-09-06,Gasto,Gastos,G-5199,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,592.73,0.0,592.73,Tarjeta,1,28
+2025-09-06,Gasto,Gastos,G-5203,Microsoft 365,Software,Pago Software,Pagado,USD,66.2,0.0,66.2,Tarjeta,9,21
+2025-09-07,Gasto,Gastos,G-5201,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,156.39,0.0,156.39,Transferencia,8,26
+2025-09-08,Gasto,Gastos,G-5204,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,53.19,0.0,53.19,Tarjeta,7,33
+2025-09-10,Gasto,Gastos,G-5212,Proveedor Electricidad,Mantenimiento,Gasto Mantenimiento,Pagado,USD,234.27,0.0,234.27,Transferencia,4,26
+2025-09-10,Gasto,Gastos,G-5213,Seguros PYME,Honorarios,Gasto Honorarios,Pagado,USD,234.91,0.0,234.91,SINPE,3,33
+2025-09-12,Gasto,Gastos,G-5206,AWS/Cloud,Seguros,Gasto Seguros,Pagado,USD,163.83,0.0,163.83,Transferencia,7,1
+2025-09-14,Gasto,Gastos,G-5214,AWS/Cloud,Alquiler,Gasto Alquiler,Pagado,USD,147.17,0.0,147.17,Transferencia,1,1
+2025-09-15,Gasto,Gastos,G-5207,Microsoft 365,Mantenimiento,Gasto Mantenimiento,Pagado,USD,182.73,0.0,182.73,Transferencia,4,21
+2025-09-19,Gasto,Gastos,G-5216,Proveedor Renta,Seguros,Gasto Seguros,Pagado,USD,76.94,0.0,76.94,Transferencia,7,28
+2025-09-19,Gasto,Gastos,G-5215,Contador Externo,Transporte,Gasto Transporte,Pagado,USD,247.41,0.0,247.41,Efectivo,10,7
+2025-09-20,Gasto,Gastos,G-5209,Proveedor Combustible,Honorarios,Gasto Honorarios,Pagado,USD,166.83,0.0,166.83,SINPE,3,25
+2025-09-22,Gasto,Gastos,G-5208,Proveedor Renta,Alquiler,Gasto Alquiler,Pagado,USD,244.74,0.0,244.74,Tarjeta,1,28
+2025-09-25,Gasto,Gastos,G-5210,Contador Externo,Transporte,Gasto Transporte,Pagado,USD,26.08,0.0,26.08,Transferencia,10,7
+2025-09-28,Gasto,Gastos,G-5211,Papelería Centro,Seguros,Gasto Seguros,Pagado,USD,184.1,0.0,184.1,Transferencia,7,23
+2025-09-28,Gasto,Gastos,G-5217,Contador Externo,Software,Gasto Software,Pagado,USD,121.22,0.0,121.22,SINPE,9,7
+2025-09-28,Gasto,Gastos,G-5218,Proveedor Electricidad,Alquiler,Gasto Alquiler,Pagado,USD,92.23,0.0,92.23,SINPE,1,26
+2025-10-01,Gasto,Gastos,G-5223,Microsoft 365,Software,Pago Software,Pagado,USD,33.04,0.0,33.04,Transferencia,9,21
+2025-10-03,Gasto,Gastos,G-5222,Google Workspace,Software,Pago Software,Pagado,USD,39.1,0.0,39.1,Transferencia,9,12
+2025-10-04,Gasto,Gastos,G-5219,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,483.18,0.0,483.18,Tarjeta,1,28
+2025-10-05,Gasto,Gastos,G-5225,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,271.44,0.0,271.44,Transferencia,3,7
+2025-10-06,Gasto,Gastos,G-5226,Servicios Limpieza,Marketing,Gasto Marketing,Pagado,USD,359.82,0.0,359.82,Tarjeta,5,34
+2025-10-07,Gasto,Gastos,G-5220,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,83.65,0.0,83.65,Transferencia,8,15
+2025-10-07,Gasto,Gastos,G-5221,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,137.0,0.0,137.0,Transferencia,8,26
+2025-10-07,Gasto,Gastos,G-5231,Papelería Centro,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,19.9,0.0,19.9,SINPE,2,23
+2025-10-08,Gasto,Gastos,G-5224,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,99.07,0.0,99.07,Tarjeta,7,33
+2025-10-08,Gasto,Gastos,G-5232,Google Workspace,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,20.52,0.0,20.52,Tarjeta,2,12
+2025-10-09,Gasto,Gastos,G-5235,AWS/Cloud,Honorarios,Gasto Honorarios,Pagado,USD,134.15,0.0,134.15,Efectivo,3,1
+2025-10-13,Gasto,Gastos,G-5237,ICE Telecom,Mantenimiento,Gasto Mantenimiento,Pagado,USD,206.32,0.0,206.32,Tarjeta,4,15
+2025-10-15,Gasto,Gastos,G-5233,Proveedor Renta,Software,Gasto Software,Pagado,USD,215.37,0.0,215.37,Efectivo,9,28
+2025-10-18,Gasto,Gastos,G-5238,Google Workspace,Alquiler,Gasto Alquiler,Pagado,USD,94.0,0.0,94.0,Transferencia,1,12
+2025-10-19,Gasto,Gastos,G-5229,Proveedor Hosting,Software,Gasto Software,Pagado,USD,189.96,0.0,189.96,SINPE,9,27
+2025-10-19,Gasto,Gastos,G-5236,AWS/Cloud,Seguros,Gasto Seguros,Pagado,USD,172.12,0.0,172.12,SINPE,7,1
+2025-10-20,Gasto,Gastos,G-5239,AWS/Cloud,Servicios,Gasto Servicios,Pagado,USD,19.55,0.0,19.55,Efectivo,8,1
+2025-10-20,Gasto,Gastos,G-5230,Proveedor Combustible,Seguros,Gasto Seguros,Pagado,USD,192.25,0.0,192.25,Tarjeta,7,25
+2025-10-24,Gasto,Gastos,G-5228,Agencia Marketing,Papelería,Gasto Papelería,Pagado,USD,64.56,0.0,64.56,Tarjeta,6,2
+2025-10-27,Gasto,Gastos,G-5234,Microsoft 365,Marketing,Gasto Marketing,Pagado,USD,244.01,0.0,244.01,Efectivo,5,21
+2025-10-27,Gasto,Gastos,G-5227,Seguros PYME,Seguros,Gasto Seguros,Pagado,USD,195.22,0.0,195.22,Transferencia,7,33
+2025-11-01,Gasto,Gastos,G-5246,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,316.61,0.0,316.61,Tarjeta,3,7
+2025-11-03,Gasto,Gastos,G-5245,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,96.87,0.0,96.87,Transferencia,7,33
+2025-11-03,Gasto,Gastos,G-5240,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,696.83,0.0,696.83,Tarjeta,1,28
+2025-11-06,Gasto,Gastos,G-5244,Microsoft 365,Software,Pago Software,Pagado,USD,25.93,0.0,25.93,Tarjeta,9,21
+2025-11-06,Gasto,Gastos,G-5241,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,119.46,0.0,119.46,Tarjeta,8,15
+2025-11-06,Gasto,Gastos,G-5255,Agencia Marketing,Transporte,Gasto Transporte,Pagado,USD,144.5,0.0,144.5,Tarjeta,10,2
+2025-11-07,Gasto,Gastos,G-5243,Google Workspace,Software,Pago Software,Pagado,USD,23.21,0.0,23.21,Transferencia,9,12
+2025-11-07,Gasto,Gastos,G-5250,Papelería Centro,Marketing,Gasto Marketing,Pagado,USD,55.59,0.0,55.59,Transferencia,5,23
+2025-11-08,Gasto,Gastos,G-5242,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,163.05,0.0,163.05,Tarjeta,8,26
+2025-11-09,Gasto,Gastos,G-5248,Proveedor Transporte,Papelería,Gasto Papelería,Pagado,USD,77.6,0.0,77.6,Transferencia,6,29
+2025-11-13,Gasto,Gastos,G-5261,Seguros PYME,Marketing,Gasto Marketing,Pagado,USD,141.37,0.0,141.37,Efectivo,5,33
+2025-11-14,Gasto,Gastos,G-5259,Papelería Centro,Marketing,Gasto Marketing,Pagado,USD,364.69,0.0,364.69,Efectivo,5,23
+2025-11-15,Gasto,Gastos,G-5257,Seguros PYME,Seguros,Gasto Seguros,Pagado,USD,177.72,0.0,177.72,Efectivo,7,33
+2025-11-17,Gasto,Gastos,G-5258,Proveedor Renta,Transporte,Gasto Transporte,Pagado,USD,55.76,0.0,55.76,Efectivo,10,28
+2025-11-17,Gasto,Gastos,G-5251,Papelería Centro,Alquiler,Gasto Alquiler,Pagado,USD,116.47,0.0,116.47,Tarjeta,1,23
+2025-11-17,Gasto,Gastos,G-5263,AWS/Cloud,Transporte,Gasto Transporte,Pagado,USD,172.33,0.0,172.33,Transferencia,10,1
+2025-11-17,Gasto,Gastos,G-5247,Proveedor Combustible,Seguros,Gasto Seguros,Pagado,USD,207.96,0.0,207.96,Tarjeta,7,25
+2025-11-18,Gasto,Gastos,G-5260,AWS/Cloud,Seguros,Gasto Seguros,Pagado,USD,242.33,0.0,242.33,Tarjeta,7,1
+2025-11-20,Gasto,Gastos,G-5256,Proveedor Combustible,Seguros,Gasto Seguros,Pagado,USD,23.16,0.0,23.16,SINPE,7,25
+2025-11-21,Gasto,Gastos,G-5252,AWS/Cloud,Software,Gasto Software,Pagado,USD,248.45,0.0,248.45,Tarjeta,9,1
+2025-11-22,Gasto,Gastos,G-5262,Servicios Limpieza,Servicios,Gasto Servicios,Pagado,USD,184.45,0.0,184.45,Tarjeta,8,34
+2025-11-24,Gasto,Gastos,G-5249,AWS/Cloud,Mantenimiento,Gasto Mantenimiento,Pagado,USD,194.32,0.0,194.32,Transferencia,4,1
+2025-11-24,Gasto,Gastos,G-5253,Contador Externo,Comisiones Bancarias,Gasto Comisiones Bancarias,Pagado,USD,29.19,0.0,29.19,Tarjeta,2,7
+2025-11-26,Gasto,Gastos,G-5254,Agencia Marketing,Software,Gasto Software,Pagado,USD,136.06,0.0,136.06,Efectivo,9,2
+2025-12-02,Gasto,Gastos,G-5264,Proveedor Renta,Alquiler,Pago Alquiler,Pagado,USD,487.74,0.0,487.74,Transferencia,1,28
+2025-12-04,Gasto,Gastos,G-5267,Google Workspace,Software,Pago Software,Pagado,USD,57.49,0.0,57.49,Transferencia,9,12
+2025-12-05,Gasto,Gastos,G-5282,Google Workspace,Software,Gasto Software,Pagado,USD,64.06,0.0,64.06,Efectivo,9,12
+2025-12-05,Gasto,Gastos,G-5270,Contador Externo,Honorarios,Pago Honorarios,Pagado,USD,218.97,0.0,218.97,Tarjeta,3,7
+2025-12-05,Gasto,Gastos,G-5284,Proveedor Hosting,Alquiler,Gasto Alquiler,Pagado,USD,138.67,0.0,138.67,Efectivo,1,27
+2025-12-05,Gasto,Gastos,G-5266,Proveedor Electricidad,Servicios,Pago Servicios,Pagado,USD,174.41,0.0,174.41,Transferencia,8,26
+2025-12-06,Gasto,Gastos,G-5273,Contador Externo,Mantenimiento,Gasto Mantenimiento,Pagado,USD,145.88,0.0,145.88,Tarjeta,4,7
+2025-12-07,Gasto,Gastos,G-5269,Seguros PYME,Seguros,Pago Seguros,Pagado,USD,112.79,0.0,112.79,Tarjeta,7,33
+2025-12-07,Gasto,Gastos,G-5280,Banco Comisiones,Alquiler,Gasto Alquiler,Pagado,USD,236.95,0.0,236.95,Transferencia,1,4
+2025-12-08,Gasto,Gastos,G-5265,ICE Telecom,Servicios,Pago Servicios,Pagado,USD,60.67,0.0,60.67,Tarjeta,8,15
+2025-12-08,Gasto,Gastos,G-5268,Microsoft 365,Software,Pago Software,Pagado,USD,65.72,0.0,65.72,Transferencia,9,21
+2025-12-09,Gasto,Gastos,G-5281,ICE Telecom,Mantenimiento,Gasto Mantenimiento,Pagado,USD,212.53,0.0,212.53,Tarjeta,4,15
+2025-12-11,Gasto,Gastos,G-5275,Agencia Marketing,Software,Gasto Software,Pagado,USD,90.51,0.0,90.51,Efectivo,9,2
+2025-12-13,Gasto,Gastos,G-5274,Proveedor Renta,Alquiler,Gasto Alquiler,Pagado,USD,143.69,0.0,143.69,Efectivo,1,28
+2025-12-15,Gasto,Gastos,G-5272,Microsoft 365,Honorarios,Gasto Honorarios,Pagado,USD,229.61,0.0,229.61,SINPE,3,21
+2025-12-20,Gasto,Gastos,G-5279,Proveedor Renta,Seguros,Gasto Seguros,Pagado,USD,55.8,0.0,55.8,Transferencia,7,28
+2025-12-21,Gasto,Gastos,G-5271,Ferretería San José,Papelería,Gasto Papelería,Pagado,USD,222.11,0.0,222.11,Efectivo,6,11
+2025-12-22,Gasto,Gastos,G-5276,Papelería Centro,Honorarios,Gasto Honorarios,Pagado,USD,167.8,0.0,167.8,SINPE,3,23
+2025-12-24,Gasto,Gastos,G-5283,Servicios Limpieza,Alquiler,Gasto Alquiler,Pagado,USD,163.78,0.0,163.78,Efectivo,1,34
+2025-12-28,Gasto,Gastos,G-5277,Ferretería San José,Honorarios,Gasto Honorarios,Pagado,USD,164.72,0.0,164.72,Efectivo,3,11
+2025-12-28,Gasto,Gastos,G-5278,Proveedor Transporte,Software,Gasto Software,Pagado,USD,201.2,0.0,201.2,Tarjeta,9,29

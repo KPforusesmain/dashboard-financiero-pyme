@@ -51,7 +51,8 @@ def main(seed: int = 42, year: int = 2025) -> None:
     ]
 
     metodos_pago = ["Transferencia", "Tarjeta", "SINPE", "Efectivo"]
-    moneda = "CRC"
+    terminos_pago = [7, 15, 30, 45]  # días
+    moneda = "USD"
 
     # ---- Calendar ----
     start = date(year, 1, 1)
@@ -77,7 +78,13 @@ def main(seed: int = 42, year: int = 2025) -> None:
             impuesto = round(subtotal * 0.13, 2)  # 13% IVA (puedes ajustar)
             total = round(subtotal + impuesto, 2)
 
+            dias_credito = random.choice(terminos_pago)
+            fecha_venc = fecha + timedelta(days=dias_credito)
+
+
             ventas_rows.append({
+                "dias_credito": dias_credito,
+                "fecha_vencimiento": fecha_venc.isoformat(),
                 "invoice_id": f"F-{invoice_id}",
                 "fecha": fecha.isoformat(),
                 "cliente": c,
@@ -120,8 +127,80 @@ def main(seed: int = 42, year: int = 2025) -> None:
             invoice_id += 1
 
     ventas = pd.DataFrame(ventas_rows).sort_values("fecha")
-    ventas.to_csv(RAW_DIR / "ventas.csv", index=False)
+        # --- asegurar columnas de crédito/vencimiento en TODAS las filas ---
+    if "fecha_vencimiento" not in ventas.columns:
+        ventas["fecha_vencimiento"] = None
+    if "dias_credito" not in ventas.columns:
+        ventas["dias_credito"] = None
 
+    # Si alguna fila quedó sin vencimiento, lo calcula con 30 días por defecto
+    ventas["fecha"] = pd.to_datetime(ventas["fecha"], errors="coerce")
+    ventas["dias_credito"] = pd.to_numeric(ventas["dias_credito"], errors="coerce").fillna(30).astype(int)
+
+    missing = ventas["fecha_vencimiento"].isna() | (ventas["fecha_vencimiento"].astype(str).str.strip() == "")
+    if missing.any():
+        ventas.loc[missing, "fecha_vencimiento"] = (
+            ventas.loc[missing, "fecha"] + pd.to_timedelta(ventas.loc[missing, "dias_credito"], unit="D")
+        ).dt.strftime("%Y-%m-%d")
+
+    # Normaliza a string ISO
+    ventas["fecha"] = ventas["fecha"].dt.strftime("%Y-%m-%d")
+    ventas["fecha_vencimiento"] = pd.to_datetime(ventas["fecha_vencimiento"], errors="coerce").dt.strftime("%Y-%m-%d")
+
+
+
+
+
+
+
+
+
+
+
+    ventas.to_csv(RAW_DIR / "ventas.csv", index=False)
+    # ---- CxC (Aging): facturas pendientes y parcialmente pagadas ----
+    cxc_rows = []
+    for _, r in ventas.iterrows():
+        if r["estado"] == "Pagada":
+            continue
+
+        total = float(r["monto"])
+        # Simular pagos parciales en parte de las pendientes
+        pago_parcial = 0.0
+        if random.random() < 0.35:
+            pago_parcial = round(total * random.uniform(0.15, 0.70), 2)
+
+        saldo = round(total - pago_parcial, 2)
+
+        cxc_rows.append({
+            "invoice_id": r["invoice_id"],
+            "fecha_emision": r["fecha"],
+            "fecha_vencimiento": r["fecha_vencimiento"],
+            "cliente": r["cliente"],
+            "moneda": r["moneda"],
+            "monto_factura": round(total, 2),
+            "pagado": round(pago_parcial, 2),
+            "saldo": saldo,
+            "estado": "Parcial" if pago_parcial > 0 else "Pendiente"
+        })
+
+    cxc = pd.DataFrame(cxc_rows)
+
+    # Fecha de corte (para aging) = fin de año o última fecha del dataset
+    as_of = pd.to_datetime(f"{year}-12-31")
+    cxc["fecha_emision"] = pd.to_datetime(cxc["fecha_emision"])
+    cxc["fecha_vencimiento"] = pd.to_datetime(cxc["fecha_vencimiento"])
+    cxc["dias_vencidos"] = (as_of - cxc["fecha_vencimiento"]).dt.days
+    cxc["dias_vencidos"] = cxc["dias_vencidos"].fillna(0).astype(int)
+
+    # Guardar CxC
+    cxc_out = cxc.copy()
+    cxc_out["fecha_emision"] = cxc_out["fecha_emision"].dt.strftime("%Y-%m-%d")
+    cxc_out["fecha_vencimiento"] = cxc_out["fecha_vencimiento"].dt.strftime("%Y-%m-%d")
+    cxc_out.to_csv(RAW_DIR / "cxc.csv", index=False)
+
+    print(" - cxc.csv:", len(cxc_out))
+    print("   (aging as_of:", as_of.strftime("%Y-%m-%d"), ")")
     # ---- Gastos (mensuales + variables) ----
     gastos_rows = []
     expense_id = 5000
