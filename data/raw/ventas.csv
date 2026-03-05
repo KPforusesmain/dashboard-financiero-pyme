@@ -1,13 +1,153 @@
-fecha,cliente,producto,categoria,monto
-2025-01-05,Cliente A,Servicio Mensual,Ingresos,850
-2025-01-20,Cliente B,Proyecto,Ingresos,1200
-2025-02-03,Cliente A,Servicio Mensual,Ingresos,850
-2025-02-18,Cliente C,Servicio Mensual,Ingresos,650
-2025-03-02,Cliente A,Servicio Mensual,Ingresos,850
-2025-03-14,Cliente B,Soporte,Ingresos,400
-2025-04-04,Cliente D,Proyecto,Ingresos,1800
-2025-04-21,Cliente A,Servicio Mensual,Ingresos,850
-2025-05-06,Cliente C,Servicio Mensual,Ingresos,650
-2025-05-22,Cliente B,Proyecto,Ingresos,900
-2025-06-03,Cliente A,Servicio Mensual,Ingresos,850
-2025-06-19,Cliente E,Servicio Mensual,Ingresos,700
+invoice_id,fecha,cliente,producto,categoria,moneda,subtotal,impuesto,monto,metodo_pago,estado
+F-1003,2025-01-01,Hotel Brisa,Servicio Mensual,Ingresos,CRC,538.31,69.98,608.29,SINPE,Pagada
+F-1007,2025-01-02,Beta Services,Servicio Mensual,Ingresos,CRC,524.67,68.21,592.88,SINPE,Pagada
+F-1001,2025-01-04,Alfa Comercial,Servicio Mensual,Ingresos,CRC,466.98,60.71,527.69,Transferencia,Pagada
+F-1004,2025-01-04,Quantum Repair,Soporte Técnico,Ingresos,CRC,150.66,19.59,170.25,Efectivo,Pendiente
+F-1005,2025-01-06,Café Central,Soporte Técnico,Ingresos,CRC,362.14,47.08,409.22,Efectivo,Pagada
+F-1006,2025-01-07,Luna Boutique,Servicio Mensual,Ingresos,CRC,484.26,62.95,547.21,SINPE,Pagada
+F-1000,2025-01-09,Delta Logistics,Servicio Mensual,Ingresos,CRC,498.48,64.8,563.28,Transferencia,Pendiente
+F-1002,2025-01-09,Innova Studio,Soporte Técnico,Ingresos,CRC,186.13,24.2,210.33,SINPE,Pagada
+F-1010,2025-01-13,TropiFood,Proyecto,Ingresos,CRC,3306.12,429.8,3735.92,Efectivo,Pendiente
+F-1009,2025-01-19,Luna Boutique,Implementación,Ingresos,CRC,1404.21,182.55,1586.76,Transferencia,Pagada
+F-1008,2025-01-20,Delta Logistics,Capacitación,Ingresos,CRC,438.44,57.0,495.44,Tarjeta,Pagada
+F-1011,2025-01-25,Innova Studio,Implementación,Ingresos,CRC,1421.54,184.8,1606.34,Transferencia,Pagada
+F-1017,2025-02-02,Café Central,Servicio Mensual,Ingresos,CRC,598.61,77.82,676.43,Tarjeta,Pagada
+F-1013,2025-02-04,Alfa Comercial,Soporte Técnico,Ingresos,CRC,183.79,23.89,207.68,Efectivo,Pagada
+F-1012,2025-02-04,Delta Logistics,Servicio Mensual,Ingresos,CRC,577.87,75.12,652.99,Efectivo,Pagada
+F-1016,2025-02-07,Quantum Repair,Soporte Técnico,Ingresos,CRC,185.8,24.15,209.95,Tarjeta,Pagada
+F-1018,2025-02-07,Luna Boutique,Servicio Mensual,Ingresos,CRC,422.36,54.91,477.27,Efectivo,Pagada
+F-1014,2025-02-08,Innova Studio,Servicio Mensual,Ingresos,CRC,378.01,49.14,427.15,Tarjeta,Pagada
+F-1015,2025-02-09,Hotel Brisa,Soporte Técnico,Ingresos,CRC,344.1,44.73,388.83,Efectivo,Pagada
+F-1019,2025-02-09,Beta Services,Servicio Mensual,Ingresos,CRC,531.7,69.12,600.82,Transferencia,Pagada
+F-1024,2025-02-09,Hotel Brisa,Implementación,Ingresos,CRC,1653.61,214.97,1868.58,Transferencia,Pagada
+F-1025,2025-02-10,Pura Vida Tours,Proyecto,Ingresos,CRC,3427.25,445.54,3872.79,Efectivo,Pendiente
+F-1026,2025-02-13,Río Verde,Capacitación,Ingresos,CRC,480.77,62.5,543.27,Tarjeta,Pagada
+F-1022,2025-02-14,Quantum Repair,Implementación,Ingresos,CRC,1048.7,136.33,1185.03,Transferencia,Pendiente
+F-1023,2025-02-18,TropiFood,Capacitación,Ingresos,CRC,191.1,24.84,215.94,SINPE,Pagada
+F-1020,2025-02-18,Innova Studio,Implementación,Ingresos,CRC,952.2,123.79,1075.99,Transferencia,Pendiente
+F-1021,2025-02-24,Innova Studio,Implementación,Ingresos,CRC,1209.22,157.2,1366.42,SINPE,Pendiente
+F-1030,2025-03-01,Hotel Brisa,Servicio Mensual,Ingresos,CRC,541.9,70.45,612.35,Transferencia,Pagada
+F-1031,2025-03-01,Quantum Repair,Soporte Técnico,Ingresos,CRC,141.26,18.36,159.62,Tarjeta,Pagada
+F-1029,2025-03-04,Innova Studio,Servicio Mensual,Ingresos,CRC,405.09,52.66,457.75,Tarjeta,Pagada
+F-1028,2025-03-06,Alfa Comercial,Soporte Técnico,Ingresos,CRC,389.88,50.68,440.56,Efectivo,Pagada
+F-1034,2025-03-06,Beta Services,Soporte Técnico,Ingresos,CRC,243.33,31.63,274.96,Transferencia,Pagada
+F-1033,2025-03-08,Luna Boutique,Soporte Técnico,Ingresos,CRC,177.12,23.03,200.15,Transferencia,Pagada
+F-1032,2025-03-08,Café Central,Servicio Mensual,Ingresos,CRC,479.52,62.34,541.86,Efectivo,Pagada
+F-1027,2025-03-09,Delta Logistics,Servicio Mensual,Ingresos,CRC,543.79,70.69,614.48,Efectivo,Pagada
+F-1036,2025-03-14,Grupo Horizonte,Proyecto,Ingresos,CRC,2380.42,309.45,2689.87,SINPE,Pagada
+F-1037,2025-03-15,Órbita Media,Implementación,Ingresos,CRC,1131.76,147.13,1278.89,Transferencia,Pagada
+F-1035,2025-03-20,Beta Services,Proyecto,Ingresos,CRC,2019.7,262.56,2282.26,Tarjeta,Pagada
+F-1038,2025-04-01,Delta Logistics,Servicio Mensual,Ingresos,CRC,689.61,89.65,779.26,Tarjeta,Pagada
+F-1043,2025-04-01,Café Central,Servicio Mensual,Ingresos,CRC,535.84,69.66,605.5,Tarjeta,Pendiente
+F-1040,2025-04-03,Innova Studio,Soporte Técnico,Ingresos,CRC,130.3,16.94,147.24,Efectivo,Pagada
+F-1045,2025-04-04,Beta Services,Soporte Técnico,Ingresos,CRC,168.44,21.9,190.34,Tarjeta,Pagada
+F-1042,2025-04-05,Quantum Repair,Servicio Mensual,Ingresos,CRC,689.5,89.64,779.14,Transferencia,Pagada
+F-1039,2025-04-08,Alfa Comercial,Soporte Técnico,Ingresos,CRC,198.85,25.85,224.7,Efectivo,Pagada
+F-1041,2025-04-08,Hotel Brisa,Soporte Técnico,Ingresos,CRC,266.65,34.66,301.31,Efectivo,Pagada
+F-1044,2025-04-09,Luna Boutique,Servicio Mensual,Ingresos,CRC,642.6,83.54,726.14,Transferencia,Pagada
+F-1046,2025-04-10,TropiFood,Capacitación,Ingresos,CRC,599.08,77.88,676.96,SINPE,Pagada
+F-1047,2025-04-14,Innova Studio,Proyecto,Ingresos,CRC,3524.51,458.19,3982.7,Efectivo,Pendiente
+F-1048,2025-04-17,Eco Market,Capacitación,Ingresos,CRC,389.04,50.58,439.62,Transferencia,Pagada
+F-1049,2025-05-01,Delta Logistics,Soporte Técnico,Ingresos,CRC,330.86,43.01,373.87,Transferencia,Pendiente
+F-1056,2025-05-01,Beta Services,Servicio Mensual,Ingresos,CRC,555.86,72.26,628.12,SINPE,Pendiente
+F-1053,2025-05-02,Quantum Repair,Servicio Mensual,Ingresos,CRC,408.08,53.05,461.13,Transferencia,Pagada
+F-1054,2025-05-03,Café Central,Soporte Técnico,Ingresos,CRC,220.89,28.72,249.61,Tarjeta,Pagada
+F-1050,2025-05-04,Alfa Comercial,Soporte Técnico,Ingresos,CRC,172.52,22.43,194.95,SINPE,Pagada
+F-1051,2025-05-04,Innova Studio,Soporte Técnico,Ingresos,CRC,221.94,28.85,250.79,Efectivo,Pagada
+F-1055,2025-05-04,Luna Boutique,Soporte Técnico,Ingresos,CRC,293.35,38.14,331.49,SINPE,Pagada
+F-1052,2025-05-05,Hotel Brisa,Servicio Mensual,Ingresos,CRC,569.28,74.01,643.29,SINPE,Pagada
+F-1058,2025-05-08,Río Verde,Implementación,Ingresos,CRC,745.52,96.92,842.44,Tarjeta,Pagada
+F-1059,2025-05-09,Río Verde,Capacitación,Ingresos,CRC,552.99,71.89,624.88,Tarjeta,Pendiente
+F-1061,2025-05-14,Luna Boutique,Proyecto,Ingresos,CRC,1861.32,241.97,2103.29,Efectivo,Pendiente
+F-1057,2025-05-16,Eco Market,Implementación,Ingresos,CRC,1608.64,209.12,1817.76,Efectivo,Pagada
+F-1060,2025-05-17,Beta Services,Capacitación,Ingresos,CRC,747.81,97.22,845.03,Transferencia,Pagada
+F-1065,2025-06-01,Hotel Brisa,Soporte Técnico,Ingresos,CRC,201.67,26.22,227.89,Efectivo,Pagada
+F-1069,2025-06-02,Beta Services,Soporte Técnico,Ingresos,CRC,187.46,24.37,211.83,SINPE,Pendiente
+F-1063,2025-06-03,Alfa Comercial,Soporte Técnico,Ingresos,CRC,137.63,17.89,155.52,SINPE,Pagada
+F-1066,2025-06-04,Quantum Repair,Servicio Mensual,Ingresos,CRC,311.86,40.54,352.4,Tarjeta,Pagada
+F-1067,2025-06-05,Café Central,Servicio Mensual,Ingresos,CRC,688.77,89.54,778.31,SINPE,Pagada
+F-1064,2025-06-07,Innova Studio,Servicio Mensual,Ingresos,CRC,409.02,53.17,462.19,Transferencia,Pagada
+F-1068,2025-06-09,Luna Boutique,Soporte Técnico,Ingresos,CRC,349.76,45.47,395.23,SINPE,Pagada
+F-1062,2025-06-10,Delta Logistics,Servicio Mensual,Ingresos,CRC,672.34,87.4,759.74,Tarjeta,Pagada
+F-1074,2025-06-17,Delta Logistics,Proyecto,Ingresos,CRC,2074.29,269.66,2343.95,Efectivo,Pagada
+F-1070,2025-06-19,Norte Constructora,Proyecto,Ingresos,CRC,3774.83,490.73,4265.56,Transferencia,Pagada
+F-1073,2025-06-21,Luna Boutique,Implementación,Ingresos,CRC,1877.74,244.11,2121.85,SINPE,Pagada
+F-1075,2025-06-25,Jade Imports,Implementación,Ingresos,CRC,896.62,116.56,1013.18,Efectivo,Pagada
+F-1072,2025-06-25,Quantum Repair,Proyecto,Ingresos,CRC,3536.05,459.69,3995.74,Tarjeta,Pagada
+F-1071,2025-06-26,Mar Azul,Implementación,Ingresos,CRC,978.12,127.16,1105.28,Transferencia,Pagada
+F-1076,2025-06-26,Faro Tech,Capacitación,Ingresos,CRC,444.38,57.77,502.15,SINPE,Pagada
+F-1083,2025-07-01,Luna Boutique,Servicio Mensual,Ingresos,CRC,568.02,73.84,641.86,Tarjeta,Pagada
+F-1080,2025-07-04,Hotel Brisa,Servicio Mensual,Ingresos,CRC,334.52,43.49,378.01,Transferencia,Pagada
+F-1077,2025-07-05,Delta Logistics,Servicio Mensual,Ingresos,CRC,439.06,57.08,496.14,SINPE,Pagada
+F-1079,2025-07-05,Innova Studio,Soporte Técnico,Ingresos,CRC,148.02,19.24,167.26,Tarjeta,Pagada
+F-1082,2025-07-07,Café Central,Soporte Técnico,Ingresos,CRC,239.9,31.19,271.09,Tarjeta,Pagada
+F-1078,2025-07-08,Alfa Comercial,Servicio Mensual,Ingresos,CRC,469.13,60.99,530.12,Tarjeta,Pagada
+F-1081,2025-07-08,Quantum Repair,Servicio Mensual,Ingresos,CRC,448.5,58.3,506.8,Tarjeta,Pagada
+F-1084,2025-07-09,Beta Services,Soporte Técnico,Ingresos,CRC,135.07,17.56,152.63,Tarjeta,Pagada
+F-1085,2025-07-12,Órbita Media,Capacitación,Ingresos,CRC,560.52,72.87,633.39,SINPE,Pagada
+F-1087,2025-07-22,Pura Vida Tours,Capacitación,Ingresos,CRC,608.51,79.11,687.62,SINPE,Pagada
+F-1086,2025-07-24,Órbita Media,Capacitación,Ingresos,CRC,653.42,84.94,738.36,Tarjeta,Pagada
+F-1090,2025-08-02,Innova Studio,Servicio Mensual,Ingresos,CRC,335.81,43.66,379.47,Efectivo,Pagada
+F-1091,2025-08-04,Hotel Brisa,Servicio Mensual,Ingresos,CRC,433.5,56.36,489.86,SINPE,Pagada
+F-1089,2025-08-05,Alfa Comercial,Servicio Mensual,Ingresos,CRC,380.53,49.47,430.0,SINPE,Pagada
+F-1094,2025-08-06,Luna Boutique,Soporte Técnico,Ingresos,CRC,346.04,44.99,391.03,Efectivo,Pagada
+F-1092,2025-08-07,Quantum Repair,Servicio Mensual,Ingresos,CRC,356.53,46.35,402.88,Efectivo,Pagada
+F-1088,2025-08-09,Delta Logistics,Soporte Técnico,Ingresos,CRC,308.02,40.04,348.06,SINPE,Pagada
+F-1095,2025-08-09,Beta Services,Servicio Mensual,Ingresos,CRC,460.64,59.88,520.52,SINPE,Pagada
+F-1093,2025-08-10,Café Central,Servicio Mensual,Ingresos,CRC,596.99,77.61,674.6,Efectivo,Pagada
+F-1097,2025-08-12,Órbita Media,Proyecto,Ingresos,CRC,2662.61,346.14,3008.75,Transferencia,Pagada
+F-1096,2025-08-18,Mar Azul,Proyecto,Ingresos,CRC,3141.17,408.35,3549.52,Tarjeta,Pagada
+F-1098,2025-08-21,Café Central,Implementación,Ingresos,CRC,1640.22,213.23,1853.45,SINPE,Pendiente
+F-1101,2025-09-02,Innova Studio,Soporte Técnico,Ingresos,CRC,140.91,18.32,159.23,Transferencia,Pagada
+F-1106,2025-09-03,Beta Services,Soporte Técnico,Ingresos,CRC,170.72,22.19,192.91,Transferencia,Pagada
+F-1103,2025-09-04,Quantum Repair,Servicio Mensual,Ingresos,CRC,661.38,85.98,747.36,Tarjeta,Pagada
+F-1105,2025-09-05,Luna Boutique,Soporte Técnico,Ingresos,CRC,190.78,24.8,215.58,Transferencia,Pagada
+F-1102,2025-09-06,Hotel Brisa,Servicio Mensual,Ingresos,CRC,583.02,75.79,658.81,Transferencia,Pagada
+F-1100,2025-09-07,Alfa Comercial,Soporte Técnico,Ingresos,CRC,387.08,50.32,437.4,Efectivo,Pagada
+F-1099,2025-09-07,Delta Logistics,Soporte Técnico,Ingresos,CRC,205.52,26.72,232.24,SINPE,Pagada
+F-1104,2025-09-08,Café Central,Servicio Mensual,Ingresos,CRC,547.31,71.15,618.46,Tarjeta,Pagada
+F-1113,2025-09-15,Krypton Gym,Implementación,Ingresos,CRC,1046.88,136.09,1182.97,Efectivo,Pagada
+F-1108,2025-09-17,Delta Logistics,Proyecto,Ingresos,CRC,3227.12,419.53,3646.65,Transferencia,Pendiente
+F-1107,2025-09-20,Mar Azul,Proyecto,Ingresos,CRC,1741.03,226.33,1967.36,Tarjeta,Pagada
+F-1110,2025-09-21,Alfa Comercial,Capacitación,Ingresos,CRC,268.98,34.97,303.95,Efectivo,Pagada
+F-1111,2025-09-21,Eco Market,Implementación,Ingresos,CRC,1658.22,215.57,1873.79,SINPE,Pagada
+F-1112,2025-09-25,TropiFood,Capacitación,Ingresos,CRC,498.38,64.79,563.17,SINPE,Pagada
+F-1109,2025-09-25,Luna Boutique,Capacitación,Ingresos,CRC,623.92,81.11,705.03,SINPE,Pendiente
+F-1115,2025-10-03,Alfa Comercial,Soporte Técnico,Ingresos,CRC,205.67,26.74,232.41,SINPE,Pagada
+F-1117,2025-10-07,Hotel Brisa,Soporte Técnico,Ingresos,CRC,320.94,41.72,362.66,Tarjeta,Pagada
+F-1119,2025-10-07,Café Central,Servicio Mensual,Ingresos,CRC,440.49,57.26,497.75,SINPE,Pagada
+F-1121,2025-10-08,Beta Services,Soporte Técnico,Ingresos,CRC,237.43,30.87,268.3,Tarjeta,Pagada
+F-1118,2025-10-08,Quantum Repair,Soporte Técnico,Ingresos,CRC,400.83,52.11,452.94,Transferencia,Pagada
+F-1120,2025-10-09,Luna Boutique,Soporte Técnico,Ingresos,CRC,277.37,36.06,313.43,SINPE,Pagada
+F-1114,2025-10-10,Delta Logistics,Soporte Técnico,Ingresos,CRC,247.43,32.17,279.6,Efectivo,Pagada
+F-1116,2025-10-10,Innova Studio,Soporte Técnico,Ingresos,CRC,321.15,41.75,362.9,Tarjeta,Pendiente
+F-1122,2025-10-11,Krypton Gym,Proyecto,Ingresos,CRC,2988.55,388.51,3377.06,Tarjeta,Pagada
+F-1125,2025-10-12,Río Verde,Capacitación,Ingresos,CRC,230.66,29.99,260.65,SINPE,Pendiente
+F-1123,2025-10-14,Grupo Horizonte,Proyecto,Ingresos,CRC,2797.6,363.69,3161.29,SINPE,Pagada
+F-1124,2025-10-14,Delta Logistics,Capacitación,Ingresos,CRC,346.83,45.09,391.92,Transferencia,Pendiente
+F-1129,2025-11-02,Hotel Brisa,Servicio Mensual,Ingresos,CRC,376.48,48.94,425.42,SINPE,Pendiente
+F-1126,2025-11-03,Delta Logistics,Soporte Técnico,Ingresos,CRC,168.87,21.95,190.82,Transferencia,Pagada
+F-1130,2025-11-04,Quantum Repair,Servicio Mensual,Ingresos,CRC,544.87,70.83,615.7,Efectivo,Pagada
+F-1128,2025-11-05,Innova Studio,Soporte Técnico,Ingresos,CRC,172.73,22.45,195.18,Transferencia,Pagada
+F-1135,2025-11-08,Faro Tech,Capacitación,Ingresos,CRC,489.2,63.6,552.8,SINPE,Pagada
+F-1132,2025-11-08,Luna Boutique,Soporte Técnico,Ingresos,CRC,423.42,55.04,478.46,Efectivo,Pagada
+F-1127,2025-11-08,Alfa Comercial,Soporte Técnico,Ingresos,CRC,282.4,36.71,319.11,Tarjeta,Pagada
+F-1133,2025-11-10,Beta Services,Servicio Mensual,Ingresos,CRC,566.23,73.61,639.84,Transferencia,Pagada
+F-1131,2025-11-10,Café Central,Servicio Mensual,Ingresos,CRC,635.05,82.56,717.61,Efectivo,Pagada
+F-1136,2025-11-15,Beta Services,Capacitación,Ingresos,CRC,652.92,84.88,737.8,Efectivo,Pagada
+F-1137,2025-11-15,Café Central,Capacitación,Ingresos,CRC,704.55,91.59,796.14,Tarjeta,Pagada
+F-1134,2025-11-16,Grupo Horizonte,Proyecto,Ingresos,CRC,1308.07,170.05,1478.12,Transferencia,Pendiente
+F-1143,2025-12-01,Café Central,Servicio Mensual,Ingresos,CRC,364.7,47.41,412.11,Transferencia,Pagada
+F-1139,2025-12-03,Alfa Comercial,Servicio Mensual,Ingresos,CRC,302.07,39.27,341.34,SINPE,Pagada
+F-1144,2025-12-05,Luna Boutique,Servicio Mensual,Ingresos,CRC,562.35,73.11,635.46,Tarjeta,Pagada
+F-1138,2025-12-07,Delta Logistics,Servicio Mensual,Ingresos,CRC,481.49,62.59,544.08,Tarjeta,Pagada
+F-1141,2025-12-07,Hotel Brisa,Soporte Técnico,Ingresos,CRC,270.14,35.12,305.26,Efectivo,Pagada
+F-1145,2025-12-08,Beta Services,Soporte Técnico,Ingresos,CRC,174.45,22.68,197.13,Efectivo,Pagada
+F-1148,2025-12-09,Río Verde,Capacitación,Ingresos,CRC,230.19,29.92,260.11,Transferencia,Pagada
+F-1140,2025-12-10,Innova Studio,Soporte Técnico,Ingresos,CRC,251.75,32.73,284.48,Efectivo,Pagada
+F-1142,2025-12-10,Quantum Repair,Servicio Mensual,Ingresos,CRC,609.09,79.18,688.27,SINPE,Pagada
+F-1150,2025-12-14,Beta Services,Proyecto,Ingresos,CRC,2093.87,272.2,2366.07,Efectivo,Pagada
+F-1151,2025-12-14,Beta Services,Capacitación,Ingresos,CRC,493.06,64.1,557.16,Efectivo,Pagada
+F-1147,2025-12-18,Faro Tech,Capacitación,Ingresos,CRC,575.39,74.8,650.19,Efectivo,Pagada
+F-1146,2025-12-23,Café Central,Capacitación,Ingresos,CRC,412.76,53.66,466.42,Transferencia,Pagada
+F-1149,2025-12-24,Mar Azul,Implementación,Ingresos,CRC,1389.19,180.59,1569.78,Efectivo,Pagada

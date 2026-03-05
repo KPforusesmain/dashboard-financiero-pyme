@@ -1,9 +1,37 @@
 entidad,entidad_id
-Cliente A,1
-Cliente B,2
-Cliente C,3
-Cliente D,4
-Cliente E,5
-Proveedor Internet,6
-Proveedor Renta,7
-Proveedor Software,8
+AWS/Cloud,1
+Agencia Marketing,2
+Alfa Comercial,3
+Banco Comisiones,4
+Beta Services,5
+Café Central,6
+Contador Externo,7
+Delta Logistics,8
+Eco Market,9
+Faro Tech,10
+Ferretería San José,11
+Google Workspace,12
+Grupo Horizonte,13
+Hotel Brisa,14
+ICE Telecom,15
+Innova Studio,16
+Jade Imports,17
+Krypton Gym,18
+Luna Boutique,19
+Mar Azul,20
+Microsoft 365,21
+Norte Constructora,22
+Papelería Centro,23
+Proveedor Agua,24
+Proveedor Combustible,25
+Proveedor Electricidad,26
+Proveedor Hosting,27
+Proveedor Renta,28
+Proveedor Transporte,29
+Pura Vida Tours,30
+Quantum Repair,31
+Río Verde,32
+Seguros PYME,33
+Servicios Limpieza,34
+TropiFood,35
+Órbita Media,36

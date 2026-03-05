@@ -1,5 +1,12 @@
 tipo,categoria,categoria_id
 Gasto,Alquiler,1
-Gasto,Servicios,2
-Gasto,Software,3
-Ingreso,Ingresos,4
+Gasto,Comisiones Bancarias,2
+Gasto,Honorarios,3
+Gasto,Mantenimiento,4
+Gasto,Marketing,5
+Gasto,Papelería,6
+Gasto,Seguros,7
+Gasto,Servicios,8
+Gasto,Software,9
+Gasto,Transporte,10
+Ingreso,Ingresos,11

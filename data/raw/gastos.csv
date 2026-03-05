@@ -1,19 +1,289 @@
-fecha,proveedor,concepto,categoria,monto
-2025-01-08,Proveedor Internet,Internet,Servicios,65
-2025-01-12,Proveedor Software,Suscripción SaaS,Software,120
-2025-01-25,Proveedor Renta,Alquiler,Alquiler,450
-2025-02-10,Proveedor Internet,Internet,Servicios,65
-2025-02-12,Proveedor Software,Suscripción SaaS,Software,120
-2025-02-25,Proveedor Renta,Alquiler,Alquiler,450
-2025-03-05,Proveedor Internet,Internet,Servicios,65
-2025-03-12,Proveedor Software,Suscripción SaaS,Software,120
-2025-03-25,Proveedor Renta,Alquiler,Alquiler,450
-2025-04-10,Proveedor Internet,Internet,Servicios,65
-2025-04-12,Proveedor Software,Suscripción SaaS,Software,120
-2025-04-25,Proveedor Renta,Alquiler,Alquiler,450
-2025-05-10,Proveedor Internet,Internet,Servicios,65
-2025-05-12,Proveedor Software,Suscripción SaaS,Software,120
-2025-05-25,Proveedor Renta,Alquiler,Alquiler,450
-2025-06-10,Proveedor Internet,Internet,Servicios,65
-2025-06-12,Proveedor Software,Suscripción SaaS,Software,120
-2025-06-25,Proveedor Renta,Alquiler,Alquiler,450
+expense_id,fecha,proveedor,concepto,categoria,moneda,monto,metodo_pago
+G-5001,2025-01-03,ICE Telecom,Pago Servicios,Servicios,CRC,68.31,Transferencia
+G-5005,2025-01-05,Seguros PYME,Pago Seguros,Seguros,CRC,70.32,Tarjeta
+G-5002,2025-01-07,Proveedor Electricidad,Pago Servicios,Servicios,CRC,62.12,Transferencia
+G-5000,2025-01-08,Proveedor Renta,Pago Alquiler,Alquiler,CRC,463.71,Transferencia
+G-5003,2025-01-08,Google Workspace,Pago Software,Software,CRC,57.88,Transferencia
+G-5004,2025-01-08,Microsoft 365,Pago Software,Software,CRC,66.63,Tarjeta
+G-5006,2025-01-08,Contador Externo,Pago Honorarios,Honorarios,CRC,183.37,Transferencia
+G-5015,2025-01-08,Microsoft 365,Gasto Honorarios,Honorarios,CRC,137.18,Efectivo
+G-5014,2025-01-09,Proveedor Hosting,Gasto Alquiler,Alquiler,CRC,131.55,SINPE
+G-5020,2025-01-12,Papelería Centro,Gasto Transporte,Transporte,CRC,189.73,Efectivo
+G-5017,2025-01-13,Google Workspace,Gasto Honorarios,Honorarios,CRC,92.58,Efectivo
+G-5022,2025-01-15,ICE Telecom,Gasto Alquiler,Alquiler,CRC,201.48,SINPE
+G-5008,2025-01-15,Ferretería San José,Gasto Mantenimiento,Mantenimiento,CRC,234.35,SINPE
+G-5011,2025-01-15,Seguros PYME,Gasto Honorarios,Honorarios,CRC,218.97,Tarjeta
+G-5012,2025-01-18,Seguros PYME,Gasto Marketing,Marketing,CRC,22.39,Efectivo
+G-5016,2025-01-18,ICE Telecom,Gasto Software,Software,CRC,219.28,Tarjeta
+G-5021,2025-01-19,Microsoft 365,Gasto Servicios,Servicios,CRC,51.59,SINPE
+G-5007,2025-01-21,Proveedor Agua,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,7.37,Transferencia
+G-5010,2025-01-22,Proveedor Renta,Gasto Honorarios,Honorarios,CRC,127.27,SINPE
+G-5019,2025-01-22,Contador Externo,Gasto Honorarios,Honorarios,CRC,20.54,Transferencia
+G-5013,2025-01-26,Seguros PYME,Gasto Mantenimiento,Mantenimiento,CRC,200.59,Tarjeta
+G-5018,2025-01-26,Google Workspace,Gasto Papelería,Papelería,CRC,216.52,Efectivo
+G-5009,2025-01-28,ICE Telecom,Gasto Transporte,Transporte,CRC,83.06,Efectivo
+G-5025,2025-02-03,Proveedor Electricidad,Pago Servicios,Servicios,CRC,72.76,Tarjeta
+G-5027,2025-02-04,Microsoft 365,Pago Software,Software,CRC,43.06,Tarjeta
+G-5024,2025-02-04,ICE Telecom,Pago Servicios,Servicios,CRC,84.84,Transferencia
+G-5026,2025-02-04,Google Workspace,Pago Software,Software,CRC,39.91,Transferencia
+G-5033,2025-02-05,Agencia Marketing,Gasto Transporte,Transporte,CRC,244.75,Efectivo
+G-5023,2025-02-06,Proveedor Renta,Pago Alquiler,Alquiler,CRC,554.94,Transferencia
+G-5038,2025-02-07,Servicios Limpieza,Gasto Software,Software,CRC,228.49,SINPE
+G-5028,2025-02-08,Seguros PYME,Pago Seguros,Seguros,CRC,56.7,Transferencia
+G-5029,2025-02-08,Contador Externo,Pago Honorarios,Honorarios,CRC,354.31,Transferencia
+G-5039,2025-02-11,Proveedor Combustible,Gasto Software,Software,CRC,43.45,SINPE
+G-5032,2025-02-12,Proveedor Hosting,Gasto Servicios,Servicios,CRC,102.76,SINPE
+G-5035,2025-02-12,Proveedor Hosting,Gasto Transporte,Transporte,CRC,156.48,SINPE
+G-5040,2025-02-13,Banco Comisiones,Gasto Seguros,Seguros,CRC,209.65,SINPE
+G-5031,2025-02-14,Ferretería San José,Gasto Honorarios,Honorarios,CRC,59.41,Efectivo
+G-5037,2025-02-14,Microsoft 365,Gasto Alquiler,Alquiler,CRC,199.69,Transferencia
+G-5030,2025-02-23,Proveedor Transporte,Gasto Papelería,Papelería,CRC,83.2,Efectivo
+G-5034,2025-02-23,Ferretería San José,Gasto Alquiler,Alquiler,CRC,217.89,Transferencia
+G-5036,2025-02-24,Papelería Centro,Gasto Marketing,Marketing,CRC,71.65,Tarjeta
+G-5043,2025-03-02,Proveedor Electricidad,Pago Servicios,Servicios,CRC,68.3,Transferencia
+G-5045,2025-03-02,Microsoft 365,Pago Software,Software,CRC,59.53,Transferencia
+G-5063,2025-03-05,ICE Telecom,Gasto Software,Software,CRC,97.26,Tarjeta
+G-5046,2025-03-05,Seguros PYME,Pago Seguros,Seguros,CRC,80.61,Tarjeta
+G-5047,2025-03-06,Contador Externo,Pago Honorarios,Honorarios,CRC,294.94,Tarjeta
+G-5042,2025-03-06,ICE Telecom,Pago Servicios,Servicios,CRC,105.32,Tarjeta
+G-5044,2025-03-07,Google Workspace,Pago Software,Software,CRC,58.69,Tarjeta
+G-5041,2025-03-08,Proveedor Renta,Pago Alquiler,Alquiler,CRC,768.26,Tarjeta
+G-5048,2025-03-08,Seguros PYME,Gasto Papelería,Papelería,CRC,172.61,Efectivo
+G-5065,2025-03-08,Proveedor Combustible,Gasto Seguros,Seguros,CRC,189.47,Efectivo
+G-5064,2025-03-10,Contador Externo,Gasto Alquiler,Alquiler,CRC,75.16,Tarjeta
+G-5060,2025-03-11,Google Workspace,Gasto Seguros,Seguros,CRC,151.56,Tarjeta
+G-5055,2025-03-11,AWS/Cloud,Gasto Papelería,Papelería,CRC,117.53,Tarjeta
+G-5059,2025-03-12,AWS/Cloud,Gasto Papelería,Papelería,CRC,247.34,Tarjeta
+G-5057,2025-03-13,AWS/Cloud,Gasto Mantenimiento,Mantenimiento,CRC,57.17,Transferencia
+G-5062,2025-03-13,Proveedor Renta,Gasto Seguros,Seguros,CRC,202.05,Transferencia
+G-5051,2025-03-14,AWS/Cloud,Gasto Alquiler,Alquiler,CRC,249.03,Transferencia
+G-5053,2025-03-18,Servicios Limpieza,Gasto Seguros,Seguros,CRC,151.79,Tarjeta
+G-5054,2025-03-20,Proveedor Combustible,Gasto Servicios,Servicios,CRC,158.53,SINPE
+G-5066,2025-03-21,Proveedor Transporte,Gasto Papelería,Papelería,CRC,153.29,Efectivo
+G-5052,2025-03-22,Microsoft 365,Gasto Marketing,Marketing,CRC,44.29,Efectivo
+G-5049,2025-03-22,ICE Telecom,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,22.52,Transferencia
+G-5061,2025-03-24,Contador Externo,Gasto Software,Software,CRC,12.67,Tarjeta
+G-5050,2025-03-25,Proveedor Transporte,Gasto Transporte,Transporte,CRC,109.17,Tarjeta
+G-5056,2025-03-26,Servicios Limpieza,Gasto Servicios,Servicios,CRC,99.43,SINPE
+G-5058,2025-03-26,Proveedor Transporte,Gasto Servicios,Servicios,CRC,62.48,Transferencia
+G-5069,2025-04-01,Proveedor Electricidad,Pago Servicios,Servicios,CRC,179.82,Tarjeta
+G-5073,2025-04-03,Contador Externo,Pago Honorarios,Honorarios,CRC,191.5,Tarjeta
+G-5067,2025-04-04,Proveedor Renta,Pago Alquiler,Alquiler,CRC,760.35,Transferencia
+G-5068,2025-04-05,ICE Telecom,Pago Servicios,Servicios,CRC,79.35,Transferencia
+G-5087,2025-04-05,Contador Externo,Gasto Papelería,Papelería,CRC,55.17,Tarjeta
+G-5072,2025-04-06,Seguros PYME,Pago Seguros,Seguros,CRC,86.71,Transferencia
+G-5070,2025-04-07,Google Workspace,Pago Software,Software,CRC,47.44,Tarjeta
+G-5079,2025-04-07,Google Workspace,Gasto Servicios,Servicios,CRC,34.19,Transferencia
+G-5071,2025-04-08,Microsoft 365,Pago Software,Software,CRC,23.67,Transferencia
+G-5088,2025-04-09,Seguros PYME,Gasto Servicios,Servicios,CRC,188.35,Transferencia
+G-5083,2025-04-09,Banco Comisiones,Gasto Marketing,Marketing,CRC,301.52,Transferencia
+G-5086,2025-04-10,Ferretería San José,Gasto Alquiler,Alquiler,CRC,77.04,SINPE
+G-5089,2025-04-11,Google Workspace,Gasto Seguros,Seguros,CRC,101.53,Efectivo
+G-5076,2025-04-12,Proveedor Combustible,Gasto Honorarios,Honorarios,CRC,110.49,Efectivo
+G-5084,2025-04-16,Servicios Limpieza,Gasto Seguros,Seguros,CRC,39.34,SINPE
+G-5078,2025-04-16,Contador Externo,Gasto Transporte,Transporte,CRC,238.96,Efectivo
+G-5081,2025-04-16,Microsoft 365,Gasto Mantenimiento,Mantenimiento,CRC,219.92,Efectivo
+G-5074,2025-04-19,Banco Comisiones,Gasto Transporte,Transporte,CRC,132.32,Efectivo
+G-5080,2025-04-22,Servicios Limpieza,Gasto Software,Software,CRC,26.28,SINPE
+G-5085,2025-04-22,Papelería Centro,Gasto Mantenimiento,Mantenimiento,CRC,243.94,Transferencia
+G-5082,2025-04-24,AWS/Cloud,Gasto Transporte,Transporte,CRC,86.36,Transferencia
+G-5075,2025-04-25,Microsoft 365,Gasto Servicios,Servicios,CRC,166.92,Tarjeta
+G-5077,2025-04-28,Seguros PYME,Gasto Mantenimiento,Mantenimiento,CRC,34.63,Efectivo
+G-5092,2025-05-01,Proveedor Electricidad,Pago Servicios,Servicios,CRC,70.23,Transferencia
+G-5093,2025-05-02,Google Workspace,Pago Software,Software,CRC,30.88,Tarjeta
+G-5095,2025-05-05,Seguros PYME,Pago Seguros,Seguros,CRC,53.32,Transferencia
+G-5096,2025-05-06,Contador Externo,Pago Honorarios,Honorarios,CRC,231.78,Tarjeta
+G-5090,2025-05-06,Proveedor Renta,Pago Alquiler,Alquiler,CRC,476.67,Tarjeta
+G-5091,2025-05-06,ICE Telecom,Pago Servicios,Servicios,CRC,103.26,Transferencia
+G-5098,2025-05-06,Seguros PYME,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,12.65,Tarjeta
+G-5094,2025-05-08,Microsoft 365,Pago Software,Software,CRC,50.35,Tarjeta
+G-5113,2025-05-09,Contador Externo,Gasto Papelería,Papelería,CRC,116.66,Efectivo
+G-5100,2025-05-10,Proveedor Hosting,Gasto Mantenimiento,Mantenimiento,CRC,42.75,Tarjeta
+G-5108,2025-05-10,Papelería Centro,Gasto Papelería,Papelería,CRC,30.18,Transferencia
+G-5109,2025-05-11,Banco Comisiones,Gasto Seguros,Seguros,CRC,227.61,SINPE
+G-5106,2025-05-12,Proveedor Combustible,Gasto Servicios,Servicios,CRC,115.69,Efectivo
+G-5110,2025-05-12,Servicios Limpieza,Gasto Software,Software,CRC,36.47,SINPE
+G-5114,2025-05-13,Proveedor Transporte,Gasto Transporte,Transporte,CRC,152.76,SINPE
+G-5116,2025-05-14,AWS/Cloud,Gasto Papelería,Papelería,CRC,30.26,Transferencia
+G-5099,2025-05-14,Proveedor Renta,Gasto Transporte,Transporte,CRC,90.09,Transferencia
+G-5115,2025-05-14,Banco Comisiones,Gasto Servicios,Servicios,CRC,121.89,Transferencia
+G-5104,2025-05-17,Agencia Marketing,Gasto Servicios,Servicios,CRC,16.96,SINPE
+G-5107,2025-05-17,Banco Comisiones,Gasto Servicios,Servicios,CRC,219.18,SINPE
+G-5102,2025-05-18,Seguros PYME,Gasto Alquiler,Alquiler,CRC,16.46,Transferencia
+G-5103,2025-05-18,Contador Externo,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,25.7,Efectivo
+G-5105,2025-05-19,Proveedor Electricidad,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,32.43,Transferencia
+G-5112,2025-05-19,Proveedor Electricidad,Gasto Honorarios,Honorarios,CRC,191.56,Efectivo
+G-5111,2025-05-24,Proveedor Agua,Gasto Software,Software,CRC,48.38,Transferencia
+G-5101,2025-05-26,Banco Comisiones,Gasto Seguros,Seguros,CRC,203.88,Transferencia
+G-5097,2025-05-26,Proveedor Hosting,Gasto Seguros,Seguros,CRC,85.4,Tarjeta
+G-5120,2025-06-01,Google Workspace,Pago Software,Software,CRC,38.02,Tarjeta
+G-5122,2025-06-01,Seguros PYME,Pago Seguros,Seguros,CRC,56.06,Tarjeta
+G-5121,2025-06-02,Microsoft 365,Pago Software,Software,CRC,45.23,Transferencia
+G-5131,2025-06-05,Banco Comisiones,Gasto Papelería,Papelería,CRC,98.3,Tarjeta
+G-5119,2025-06-06,Proveedor Electricidad,Pago Servicios,Servicios,CRC,128.65,Transferencia
+G-5136,2025-06-06,Proveedor Electricidad,Gasto Honorarios,Honorarios,CRC,109.78,Tarjeta
+G-5130,2025-06-07,Proveedor Renta,Gasto Seguros,Seguros,CRC,165.75,Efectivo
+G-5117,2025-06-07,Proveedor Renta,Pago Alquiler,Alquiler,CRC,586.58,Transferencia
+G-5125,2025-06-07,AWS/Cloud,Gasto Papelería,Papelería,CRC,90.47,Efectivo
+G-5118,2025-06-08,ICE Telecom,Pago Servicios,Servicios,CRC,113.18,Transferencia
+G-5123,2025-06-08,Contador Externo,Pago Honorarios,Honorarios,CRC,256.26,Transferencia
+G-5135,2025-06-09,Contador Externo,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,7.94,Tarjeta
+G-5128,2025-06-09,Agencia Marketing,Gasto Mantenimiento,Mantenimiento,CRC,153.62,Transferencia
+G-5133,2025-06-14,Proveedor Renta,Gasto Servicios,Servicios,CRC,212.97,Transferencia
+G-5137,2025-06-14,Proveedor Transporte,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,28.08,Tarjeta
+G-5124,2025-06-17,Servicios Limpieza,Gasto Transporte,Transporte,CRC,109.29,SINPE
+G-5129,2025-06-17,Agencia Marketing,Gasto Seguros,Seguros,CRC,165.15,SINPE
+G-5138,2025-06-20,Papelería Centro,Gasto Transporte,Transporte,CRC,227.15,Tarjeta
+G-5132,2025-06-20,Proveedor Agua,Gasto Papelería,Papelería,CRC,57.7,Tarjeta
+G-5127,2025-06-23,Contador Externo,Gasto Servicios,Servicios,CRC,169.94,SINPE
+G-5134,2025-06-28,Banco Comisiones,Gasto Seguros,Seguros,CRC,222.32,Transferencia
+G-5126,2025-06-28,Agencia Marketing,Gasto Transporte,Transporte,CRC,214.67,Tarjeta
+G-5144,2025-07-02,Seguros PYME,Pago Seguros,Seguros,CRC,59.23,Transferencia
+G-5142,2025-07-03,Google Workspace,Pago Software,Software,CRC,54.92,Transferencia
+G-5145,2025-07-05,Contador Externo,Pago Honorarios,Honorarios,CRC,236.82,Transferencia
+G-5153,2025-07-06,Agencia Marketing,Gasto Servicios,Servicios,CRC,68.75,Efectivo
+G-5139,2025-07-06,Proveedor Renta,Pago Alquiler,Alquiler,CRC,664.19,Tarjeta
+G-5158,2025-07-06,Seguros PYME,Gasto Honorarios,Honorarios,CRC,163.29,SINPE
+G-5141,2025-07-07,Proveedor Electricidad,Pago Servicios,Servicios,CRC,175.61,Transferencia
+G-5157,2025-07-07,Banco Comisiones,Gasto Papelería,Papelería,CRC,238.91,Transferencia
+G-5152,2025-07-08,Banco Comisiones,Gasto Mantenimiento,Mantenimiento,CRC,196.73,Tarjeta
+G-5143,2025-07-08,Microsoft 365,Pago Software,Software,CRC,63.71,Transferencia
+G-5140,2025-07-08,ICE Telecom,Pago Servicios,Servicios,CRC,102.71,Tarjeta
+G-5149,2025-07-09,Microsoft 365,Gasto Papelería,Papelería,CRC,44.75,SINPE
+G-5155,2025-07-12,Banco Comisiones,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,12.32,Transferencia
+G-5151,2025-07-13,Google Workspace,Gasto Alquiler,Alquiler,CRC,63.33,Tarjeta
+G-5161,2025-07-16,Proveedor Renta,Gasto Alquiler,Alquiler,CRC,141.95,Tarjeta
+G-5159,2025-07-16,Ferretería San José,Gasto Alquiler,Alquiler,CRC,199.67,SINPE
+G-5148,2025-07-16,Seguros PYME,Gasto Servicios,Servicios,CRC,65.44,SINPE
+G-5147,2025-07-17,Proveedor Combustible,Gasto Alquiler,Alquiler,CRC,131.48,Tarjeta
+G-5146,2025-07-19,Google Workspace,Gasto Marketing,Marketing,CRC,222.54,Transferencia
+G-5154,2025-07-20,Google Workspace,Gasto Servicios,Servicios,CRC,154.02,Transferencia
+G-5156,2025-07-23,Servicios Limpieza,Gasto Marketing,Marketing,CRC,111.14,Transferencia
+G-5160,2025-07-23,Papelería Centro,Gasto Servicios,Servicios,CRC,186.97,SINPE
+G-5150,2025-07-27,Proveedor Hosting,Gasto Software,Software,CRC,123.65,Transferencia
+G-5165,2025-08-01,Google Workspace,Pago Software,Software,CRC,51.64,Transferencia
+G-5163,2025-08-03,ICE Telecom,Pago Servicios,Servicios,CRC,105.86,Transferencia
+G-5168,2025-08-05,Contador Externo,Pago Honorarios,Honorarios,CRC,212.81,Transferencia
+G-5183,2025-08-05,Papelería Centro,Gasto Servicios,Servicios,CRC,187.09,Efectivo
+G-5166,2025-08-06,Microsoft 365,Pago Software,Software,CRC,66.67,Tarjeta
+G-5179,2025-08-07,AWS/Cloud,Gasto Software,Software,CRC,68.17,SINPE
+G-5172,2025-08-07,Google Workspace,Gasto Mantenimiento,Mantenimiento,CRC,114.48,Tarjeta
+G-5187,2025-08-07,Proveedor Electricidad,Gasto Honorarios,Honorarios,CRC,204.9,SINPE
+G-5167,2025-08-08,Seguros PYME,Pago Seguros,Seguros,CRC,56.53,Transferencia
+G-5162,2025-08-08,Proveedor Renta,Pago Alquiler,Alquiler,CRC,773.09,Tarjeta
+G-5173,2025-08-08,Agencia Marketing,Gasto Papelería,Papelería,CRC,31.06,SINPE
+G-5169,2025-08-08,Contador Externo,Gasto Transporte,Transporte,CRC,202.24,Efectivo
+G-5164,2025-08-08,Proveedor Electricidad,Pago Servicios,Servicios,CRC,54.81,Transferencia
+G-5186,2025-08-09,Proveedor Agua,Gasto Servicios,Servicios,CRC,214.97,Efectivo
+G-5171,2025-08-16,Proveedor Hosting,Gasto Honorarios,Honorarios,CRC,231.99,SINPE
+G-5182,2025-08-16,Proveedor Renta,Gasto Seguros,Seguros,CRC,106.73,SINPE
+G-5177,2025-08-16,Google Workspace,Gasto Mantenimiento,Mantenimiento,CRC,134.11,Tarjeta
+G-5181,2025-08-16,Proveedor Transporte,Gasto Papelería,Papelería,CRC,117.66,Transferencia
+G-5170,2025-08-17,Seguros PYME,Gasto Honorarios,Honorarios,CRC,92.69,Tarjeta
+G-5175,2025-08-19,Proveedor Transporte,Gasto Papelería,Papelería,CRC,22.08,SINPE
+G-5184,2025-08-22,Banco Comisiones,Gasto Mantenimiento,Mantenimiento,CRC,40.03,SINPE
+G-5188,2025-08-22,Servicios Limpieza,Gasto Servicios,Servicios,CRC,141.04,SINPE
+G-5180,2025-08-23,Servicios Limpieza,Gasto Mantenimiento,Mantenimiento,CRC,19.71,Tarjeta
+G-5178,2025-08-24,ICE Telecom,Gasto Software,Software,CRC,173.39,Efectivo
+G-5185,2025-08-24,Proveedor Transporte,Gasto Marketing,Marketing,CRC,79.97,Efectivo
+G-5174,2025-08-24,Agencia Marketing,Gasto Honorarios,Honorarios,CRC,182.8,Tarjeta
+G-5176,2025-08-25,Proveedor Combustible,Gasto Transporte,Transporte,CRC,245.25,Transferencia
+G-5194,2025-09-02,Seguros PYME,Pago Seguros,Seguros,CRC,40.59,Tarjeta
+G-5189,2025-09-03,Proveedor Renta,Pago Alquiler,Alquiler,CRC,676.25,Transferencia
+G-5191,2025-09-04,Proveedor Electricidad,Pago Servicios,Servicios,CRC,152.97,Transferencia
+G-5190,2025-09-06,ICE Telecom,Pago Servicios,Servicios,CRC,83.16,Transferencia
+G-5207,2025-09-07,Agencia Marketing,Gasto Honorarios,Honorarios,CRC,175.89,Tarjeta
+G-5204,2025-09-07,AWS/Cloud,Gasto Alquiler,Alquiler,CRC,22.82,SINPE
+G-5195,2025-09-08,Contador Externo,Pago Honorarios,Honorarios,CRC,256.68,Tarjeta
+G-5212,2025-09-08,Papelería Centro,Gasto Software,Software,CRC,24.04,Efectivo
+G-5193,2025-09-08,Microsoft 365,Pago Software,Software,CRC,60.18,Transferencia
+G-5192,2025-09-08,Google Workspace,Pago Software,Software,CRC,21.05,Tarjeta
+G-5199,2025-09-09,Microsoft 365,Gasto Seguros,Seguros,CRC,84.38,Tarjeta
+G-5213,2025-09-10,Proveedor Combustible,Gasto Marketing,Marketing,CRC,205.61,SINPE
+G-5201,2025-09-11,Google Workspace,Gasto Transporte,Transporte,CRC,163.14,SINPE
+G-5206,2025-09-12,Agencia Marketing,Gasto Honorarios,Honorarios,CRC,203.52,Efectivo
+G-5196,2025-09-15,Google Workspace,Gasto Software,Software,CRC,164.88,Efectivo
+G-5197,2025-09-16,Proveedor Transporte,Gasto Seguros,Seguros,CRC,42.54,Tarjeta
+G-5210,2025-09-16,Seguros PYME,Gasto Software,Software,CRC,134.57,Transferencia
+G-5200,2025-09-16,Contador Externo,Gasto Marketing,Marketing,CRC,237.5,SINPE
+G-5205,2025-09-18,Proveedor Agua,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,3.97,SINPE
+G-5211,2025-09-19,Contador Externo,Gasto Marketing,Marketing,CRC,41.16,Efectivo
+G-5214,2025-09-20,Proveedor Agua,Gasto Software,Software,CRC,249.04,Efectivo
+G-5208,2025-09-20,Proveedor Transporte,Gasto Mantenimiento,Mantenimiento,CRC,122.54,SINPE
+G-5198,2025-09-21,Proveedor Renta,Gasto Mantenimiento,Mantenimiento,CRC,228.75,Transferencia
+G-5202,2025-09-24,Proveedor Renta,Gasto Transporte,Transporte,CRC,138.97,Tarjeta
+G-5203,2025-09-26,Proveedor Renta,Gasto Software,Software,CRC,160.63,SINPE
+G-5209,2025-09-27,Proveedor Renta,Gasto Papelería,Papelería,CRC,88.0,SINPE
+G-5216,2025-10-01,ICE Telecom,Pago Servicios,Servicios,CRC,51.75,Tarjeta
+G-5220,2025-10-05,Seguros PYME,Pago Seguros,Seguros,CRC,80.62,Transferencia
+G-5235,2025-10-06,Proveedor Renta,Gasto Marketing,Marketing,CRC,357.44,Tarjeta
+G-5227,2025-10-06,Banco Comisiones,Gasto Alquiler,Alquiler,CRC,21.26,SINPE
+G-5218,2025-10-06,Google Workspace,Pago Software,Software,CRC,21.95,Tarjeta
+G-5221,2025-10-07,Contador Externo,Pago Honorarios,Honorarios,CRC,154.82,Tarjeta
+G-5217,2025-10-08,Proveedor Electricidad,Pago Servicios,Servicios,CRC,175.67,Transferencia
+G-5219,2025-10-08,Microsoft 365,Pago Software,Software,CRC,49.88,Tarjeta
+G-5215,2025-10-08,Proveedor Renta,Pago Alquiler,Alquiler,CRC,736.47,Tarjeta
+G-5226,2025-10-11,Servicios Limpieza,Gasto Software,Software,CRC,155.39,Efectivo
+G-5241,2025-10-12,Proveedor Hosting,Gasto Marketing,Marketing,CRC,148.03,SINPE
+G-5232,2025-10-14,Proveedor Combustible,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,26.21,Transferencia
+G-5229,2025-10-15,Contador Externo,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,34.7,SINPE
+G-5240,2025-10-15,Proveedor Transporte,Gasto Seguros,Seguros,CRC,142.01,SINPE
+G-5236,2025-10-15,ICE Telecom,Gasto Honorarios,Honorarios,CRC,111.67,Efectivo
+G-5231,2025-10-16,Proveedor Hosting,Gasto Alquiler,Alquiler,CRC,90.84,Transferencia
+G-5222,2025-10-16,Servicios Limpieza,Gasto Mantenimiento,Mantenimiento,CRC,22.77,Transferencia
+G-5239,2025-10-17,Proveedor Hosting,Gasto Seguros,Seguros,CRC,86.67,Tarjeta
+G-5225,2025-10-17,Proveedor Renta,Gasto Servicios,Servicios,CRC,100.82,SINPE
+G-5228,2025-10-19,Proveedor Hosting,Gasto Seguros,Seguros,CRC,47.45,Tarjeta
+G-5234,2025-10-20,AWS/Cloud,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,23.13,Efectivo
+G-5237,2025-10-21,Proveedor Agua,Gasto Mantenimiento,Mantenimiento,CRC,196.44,Efectivo
+G-5238,2025-10-21,AWS/Cloud,Gasto Software,Software,CRC,61.35,SINPE
+G-5230,2025-10-21,Contador Externo,Gasto Seguros,Seguros,CRC,138.7,SINPE
+G-5224,2025-10-22,Banco Comisiones,Gasto Honorarios,Honorarios,CRC,78.57,Transferencia
+G-5223,2025-10-22,Proveedor Agua,Gasto Papelería,Papelería,CRC,80.69,Efectivo
+G-5233,2025-10-25,Proveedor Hosting,Gasto Transporte,Transporte,CRC,198.33,Tarjeta
+G-5242,2025-10-27,Agencia Marketing,Gasto Marketing,Marketing,CRC,343.78,SINPE
+G-5249,2025-11-04,Contador Externo,Pago Honorarios,Honorarios,CRC,133.2,Transferencia
+G-5243,2025-11-05,Proveedor Renta,Pago Alquiler,Alquiler,CRC,523.6,Tarjeta
+G-5245,2025-11-05,Proveedor Electricidad,Pago Servicios,Servicios,CRC,55.47,Transferencia
+G-5248,2025-11-05,Seguros PYME,Pago Seguros,Seguros,CRC,46.67,Transferencia
+G-5251,2025-11-05,Microsoft 365,Gasto Software,Software,CRC,241.56,Tarjeta
+G-5246,2025-11-06,Google Workspace,Pago Software,Software,CRC,56.96,Tarjeta
+G-5244,2025-11-07,ICE Telecom,Pago Servicios,Servicios,CRC,106.38,Transferencia
+G-5247,2025-11-08,Microsoft 365,Pago Software,Software,CRC,30.7,Tarjeta
+G-5250,2025-11-08,Papelería Centro,Gasto Alquiler,Alquiler,CRC,110.37,Efectivo
+G-5268,2025-11-10,Proveedor Transporte,Gasto Transporte,Transporte,CRC,108.49,SINPE
+G-5255,2025-11-10,Proveedor Electricidad,Gasto Mantenimiento,Mantenimiento,CRC,234.27,Transferencia
+G-5256,2025-11-10,Seguros PYME,Gasto Honorarios,Honorarios,CRC,234.91,SINPE
+G-5257,2025-11-14,AWS/Cloud,Gasto Alquiler,Alquiler,CRC,147.17,Transferencia
+G-5263,2025-11-15,Proveedor Combustible,Gasto Seguros,Seguros,CRC,32.64,Transferencia
+G-5269,2025-11-16,Microsoft 365,Gasto Transporte,Transporte,CRC,158.28,Tarjeta
+G-5265,2025-11-17,ICE Telecom,Gasto Transporte,Transporte,CRC,68.05,SINPE
+G-5258,2025-11-19,Contador Externo,Gasto Transporte,Transporte,CRC,247.41,Efectivo
+G-5259,2025-11-19,Proveedor Renta,Gasto Seguros,Seguros,CRC,76.94,Transferencia
+G-5252,2025-11-20,Proveedor Combustible,Gasto Honorarios,Honorarios,CRC,166.83,SINPE
+G-5264,2025-11-20,Proveedor Electricidad,Gasto Software,Software,CRC,89.02,Tarjeta
+G-5266,2025-11-23,Contador Externo,Gasto Transporte,Transporte,CRC,184.05,Transferencia
+G-5262,2025-11-24,Proveedor Agua,Gasto Software,Software,CRC,215.76,Efectivo
+G-5253,2025-11-25,Contador Externo,Gasto Transporte,Transporte,CRC,26.08,Transferencia
+G-5267,2025-11-27,Ferretería San José,Gasto Papelería,Papelería,CRC,68.24,Transferencia
+G-5260,2025-11-28,Contador Externo,Gasto Software,Software,CRC,121.22,SINPE
+G-5254,2025-11-28,Papelería Centro,Gasto Seguros,Seguros,CRC,184.1,Transferencia
+G-5261,2025-11-28,Proveedor Electricidad,Gasto Alquiler,Alquiler,CRC,92.23,SINPE
+G-5275,2025-12-01,Seguros PYME,Pago Seguros,Seguros,CRC,105.45,Transferencia
+G-5274,2025-12-02,Microsoft 365,Pago Software,Software,CRC,65.86,Transferencia
+G-5276,2025-12-03,Contador Externo,Pago Honorarios,Honorarios,CRC,162.78,Tarjeta
+G-5270,2025-12-03,Proveedor Renta,Pago Alquiler,Alquiler,CRC,592.15,Tarjeta
+G-5272,2025-12-04,Proveedor Electricidad,Pago Servicios,Servicios,CRC,149.04,Transferencia
+G-5271,2025-12-06,ICE Telecom,Pago Servicios,Servicios,CRC,76.19,Tarjeta
+G-5273,2025-12-08,Google Workspace,Pago Software,Software,CRC,41.13,Tarjeta
+G-5285,2025-12-10,Servicios Limpieza,Gasto Servicios,Servicios,CRC,248.3,Efectivo
+G-5282,2025-12-14,Proveedor Hosting,Gasto Alquiler,Alquiler,CRC,109.31,Tarjeta
+G-5283,2025-12-17,Proveedor Combustible,Gasto Papelería,Papelería,CRC,118.75,Efectivo
+G-5287,2025-12-19,ICE Telecom,Gasto Transporte,Transporte,CRC,172.29,Efectivo
+G-5277,2025-12-20,Proveedor Agua,Gasto Comisiones Bancarias,Comisiones Bancarias,CRC,19.33,Transferencia
+G-5278,2025-12-21,Proveedor Transporte,Gasto Software,Software,CRC,110.87,Transferencia
+G-5281,2025-12-22,Servicios Limpieza,Gasto Servicios,Servicios,CRC,248.6,Transferencia
+G-5280,2025-12-23,ICE Telecom,Gasto Marketing,Marketing,CRC,29.38,Efectivo
+G-5284,2025-12-26,Seguros PYME,Gasto Servicios,Servicios,CRC,241.47,Tarjeta
+G-5286,2025-12-28,Banco Comisiones,Gasto Software,Software,CRC,244.94,Transferencia
+G-5279,2025-12-28,Proveedor Transporte,Gasto Transporte,Transporte,CRC,17.18,SINPE
