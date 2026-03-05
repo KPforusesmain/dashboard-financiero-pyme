@@ -135,8 +135,15 @@ def main() -> int:
     )
     dim_entidad["entidad_id"] = range(1, len(dim_entidad) + 1)
 
-    # ---- Aging buckets (as_of = max fecha del modelo) ----
-    as_of = max(dim_fecha["fecha"])
+    # ---- Aging buckets (as_of = última fecha disponible) ----
+    as_of = max(
+        fact_mov["fecha"].max(),
+        banco["fecha"].max(),
+        cxc["fecha_emision"].max(),
+        cxc["fecha_vencimiento"].max(),
+    )
+    as_of = pd.to_datetime(as_of)
+
     cxc2 = cxc.copy()
     cxc2["as_of"] = as_of
 
@@ -156,11 +163,9 @@ def main() -> int:
 
     cxc2["bucket"] = cxc2["dias_vencidos"].apply(bucket)
 
-    # Agregar entidad_id (cliente) para relacionar con dim_entidad si quieres
     cxc2["entidad"] = cxc2["cliente"].astype(str).str.strip()
     cxc2 = cxc2.merge(dim_entidad[["entidad", "entidad_id"]], on="entidad", how="left")
 
-    # Tabla final de CxC para Power BI
     cxc_out = cxc2[[
         "invoice_id",
         "fecha_emision",
@@ -176,9 +181,7 @@ def main() -> int:
         "bucket",
         "entidad_id",
     ]].copy()
-
-
-
+    
     # Add IDs to fact
     fact_mov = fact_mov.merge(dim_categoria, on=["tipo", "categoria"], how="left")
     fact_mov = fact_mov.merge(dim_entidad, on=["entidad"], how="left")
@@ -208,7 +211,7 @@ def main() -> int:
     resumen.to_csv(OUT_DIR / "resumen_mensual.csv", index=False)
     cxc_out.to_csv(OUT_DIR / "cxc_aging.csv", index=False)
 
-    print("✅ ETL complete. Files written to:", OUT_DIR)
+    print("ETL complete. Files written to:", OUT_DIR)
     for f in [
         "fact_movimientos.csv",
         "dim_fecha.csv",
