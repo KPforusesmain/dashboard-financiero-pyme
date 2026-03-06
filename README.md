@@ -33,11 +33,11 @@ Un flujo reproducible:
    - `streamlit run src/app.py`
 
 ## KPIs
-- Margen bruto / neto
-- Flujo neto mensual
-- Burn rate y runway (si aplica)
-- Variación MoM
-- (Opcional) Aging de cuentas por cobrar
+- Margen %
+- Flujo Neto (banco)
+- Saldo CxC, % CxC vencido, % CxC 30+ / 90+
+- Concentración Top 3
+- Riesgo Score (0–100) + alerta ejecutiva
 
 ## Roadmap
 - [ ] Dataset ficticio
@@ -47,7 +47,11 @@ Un flujo reproducible:
 - [ ] Demo (GIF)
 
 ## Lecciones aprendidas
-(Se completa al final)
+
+-Control de tipos y locales (fechas/decimales) en Power Query
+-Diseño de KPIs de riesgo con narrativa ejecutiva
+-Modelo en estrella para escalabilidad y performance
 
 ## Licencia
 MIT
+
