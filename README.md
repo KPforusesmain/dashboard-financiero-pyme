@@ -49,9 +49,12 @@ Un flujo reproducible:
 ## Lecciones aprendidas
 
 -Control de tipos y locales (fechas/decimales) en Power Query
+
 -Diseño de KPIs de riesgo con narrativa ejecutiva
+
 -Modelo en estrella para escalabilidad y performance
 
 ## Licencia
 MIT
+
 
