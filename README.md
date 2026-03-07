@@ -12,7 +12,7 @@
 
 ## Tabla de Contenidos
 - [El Desafío PYME](#el-desafío-pyme)
-- [Nuestra Solución](#nuestra-solución)
+- [Mi Solución](#nuestra-solución)
 - [Tecnologías](#tecnologías)
 - [Arquitectura del Proyecto](#arquitectura-del-proyecto)
 - [KPIs Estratégicos](#kpis-estratégicos)
@@ -136,5 +136,6 @@ streamlit run src/app.py
 6. **Lecciones aprendidas:** Valor agregado más allá del código
 7. **Doble opción:** Streamlit y Power BI
 8. **Formato ejecutivo:** Diseñado para comunicar tanto a técnicos como a dueños de negocio
+
 
 
