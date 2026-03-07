@@ -103,7 +103,7 @@ El dashboard está diseñado para responder preguntas clave de negocio:
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tuusuario/dashboard-financiero-pyme.git
+git clone https://github.com/KPforusesmain/dashboard-financiero-pyme.git
 cd dashboard-financiero-pyme
 
 # 2. Crear y activar entorno virtual
@@ -136,4 +136,5 @@ streamlit run src/app.py
 6. **Lecciones aprendidas:** Valor agregado más allá del código
 7. **Doble opción:** Streamlit y Power BI
 8. **Formato ejecutivo:** Diseñado para comunicar tanto a técnicos como a dueños de negocio
+
 
